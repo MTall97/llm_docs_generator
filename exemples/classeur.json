@@ -1,0 +1,131 @@
+{
+ "type": "classeur",
+ "titre": "Budget 2026 des Jardins partagés",
+ "feuilles": [
+  {
+   "nom": "Dépenses",
+   "colonnes": [
+    {
+     "nom": "Poste",
+     "format": "texte"
+    },
+    {
+     "nom": "Prix unitaire",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie",
+     "formule": "{Prix unitaire} * {Quantité}"
+    }
+   ],
+   "lignes": [
+    [
+     "Semences",
+     "2,50",
+     400,
+     null
+    ],
+    [
+     "Outils",
+     35,
+     12,
+     null
+    ],
+    [
+     "Assurance",
+     400,
+     1,
+     null
+    ],
+    [
+     "Eau",
+     0.004,
+     150000,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    },
+    {
+     "colonne": "Quantité",
+     "fonction": "NB"
+    }
+   ],
+   "graphique": {
+    "forme": "barres",
+    "titre": "Dépenses par poste",
+    "etiquettes": "Poste",
+    "valeurs": [
+     "Total"
+    ]
+   }
+  },
+  {
+   "nom": "Adhésions",
+   "colonnes": [
+    {
+     "nom": "Mois",
+     "format": "texte"
+    },
+    {
+     "nom": "Nouveaux",
+     "format": "nombre"
+    },
+    {
+     "nom": "Taux de renouvellement",
+     "format": "pourcentage"
+    },
+    {
+     "nom": "Date de relance",
+     "format": "date"
+    }
+   ],
+   "lignes": [
+    [
+     "Janvier",
+     12,
+     "85 %",
+     "2026-01-31"
+    ],
+    [
+     "Février",
+     8,
+     0.9,
+     "28/02/2026"
+    ],
+    [
+     "Mars",
+     15,
+     78,
+     "2026-03-31"
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Nouveaux",
+     "fonction": "SOMME"
+    },
+    {
+     "colonne": "Taux de renouvellement",
+     "fonction": "MOYENNE"
+    }
+   ],
+   "graphique": {
+    "forme": "courbes",
+    "titre": "Nouveaux adhérents",
+    "etiquettes": "Mois",
+    "valeurs": [
+     "Nouveaux"
+    ]
+   }
+  }
+ ]
+}

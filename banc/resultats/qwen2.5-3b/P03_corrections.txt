@@ -1,0 +1,2 @@
+graphique « Coûts par an » : série 'Offre A' ramenée à 2 valeurs
+graphique « Coûts par an » : série 'Offre B' ramenée à 2 valeurs

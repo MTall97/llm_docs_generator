@@ -1,0 +1,16 @@
+modele,id,sorte,mode,secondes,jetons_sortie,jetons_par_s,json_valide,erreurs_schema,corrections,rendu_ok,recopie_exemple,chiffres_inventes,exemples_inventes,chiffres_repris,mots_hors_source,erreur
+qwen2.5-1.5b,T01,document,texte,52.6,621,11.8,True,,0,True,0,0.0,,0.909,0.159,
+qwen2.5-1.5b,T02,document,texte,20.1,244,12.1,True,,0,True,4,0.0,,,0.55,
+qwen2.5-1.5b,T03,document,texte,36.4,415,11.4,True,,1,True,0,0.05,250,0.692,0.0,
+qwen2.5-1.5b,T04,document,texte,24.2,263,10.9,True,,1,True,3,0.0,,1.0,0.212,
+qwen2.5-1.5b,P01,presentation,texte,18.3,205,11.2,True,,0,True,0,0.0,,0.538,0.0,
+qwen2.5-1.5b,P02,presentation,texte,172.9,2069,12.0,False,"diapositives/2 : {'mise_en_page': 'chiffre_cle', 'titre': '97%', 'chiffre': ""pourcentage d'eau dans les océans"", 'legende': 'sur Terre', 'notes': ""La planète est majoritairement composée d'eau.""} is not valid under an | diapositives/4 : {'mise_en_page': 'chiffre_cle', 'titre': '3%', 'chiffre': ""pour",24,True,0,0.0,,1.0,0.417,
+qwen2.5-1.5b,P03,presentation,texte,18.7,197,10.6,True,,0,True,0,0.0,,0.571,0.167,
+qwen2.5-1.5b,P04,presentation,texte,32.4,365,11.3,True,,3,True,0,0.0,,0.5,0.2,
+qwen2.5-1.5b,C01,classeur,texte,21.5,230,10.7,True,,0,True,4,0.4,1080 ; 1344 ; 324 ; 4320,0.375,0.154,
+qwen2.5-1.5b,C02,classeur,texte,24.7,284,11.5,True,,0,True,2,0.412,1.12 ; 13.5 ; 19.8 ; 2.2 ; 6.6 ; 7.92,0.611,0.111,
+qwen2.5-1.5b,C03,classeur,texte,47.6,669,14.0,True,,0,True,0,0.0,,1.0,0.167,
+qwen2.5-1.5b,S01,document,sujet,104.4,1264,12.1,True,,0,True,0,,,,,
+qwen2.5-1.5b,S02,document,sujet,143.2,1762,12.3,True,,0,True,0,,,,,JSON incomplet (limite de jetons atteinte)
+qwen2.5-1.5b,S03,presentation,sujet,39.2,440,11.2,True,,0,True,0,,,,,
+qwen2.5-1.5b,S04,classeur,sujet,85.2,1018,12.0,True,,1,True,3,,,,,

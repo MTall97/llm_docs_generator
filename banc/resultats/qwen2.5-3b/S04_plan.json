@@ -1,0 +1,21 @@
+{
+ "titre": "Plan d'entraînement de course à pied",
+ "parties": [
+  {
+   "titre": "Semaine 1 - Introduction",
+   "idee": "La semaine 1 vise à familiariser le corps avec les mouvements de course à pied et à équilibrer les entraînements entre cardio, musculation et récupération."
+  },
+  {
+   "titre": "Semaine 2 - Base",
+   "idee": "Cette semaine, l'accent est mis sur la base physique en augmentant progressivement la distance et la vitesse des séances d'entraînement."
+  },
+  {
+   "titre": "Semaine 3 - Intensification",
+   "idee": "La semaine 3 vise à intensifier les efforts avec une progression plus rapide de la distance et de la vitesse, tout en maintenant un bon équilibre entre les différents types d'exercices."
+  },
+  {
+   "titre": "Semaine 4 - Préparation finale",
+   "idee": "La dernière semaine est dédiée à la préparation finale, avec des séances plus courtes mais plus intensives pour améliorer la performance et la récupération."
+  }
+ ]
+}

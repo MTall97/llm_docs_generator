@@ -1,0 +1,35 @@
+{
+ "type": "presentation",
+ "titre": "Pourquoi et comment réduire le gaspillage alimentaire à la cantine",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Pourquoi et comment réduire le gaspillage alimentaire à la cantine"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Titre de la diapositive",
+   "points": [
+    "La cantine est un lieu où les élèves consomment des aliments frais, mais aussi des produits non frais.",
+    "Cela peut conduire à une surconsommation et à un gaspillage alimentaire."
+   ]
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Titre de la diapositive",
+   "points": [
+    "Optimiser l'utilisation des aliments dans la cantine",
+    "Réduire le gaspillage alimentaire",
+    "Pratiques efficaces pour une meilleure gestion des aliments"
+   ]
+  },
+  {
+   "mise_en_page": "titre",
+   "titre": "La mise en place d'un système de gestion des déchets alimentaires peut aider à réduire le gaspillage et à optimiser l'utilisation des aliments."
+  },
+  {
+   "mise_en_page": "titre",
+   "titre": "Titre de la diapositive"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "type": "presentation",
+ "titre": "Enquête de satisfaction des usagers de la médiathèque",
+ "diapositives": [
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Mécontentement sur les horaires",
+   "chiffre": "61%",
+   "legende": "pour 425 personnes"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Les horaires sont le premier sujet de mécontentement",
+   "points": [
+    "61%",
+    "pour 425 personnes"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Pression sur les jeux vidéo",
+   "chiffre": "34%",
+   "legende": "pour 15-25 ans"
+  }
+ ]
+}

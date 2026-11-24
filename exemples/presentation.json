@@ -1,0 +1,105 @@
+{
+ "type": "presentation",
+ "titre": "Jardins partagés : bilan 2025",
+ "sous_titre": "Assemblée générale du 15 mars 2026",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Jardins partagés : bilan 2025",
+   "sous_titre": "Assemblée générale du 15 mars 2026"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "L'année en bref",
+   "points": [
+    "Deux parcelles ouvertes",
+    "148 adhérents",
+    "Partenariat avec trois épiceries solidaires"
+   ],
+   "notes": "Insister sur la croissance."
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Adhérents",
+   "chiffre": "+23 %",
+   "legende": "148 adhérents en 2025 contre 120 en 2024"
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Réussites et difficultés",
+   "gauche": {
+    "titre": "Réussites",
+    "points": [
+     "Récoltes en hausse",
+     "Bénévoles fidèles"
+    ]
+   },
+   "droite": {
+    "titre": "Difficultés",
+    "points": [
+     "Sécheresse en juillet",
+     "Vol d'outils"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Récoltes",
+   "image": {
+    "type": "graphique",
+    "forme": "courbes",
+    "titre": "Récoltes (kg)",
+    "etiquettes": [
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ],
+    "series": [
+     {
+      "nom": "kg",
+      "valeurs": [
+       600,
+       780,
+       950,
+       1200
+      ]
+     }
+    ]
+   },
+   "points": [
+    "Doublement en trois ans",
+    "Été : 43 % du total"
+   ]
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Gouvernance",
+   "image": {
+    "type": "schema",
+    "langage": "graphviz",
+    "code": "digraph { AG -> Bureau -> Commissions }"
+   },
+   "points": [
+    "Bureau élu pour deux ans"
+   ]
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Écologie",
+   "image": {
+    "type": "icone",
+    "mot_cle": "écologie"
+   },
+   "points": [
+    "Zéro pesticide",
+    "Récupération d'eau de pluie"
+   ]
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "Le jardin est devenu le lieu de rencontre du quartier.",
+   "auteur": "Une adhérente"
+  }
+ ]
+}

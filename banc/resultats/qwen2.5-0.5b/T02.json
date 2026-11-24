@@ -1,0 +1,104 @@
+{
+ "type": "document",
+ "titre": "Préparation d'une plante d'intérieur",
+ "sections": [
+  {
+   "titre": "Matériel",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Pour rempoter une plante d'intérieur, choisissez un pot dont le diamètre dépasse l'ancien de 2 à 4 centimètres."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Outil",
+      "Usage"
+     ],
+     "lignes": [
+      [
+       "Pompe",
+       "Gonfler les pneus"
+      ],
+      [
+       "Huile",
+       "Graisser la chaîne"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Étapes",
+   "blocs": [
+    {
+     "type": "liste",
+     "elements": [
+      "Nettoyer la chaîne",
+      "Vérifier les freins",
+      "Placez au fond du pot une couche de billes d'argile d'environ 3 centimètres pour le drainage"
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Sortez la plante",
+      "Démêlez les racines qui tournent en rond et coupez celles qui sont noires ou molles",
+      "Posez la plante",
+      "Complétez avec du terreau neuf en tassant légèrement",
+      "Laissez 2 centimètres sous le bord du pot"
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Arrosez abondamment puis laissez la plante à l'ombre pendant une semaine"
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "N'apportez pas d'engrais pendant un mois : le terreau neuf en contient déjà"
+     ],
+     "ordonnee": true
+    }
+   ]
+  },
+  {
+   "titre": "Réflections",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Pour rempoter une plante d'intérieur, choisissez un pot dont le diamètre dépasse l'ancien de 2 à 4 centimètres. Le meilleur moment est le printemps, de mars à mai, quand la plante reprend sa croissance."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Arrosez la plante la veille pour que la motte sorte facilement."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Placez au fond du pot une couche de billes d'argile d'environ 3 centimètres pour le drainage."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Sortez la plante, démêlez les racines qui tournent en rond et coupez celles qui sont noires ou molles."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Posez la plante, complétez avec du terreau neuf en tassant légèrement, en laissant 2 centimètres sous le bord du pot."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Arrosez abondamment puis laissez la plante à l'ombre pendant une semaine."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "N'apportez pas d'engrais pendant un mois : le terreau neuf en contient déjà."
+    }
+   ]
+  }
+ ]
+}

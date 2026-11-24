@@ -1,0 +1,27 @@
+{
+ "type": "presentation",
+ "titre": "Rapport moral 2026 du club de handball de Villeneuve",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Rapport moral 2026",
+   "sous_titre": "Club de handball de Villeneuve"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Licenciés",
+   "points": [
+    "312 licenciés",
+    "268 l'an dernier",
+    "16% hausse"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Section féminine",
+   "chiffre": "90 joueuses",
+   "legende": "doublé de 45 joueuses"
+  }
+ ],
+ "sous_titre": "Équipe senior masculine montée en Nationale 3, stages jeunes, finances équilibrées, points faibles, projet 2027"
+}

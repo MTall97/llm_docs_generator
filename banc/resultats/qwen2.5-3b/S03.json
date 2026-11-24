@@ -1,0 +1,47 @@
+{
+ "type": "presentation",
+ "titre": "Introduction",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Introduction"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Définition du gaspillage alimentaire",
+   "points": [
+    "Le gaspillage alimentaire est la destruction ou l'incapacité à utiliser de la nourriture",
+    "C'est une perte significative des ressources agricoles et alimentaires",
+    "Il concerne les produits frais, transformés et surgelés"
+   ]
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Impact sur l'environnement",
+   "points": [
+    "Augmente la production de déchets organiques",
+    "Consomme des ressources naturelles",
+    "Dégrade les sols et les eaux"
+   ]
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Contribution à la faim mondiale",
+   "points": [
+    "Gaspillage alimentaire augmente la précarité",
+    "Les plus démunis sont les plus touchés",
+    "Équilibre alimentaire perturbé",
+    "Défis nutritionnels croissants"
+   ]
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Actions possibles",
+   "points": [
+    "Adaptation des menus pour minimiser les déchets",
+    "Éducation des élèves sur la gestion des aliments",
+    "Collaboration avec les fournisseurs pour optimiser les stocks"
+   ]
+  }
+ ]
+}

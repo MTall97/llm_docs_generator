@@ -1,0 +1,18 @@
+nom = "nature"
+
+[couleurs]
+primaire = "#2D6A4F"
+secondaire = "#52B788"
+accent = "#D4A373"
+texte = "#1B1B1B"
+fond = "#FFFFFF"
+palette_graphiques = ["#2D6A4F", "#D4A373", "#52B788", "#9C6644", "#74C69D", "#E9C46A"]
+
+[polices]
+police_titre = "DejaVuSerif-Bold.ttf"
+police_texte = "DejaVuSerif.ttf"
+police_pptx = "Georgia"
+taille_texte = 11.0
+
+[mise_en_page]
+marge_mm = 22.0

@@ -1,0 +1,45 @@
+modele,id,note,justification
+qwen2.5-3b,T01,🟡,Fidèle et complet ; deux schémas sans signification (Sorties → Cantine).
+qwen2.5-3b,T02,🟡,Étapes fidèles ; une citation inventée (« Le rempotage est une occasion idéale… »).
+qwen2.5-3b,T03,✅,Tableau et courbe exacts ; tout le texte repris.
+qwen2.5-3b,T04,🟡,Procédure fidèle ; schéma simplifié avec un nœud « Banque » ajouté ; citation redondante ; délai de 30 jours omis dans les étapes.
+qwen2.5-3b,P01,❌,Graphique inventé (« stages par année » 2025 : 1 ; 2026 : 4) ; recettes absentes.
+qwen2.5-3b,P02,❌,« 97 % » attribué à la glace (c'est la part des océans) ; graphique aux valeurs inventées ; sous-titre recopié de l'exemple.
+qwen2.5-3b,P03,❌,Bonne comparaison des coûts mais « mises à jour : Offre B téléphoniques » est faux (c'est l'assistance).
+qwen2.5-3b,P04,🟡,Chiffres exacts ; icône « étoile » absente de la bibliothèque (avertissement à la place).
+qwen2.5-3b,C01,❌,Chiffres repris mais calcul faux : hébergement 4 × 31 € sans les 64 personnes ; repas et assurance idem ; total général faux.
+qwen2.5-3b,C02,✅,Quantités et prix exacts ; formule « C{Quantité} * C{Prix unitaire} » cassée dans Excel avant la correction mécanique ajoutée après ce banc.
+qwen2.5-3b,C03,❌,Notes exactes et formule de moyenne juste mais colonne au format pourcentage (14 s'affiche 1 400 %).
+qwen2.5-1.5b,T01,❌,Armoires chauffantes « 280 euros » et « costume par élève 280 euros » : chiffres réattribués.
+qwen2.5-1.5b,T02,❌,Lignes de l'exemple (« Nettoyer la chaîne ») mélangées aux étapes ; fiche incomplète.
+qwen2.5-1.5b,T03,❌,Graphique trompeur (semestre 2026 : 250 ; 2025 : 0) ; répartition des ventes absente.
+qwen2.5-1.5b,T04,❌,Étapes correctes puis section recopiée de l'exemple (« Nettoyer la chaîne »).
+qwen2.5-1.5b,P01,🟡,Trois diapositives exactes mais finances et projet 2027 absents.
+qwen2.5-1.5b,P02,❌,Boucle (mêmes diapositives répétées) ; titre et chiffre inversés.
+qwen2.5-1.5b,P03,🟡,Deux diapositives exactes ; ni coûts sur trois ans ni décision.
+qwen2.5-1.5b,P04,❌,Graphique « sujets de mécontentement » qui y range l'accueil (noté 8,4/10).
+qwen2.5-1.5b,C01,❌,Car multiplié par 58 élèves ; noms de feuille et de colonne de l'exemple (« Achats », « Pièce »).
+qwen2.5-1.5b,C02,❌,Prix faux (pâtes 6,60 € au lieu de 0,95 € ; riz 1,12 € au lieu de 1,40 €).
+qwen2.5-1.5b,C03,❌,Une feuille par élève avec des notes mélangées et inventées ; pas de formule.
+qwen2.5-0.5b,T01,❌,Tableau et liste recopiés de l'exemple (vélo).
+qwen2.5-0.5b,T02,❌,Tableau de l'exemple (« Pompe : gonfler les pneus »).
+qwen2.5-0.5b,T03,❌,Chiffres en milliers tronqués (38 au lieu de 38 200) ; six camemberts absurdes ; liste de l'exemple.
+qwen2.5-0.5b,T04,❌,Étapes inventées (« Nettoyer les documents ») mêlées à l'exemple.
+qwen2.5-0.5b,P01,❌,Diapositives de l'exemple (« Graisser la chaîne », « 4 bars »).
+qwen2.5-0.5b,P02,❌,Boucle de diapositives « 4 bars pour un vélo de ville ».
+qwen2.5-0.5b,P03,❌,Points exacts mais camembert comparant 49 € par mois et 3 600 € par an.
+qwen2.5-0.5b,P04,❌,Répétitions ; « Pression sur les jeux vidéo ».
+qwen2.5-0.5b,C01,❌,Colonnes incohérentes ; feuille « Achats » de l'exemple.
+qwen2.5-0.5b,C02,❌,Une feuille par produit ; prix absents.
+qwen2.5-0.5b,C03,❌,Feuille « Achats » de l'exemple ; aucune note d'élève.
+qwen2.5-0.5b-sans-exemple,T01,❌,Boucle jusqu'à la limite de jetons : aucun fichier.
+qwen2.5-0.5b-sans-exemple,T02,🟡,Un seul paragraphe exact ; les étapes manquent.
+qwen2.5-0.5b-sans-exemple,T03,🟡,Paragraphe exact ; liste des mois sans valeur ; sous-titre absurde (« graphique de la farine »).
+qwen2.5-0.5b-sans-exemple,T04,🟡,Paragraphes fidèles entrecoupés de listes de mots-clés sans intérêt.
+qwen2.5-0.5b-sans-exemple,P01,❌,Colonnes gauche et droite identiques ; chiffres absents de la source.
+qwen2.5-0.5b-sans-exemple,P02,❌,Une seule diapositive ; « les lacs et les rivières s'infiltrent dans le sol ».
+qwen2.5-0.5b-sans-exemple,P03,❌,Offre A présentée deux fois (la seconde avec le coût de 11 784 €) ; offre B absente.
+qwen2.5-0.5b-sans-exemple,P04,❌,« 47 % dans 15-25 ans » (47 % demandent des places assises).
+qwen2.5-0.5b-sans-exemple,C01,❌,« 9800 euros » répété dans toutes les colonnes.
+qwen2.5-0.5b-sans-exemple,C02,❌,Une feuille par produit ; quantités remplacées par un numéro d'ordre ; pas de prix.
+qwen2.5-0.5b-sans-exemple,C03,❌,Notes placées dans les noms de colonnes ; aucune valeur.

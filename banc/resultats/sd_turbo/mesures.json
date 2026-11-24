@@ -1,0 +1,54 @@
+{
+ "chargement_s": 13.3,
+ "essais": [
+  {
+   "taille": 512,
+   "etapes": 1,
+   "secondes": 8.5,
+   "image": "512px_1etapes_0.png"
+  },
+  {
+   "taille": 512,
+   "etapes": 1,
+   "secondes": 8.6,
+   "image": "512px_1etapes_1.png"
+  },
+  {
+   "taille": 512,
+   "etapes": 4,
+   "secondes": 15.2,
+   "image": "512px_4etapes_0.png"
+  },
+  {
+   "taille": 512,
+   "etapes": 4,
+   "secondes": 15.0,
+   "image": "512px_4etapes_1.png"
+  },
+  {
+   "taille": 256,
+   "etapes": 1,
+   "secondes": 2.3,
+   "image": "256px_1etapes_0.png"
+  },
+  {
+   "taille": 256,
+   "etapes": 1,
+   "secondes": 2.3,
+   "image": "256px_1etapes_1.png"
+  },
+  {
+   "taille": 256,
+   "etapes": 4,
+   "secondes": 4.4,
+   "image": "256px_4etapes_0.png"
+  },
+  {
+   "taille": 256,
+   "etapes": 4,
+   "secondes": 4.6,
+   "image": "256px_4etapes_1.png"
+  }
+ ],
+ "memoire_max_mo": 6403
+}

@@ -1,0 +1,63 @@
+{
+ "type": "document",
+ "titre": "Les bonnes pratiques pour choisir un mot de passe",
+ "sections": [
+  {
+   "titre": "Qu'est-ce que un mot de passe?",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Un mot de passe est une phrase qui contient des chiffres et/ou caractères spéciaux, généralement utilisés pour sécuriser votre compte."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "chiffres",
+      "caractères spéciaux"
+     ]
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Chiffres",
+      "Caractères spéciaux"
+     ],
+     "lignes": [
+      [
+       1,
+       "Chiffres"
+      ],
+      [
+       2,
+       "Caractères spéciaux"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Les bonnes pratiques pour choisir un mot de passe",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Un mot de passe est une clé unique qui vous permet de vous authentifier en ligne. Il est essentiel de choisir un mot de passe approprié pour protéger vos informations personnelles et faciliter la vérification de votre identité."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Avantages",
+      "Un mot de passe protège vos informations personnelles"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "En plus de protéger vos informations, un mot de passe est aussi utile car il permet de vous authentifier facilement en ligne. Vous pouvez facilement vérifier votre identité et vous authentifier avec un mot de passe."
+    },
+    {
+     "type": "icone",
+     "mot_cle": "mot de passe"
+    }
+   ]
+  }
+ ]
+}

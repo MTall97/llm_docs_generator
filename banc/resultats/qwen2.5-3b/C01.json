@@ -1,0 +1,115 @@
+{
+ "type": "classeur",
+ "titre": "Budget voyage scolaire à Berlin",
+ "feuilles": [
+  {
+   "nom": "Budget",
+   "colonnes": [
+    {
+     "nom": "Catégorie",
+     "format": "texte"
+    },
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Prix unitaire",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie",
+     "formule": "{Quantité} * {Prix unitaire}"
+    }
+   ],
+   "lignes": [
+    [
+     "Transport en car",
+     1,
+     9800,
+     null
+    ],
+    [
+     "Hébergement en auberge de jeunesse",
+     4,
+     31,
+     null
+    ],
+    [
+     "Repas",
+     5,
+     22,
+     null
+    ],
+    [
+     "Visites et musées",
+     58,
+     18,
+     null
+    ],
+    [
+     "Assurance",
+     6,
+     6,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Fonds disponibles",
+   "colonnes": [
+    {
+     "nom": "Source",
+     "format": "texte"
+    },
+    {
+     "nom": "Montant",
+     "format": "nombre"
+    }
+   ],
+   "lignes": [
+    [
+     "Lycée",
+     4000
+    ],
+    [
+     "Conseil régional",
+     3500
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Montant",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Fonds à payer par les familles",
+   "colonnes": [
+    {
+     "nom": "Montant",
+     "format": "nombre"
+    }
+   ],
+   "lignes": [
+    [
+     "Montant à payer"
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Montant",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+graphique « Sujets de mécontentement » : série 'Horaires' ramenée à 3 valeurs
+graphique « Sujets de mécontentement » : série 'Prêt de jeux vidéo' ramenée à 3 valeurs
+graphique « Sujets de mécontentement » : série 'Accueil' ramenée à 3 valeurs

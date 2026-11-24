@@ -1,0 +1,37 @@
+{
+ "type": "presentation",
+ "titre": "Résultats de l'enquête sur la médiathèque",
+ "diapositives": [
+  {
+   "mise_en_page": "points",
+   "titre": "Satisfaction",
+   "points": [
+    "82% des répondants satisfaits ou très satisfaits",
+    "61% souhaitent une ouverture le dimanche"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Usagers 15-25 ans",
+   "chiffre": "34%",
+   "legende": "% qui utilisent le prêt de jeux vidéo"
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Accueil",
+   "image": {
+    "type": "icone",
+    "mot_cle": "étoile"
+   },
+   "points": [
+    "Note moyenne de l'accueil : 8,4 sur 10",
+    "47% demandent plus de places assises",
+    "39% demandent un meilleur réseau wifi"
+   ]
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "La médiathèque prévoit d'ouvrir le dimanche après-midi à titre expérimental à partir de janvier."
+  }
+ ]
+}

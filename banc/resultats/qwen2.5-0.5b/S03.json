@@ -1,0 +1,42 @@
+{
+ "type": "presentation",
+ "titre": "Pourquoi et comment réduire le gaspillage alimentaire à la cantine",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Pourquoi et comment réduire le gaspillage alimentaire à la cantine"
+  },
+  {
+   "mise_en_page": "titre",
+   "titre": "Définition du gaspillage alimentaire",
+   "sous_titre": "La nourriture est un élément crucial pour la santé et la vie",
+   "notes": "Le gaspillage alimentaire est l'absence de nourriture dans un environnement de consommation, ce qui peut conduire à une perte de nourriture et de déchets."
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Résultats du gaspillage alimentaire",
+   "points": [
+    "Le gaspillage alimentaire peut être causé par des maladies, des maladies médicales, des maladies alimentaires, ou simplement par l'absence d'attention aux produits de cuisine.",
+    "Il peut également être lié à une mauvaise hygiène de la cuisine et à des manquements de gestion de la nourriture."
+   ],
+   "notes": "Les causes du gaspillage alimentaire peuvent varier selon les individus. Il est important de prendre en compte les maladies, les maladies médicales, les maladies alimentaires, et l'absence d'attention aux produits de cuisine. Les manquements de gestion de la nourriture peuvent également contribuer à ce gaspillage."
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Prévention du gaspillage alimentaire",
+   "points": [
+    "Les maladies et les maladies médicales peuvent être liées à des problèmes de santé",
+    "Il est crucial de maintenir une hygiène de la cuisine pour éviter les infections",
+    "La gestion de la nourriture peut également contribuer à réduire le gaspillage",
+    "Les maladies et les maladies médicales peuvent être liées à des problèmes de santé",
+    "Il est crucial de maintenir une hygiène de la cuisine pour éviter les infections",
+    "La gestion de la nourriture peut également contribuer à réduire le gaspillage"
+   ]
+  },
+  {
+   "mise_en_page": "titre",
+   "titre": "Conclusion",
+   "sous_titre": "Le gaspillage alimentaire peut être réduire par une attention accrue aux produits de cuisine, une hygiène de la cuisine, et une gestion de la nourriture."
+  }
+ ]
+}

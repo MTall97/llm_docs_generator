@@ -1,0 +1,248 @@
+{
+ "type": "document",
+ "titre": "Le compostage en appartement : principe, matériel et erreurs à éviter",
+ "sections": [
+  {
+   "titre": "Principe du compostage",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le compostage est une technique qui combine le déchets de l'habitat avec des microorganismes pour réduire la quantité de déchets et les rendre plus nutritifs. Les microorganismes, comme les bactéries et les champignons, sont capables de convertir les déchets en compost, un produit naturel et nutritif qui peut être utilisé comme nourriture pour les animaux et les plantes."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "microorganismes",
+      "bactéries",
+      "champignons"
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "microorganismes",
+      "bactéries",
+      "champignons"
+     ],
+     "lignes": [
+      [
+       1,
+       "microorganismes",
+       ""
+      ],
+      [
+       2,
+       "bactéries",
+       ""
+      ],
+      [
+       3,
+       "champignons",
+       ""
+      ]
+     ],
+     "legende": ">{{1}}"
+    },
+    {
+     "type": "citation",
+     "texte": "Les microorganismes, comme les bactéries et les champignons, sont capables de convertir les déchets en compost, un produit naturel et nutritif qui peut être utilisé comme nourriture pour les animaux et les plantes."
+    },
+    {
+     "type": "icone",
+     "mot_cle": "compostage"
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "microorganismes",
+       "vers": "bactéries"
+      },
+      {
+       "de": "microorganismes",
+       "vers": "champignons"
+      }
+     ],
+     "legende": ">{{1}}"
+    },
+    {
+     "type": "icone",
+     "mot_cle": "compostage"
+    }
+   ]
+  },
+  {
+   "titre": "Le compostage en appartement : principe, matériel et erreurs à éviter",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le compostage est un processus qui transforme les déchets de l'extérieur en un sol riche en acides aminés. Il est généralement réalisé en appartement, où on utilise des matériaux tels que le sable, le verre et le bois pour créer un environnement propice à la transformation."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage"
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage",
+      "matériel de compostage"
+     ],
+     "lignes": [
+      [
+       1,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ],
+      [
+       2,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ],
+      [
+       3,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ],
+      [
+       4,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ],
+      [
+       5,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ],
+      [
+       6,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ],
+      [
+       7,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ],
+      [
+       8,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ],
+      [
+       9,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ],
+      [
+       10,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ],
+      [
+       11,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ],
+      [
+       12,
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage",
+       "matériel de compostage"
+      ]
+     ],
+     "legende": ">{{12}}</schema>}, {"
+    }
+   ]
+  },
+  {
+   "titre": "Éviter les erreurs",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "L'erreur d'utilisation du matériel de compostage peut être le manque de déchets, la mauvaise concentration des matériaux et l'absence de temps suffisants pour le compostage."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "type": "document",
+ "titre": "Procédure de Remboursement des Notes de Frais",
+ "sections": [
+  {
+   "titre": "Étapes",
+   "blocs": [
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Bénévole",
+       "vers": "Trésorier"
+      },
+      {
+       "de": "Trésorier",
+       "vers": "Président"
+      },
+      {
+       "de": "Trésorier",
+       "vers": "Banque"
+      }
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Le bénévole remplit le formulaire de note de frais et y joint les justificatifs originaux."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Il remet le dossier au trésorier."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Le trésorier vérifie que la dépense a été autorisée par le bureau et que les justificatifs sont complets."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Si le dossier est incomplet, il le renvoie au bénévole avec la liste des pièces manquantes."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Si le dossier est complet, le président signe l'ordre de paiement."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Le trésorier effectue alors le virement sous 15 jours."
+    }
+   ]
+  },
+  {
+   "titre": "Remboursements",
+   "blocs": [
+    {
+     "type": "liste",
+     "elements": [
+      "Frais kilométriques : 0,32 euro par kilomètre"
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Repas : 20 euros maximum"
+     ],
+     "ordonnee": true
+    }
+   ]
+  },
+  {
+   "titre": "Informations",
+   "blocs": [
+    {
+     "type": "citation",
+     "texte": "Le bénévole remplit le formulaire de note de frais et y joint les justificatifs originaux."
+    },
+    {
+     "type": "icone",
+     "mot_cle": "formulaires"
+    }
+   ]
+  }
+ ]
+}

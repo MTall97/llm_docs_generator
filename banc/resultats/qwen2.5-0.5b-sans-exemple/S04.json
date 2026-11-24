@@ -1,0 +1,201 @@
+{
+ "type": "classeur",
+ "titre": "Plan d'entraînement de course à pied sur 4 semaines pour débutant",
+ "feuilles": [
+  {
+   "nom": "Introduction",
+   "colonnes": [
+    {
+     "nom": "Titre",
+     "format": "texte"
+    },
+    {
+     "nom": "Objets",
+     "format": "texte"
+    },
+    {
+     "nom": "Plan d'entraînement",
+     "format": "texte"
+    },
+    {
+     "nom": "Conclusion",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Introduction",
+     null,
+     null,
+     null
+    ],
+    [
+     "Le plan d'entraînement de course à pied sur 4 semaines est un excellent moyen de développer votre compétence physique et de maintenir une forme saine.",
+     null,
+     null,
+     null
+    ],
+    [
+     "Ce plan vise à vous aider à atteindre des objectifs de fitness et à maintenir une forme saine pendant 4 semaines.",
+     null,
+     null,
+     null
+    ],
+    [
+     "Le plan comprend 4 semaines d'entraînement, chaque semaine avec un objectif spécifique.",
+     null,
+     null,
+     null
+    ],
+    [
+     "Les objectifs sont :",
+     "null,null,null,null,null,null,null,null,null,null],[",
+     null,
+     null
+    ]
+   ]
+  },
+  {
+   "nom": "Objectifs",
+   "colonnes": [
+    {
+     "nom": "Introduction",
+     "format": "texte"
+    },
+    {
+     "nom": "Objectifs",
+     "format": "texte"
+    },
+    {
+     "nom": "Plan d'entraînement",
+     "format": "texte"
+    },
+    {
+     "nom": "Conclusion",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Introduction",
+     "texte",
+     null,
+     null
+    ],
+    [
+     "Améliorer votre endurance et tonnerre",
+     "texte",
+     null,
+     null
+    ],
+    [
+     "Rester en forme physique et mentale",
+     "texte",
+     null,
+     null
+    ],
+    [
+     "Maintenir une bonne santé cardiovasculaire",
+     "texte",
+     null,
+     null
+    ]
+   ],
+   "totaux": []
+  },
+  {
+   "nom": "Plan d'entraînement",
+   "colonnes": [
+    {
+     "nom": "Introduction",
+     "format": "texte"
+    },
+    {
+     "nom": "Objectifs",
+     "format": "texte"
+    },
+    {
+     "nom": "Plan d'entraînement",
+     "format": "texte"
+    },
+    {
+     "nom": "Conclusion",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Introduction",
+     "La course à pied est une activité physique qui nécessite un entraînement régulier pour améliorer les compétences physiques et mentales.",
+     "texte",
+     null
+    ],
+    [
+     "Objectifs",
+     "Le but principal de l'entraînement est d'améliorer vos capacités de marche, de endurance et de coordination.",
+     "texte",
+     null
+    ],
+    [
+     "Plan d'entraînement",
+     "Cette phase comprend les différentes phases : - Phase 1 : 2 semaines de débutant - Phase 2 : 3 semaines de maintien - Phase 3 : 4 semaines de fin de entraînement.",
+     "texte",
+     null
+    ],
+    [
+     "Conclusion",
+     "Le plan d'entraînement comprend les différentes phases : - Phase 1 : 2 semaines de débutant - Phase 2 : 3 semaines de maintien - Phase 3 : 4 semaines de fin de entraînement.",
+     "texte",
+     null
+    ]
+   ]
+  },
+  {
+   "nom": "Conclusion",
+   "colonnes": [
+    {
+     "nom": "objectifs",
+     "format": "texte"
+    },
+    {
+     "nom": "plan_d_entraînement",
+     "format": "texte"
+    },
+    {
+     "nom": "Conclusion",
+     "format": "texte"
+    },
+    {
+     "nom": "graphique",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     1,
+     "Introduction",
+     null,
+     null
+    ],
+    [
+     2,
+     "Objectifs",
+     null,
+     null
+    ],
+    [
+     3,
+     "Plan d'entraînement",
+     null,
+     null
+    ],
+    [
+     4,
+     "Conclusion",
+     null,
+     null
+    ]
+   ]
+  }
+ ]
+}

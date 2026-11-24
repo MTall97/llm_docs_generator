@@ -1,0 +1,116 @@
+{
+ "type": "document",
+ "titre": "Le compostage en appartement : Principe, matériel et erreurs à éviter",
+ "sections": [
+  {
+   "titre": "Principe du compostage",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le compostage est une méthode de traitement des déchets organiques qui permet d'obtenir un sol enrichi. Il s'agit d'un processus naturel qui convertit les déchets en matière fertile pour la plante."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Le compostage est basé sur le principe de l'auto-fermentation, où les micro-organismes (comme les bactéries et les champignons) se développent dans un environnement propice à leur croissance. Ces micro-organismes dégradent les déchets en une combinaison de matières organiques et de minéraux."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Le compostage est également basé sur le principe de la circulation des éléments, où les déchets sont répartis dans un système d'écoulement pour permettre à chaque élément de se développer et de se transformer."
+    }
+   ]
+  },
+  {
+   "titre": "Matière à compostage",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les déchets organiques, tels que les fruits et légumes, les déchets alimentaires et même les déchets de cuisine, sont des matériaux appropriés pour le compostage. Ces déchets contiennent une grande quantité d'azote, un nutrient essentiel pour la croissance des plantes."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Fruits et légumes",
+      "Déchets alimentaires",
+      "Déchets de cuisine"
+     ]
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Matière",
+      "Description"
+     ],
+     "lignes": [
+      [
+       "Fruits",
+       "Produits de la récolte, tels que les pommes, les oranges et les kiwis"
+      ],
+      [
+       "Légumes",
+       "Produits de la culture, comme les carottes, les endives et les épinards"
+      ],
+      [
+       "Déchets alimentaires",
+       "Produits non consommés, tels que les copeaux de viande, les déchets de fruits et légumes"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Méthodes de compostage",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Il existe plusieurs méthodes de compostage, dont le compostage en bocaux et le compostage à l'extérieur. Le compostage en bocaux est une méthode simple qui permet de créer un compost complet dans un espace limité. Il s'agit d'utiliser des bocaux contenant du compostable pour stocker les déchets organiques pendant plusieurs mois avant de les utiliser comme matière première pour le compostage à l'extérieur. Cela permet de réduire la quantité de déchets qui doivent être stockées dans un espace limité, tout en maintenant une bonne qualité de compost. Le compostage à l'extérieur est une méthode plus complexe qui nécessite un espace suffisamment large pour le compostage et des conditions climatiques favorables. Il s'agit d'utiliser des bocaux contenant du compostable pour stocker les déchets organiques pendant plusieurs mois avant de les utiliser comme matière première pour le compostage à l'extérieur. Cela permet de réduire la quantité de déchets qui doivent être stockées dans un espace limité, tout en maintenant une bonne qualité de compost."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Compostage en bocaux",
+      "Compostage à l'extérieur"
+     ],
+     "ordonnee": true
+    }
+   ]
+  },
+  {
+   "titre": "Erreurs à éviter",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Il est important de ne pas commettre d'erreurs lors du compostage pour garantir un résultat optimal. Par exemple, le choix incorrect de matière à compostage peut affecter la qualité du compost. Il est également crucial de bien préparer les matériaux avant leur introduction dans le composteur. Enfin, il faut éviter de mettre trop de déchets en une seule fois, car cela peut perturber le fonctionnement du composteur."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Matière à compostage incorrecte",
+      "Non préparation des matériaux",
+      "Mauvaise gestion des déchets"
+     ]
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Erreurs",
+      "Réponse"
+     ],
+     "lignes": [
+      [
+       "Matière à compostage incorrecte",
+       "Choisir une matière à compostage appropriée"
+      ],
+      [
+       "Non préparation des matériaux",
+       "Préparer les matériaux avant leur introduction"
+      ],
+      [
+       "Mauvaise gestion des déchets",
+       "Eviter de mettre trop de déchets en une seule fois"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

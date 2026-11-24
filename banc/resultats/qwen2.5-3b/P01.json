@@ -1,0 +1,67 @@
+{
+ "type": "presentation",
+ "titre": "Rapport moral 2026 du club de handball de Villeneuve",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Rapport moral 2026 du club de handball de Villeneuve"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Évolution des licenciés",
+   "points": [
+    "312 licenciés en 2026",
+    "contre 268 en 2025",
+    "hausse de 16 %"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Dépenses",
+   "chiffre": "181 000 euros",
+   "legende": "montant des dépenses"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Sections et évolutions",
+   "points": [
+    "Section féminine : doublon",
+    "Équipe senior masculine : montée en Nationale 3"
+   ]
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Stages",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Nombre de stages par année",
+    "etiquettes": [
+     "2025",
+     "2026"
+    ],
+    "series": [
+     {
+      "nom": "2025",
+      "valeurs": [
+       1,
+       0
+      ]
+     },
+     {
+      "nom": "2026",
+      "valeurs": [
+       4,
+       0
+      ]
+     }
+    ],
+    "legende": "Nombre de stages"
+   },
+   "points": [
+    "4 stages en 2026",
+    "suivis par 140 jeunes"
+   ]
+  }
+ ]
+}

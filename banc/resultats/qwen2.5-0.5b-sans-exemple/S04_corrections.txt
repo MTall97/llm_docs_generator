@@ -1,0 +1,26 @@
+feuille « Introduction » : ligne ramenée à 4 cellules
+feuille « Introduction » : ligne ramenée à 4 cellules
+feuille « Introduction » : ligne ramenée à 4 cellules
+feuille « Introduction » : ligne ramenée à 4 cellules
+feuille « Introduction » : ligne ramenée à 4 cellules
+feuille « Introduction » : graphique sur une colonne inconnue retiré
+feuille « Objectifs » : ligne ramenée à 4 cellules
+feuille « Objectifs » : ligne ramenée à 4 cellules
+feuille « Objectifs » : ligne ramenée à 4 cellules
+feuille « Objectifs » : ligne ramenée à 4 cellules
+feuille « Plan d'entraînement » : formule sans référence de colonne retirée ('La course à pied est une activité physique qui nécessite un entraînement régulier pour améliorer les compétences physiques et mentales.')
+feuille « Plan d'entraînement » : formule sans référence de colonne retirée ("Le but principal de l'entraînement est d'améliorer vos capacités de marche, de endurance et de coordination.")
+feuille « Plan d'entraînement » : formule sans référence de colonne retirée ('Cette phase comprend les différentes phases : - Phase 1 : 2 semaines de débutant - Phase 2 : 3 semaines de maintien - Phase 3 : 4 semaines de fin de entraînement.')
+feuille « Plan d'entraînement » : formule sans référence de colonne retirée ("Le plan d'entraînement comprend les différentes phases : - Phase 1 : 2 semaines de débutant - Phase 2 : 3 semaines de maintien - Phase 3 : 4 semaines de fin de entraînement.")
+feuille « Plan d'entraînement » : ligne ramenée à 4 cellules
+feuille « Plan d'entraînement » : ligne ramenée à 4 cellules
+feuille « Plan d'entraînement » : ligne ramenée à 4 cellules
+feuille « Plan d'entraînement » : ligne ramenée à 4 cellules
+feuille « Conclusion » : formule sans référence de colonne retirée ("Le plan d'entraînement de course à pied sur 4 semaines est une excellente option pour vous permettre de développer votre endurance et de maintenir une bonne santé cardiovasculaire.")
+feuille « Conclusion » : formule sans référence de colonne retirée ("Le plan d'entraînement comprend 4 semaines, chaque semaine de 20 à 30 minutes de course à pied, avec des pauses entre les séances pour permettre la récupération et le rééquilibrage cardiaque.")
+feuille « Conclusion » : formule sans référence de colonne retirée ("Le plan d'entraînement de course à pied sur 4 semaines est une excellente option pour vous permettre de développer votre endurance et de maintenir une bonne santé cardiovasculaire.")
+feuille « Conclusion » : formule sans référence de colonne retirée ("Pour faciliter la compréhension, les données sont graphiques avec des barres vertes représentant le temps passé à l'endurance et des barres bleues représentant le temps passé à la récupération.")
+feuille « Conclusion » : ligne ramenée à 4 cellules
+feuille « Conclusion » : ligne ramenée à 4 cellules
+feuille « Conclusion » : ligne ramenée à 4 cellules
+feuille « Conclusion » : ligne ramenée à 4 cellules

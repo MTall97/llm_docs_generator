@@ -1,0 +1,84 @@
+{
+ "type": "classeur",
+ "titre": "Suivi des stocks",
+ "feuilles": [
+  {
+   "nom": "Inventaire",
+   "colonnes": [
+    {
+     "nom": "Produit",
+     "format": "texte"
+    },
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Prix unitaire",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Valeur totale",
+     "format": "monnaie",
+     "formule": "C{Quantité} * C{Prix unitaire}"
+    }
+   ],
+   "lignes": [
+    [
+     "Pâtes",
+     140,
+     0.95,
+     null
+    ],
+    [
+     "Riz",
+     85,
+     1.4,
+     null
+    ],
+    [
+     "Huile",
+     42,
+     3.2,
+     null
+    ],
+    [
+     "Conserves de légumes",
+     210,
+     1.1,
+     null
+    ],
+    [
+     "Lait",
+     96,
+     0.89,
+     null
+    ],
+    [
+     "Café",
+     30,
+     4.5,
+     null
+    ],
+    [
+     "Savon",
+     64,
+     1.25,
+     null
+    ],
+    [
+     "Couches",
+     18,
+     9.9,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Valeur totale",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}

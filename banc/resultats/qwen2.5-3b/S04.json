@@ -1,0 +1,368 @@
+{
+ "type": "classeur",
+ "titre": "Plan d'entraînement de course à pied",
+ "feuilles": [
+  {
+   "nom": "Semaine 1 - Introduction",
+   "colonnes": [
+    {
+     "nom": "Jour",
+     "format": "texte"
+    },
+    {
+     "nom": "Activité",
+     "format": "texte"
+    },
+    {
+     "nom": "Durée (minutes)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Échelle de difficulté",
+     "format": "pourcentage"
+    },
+    {
+     "nom": "Formule",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Lundi",
+     "Marche libre",
+     30,
+     50,
+     null
+    ],
+    [
+     "Mardi",
+     "Course à pied douce",
+     20,
+     40,
+     null
+    ],
+    [
+     "Mercredi",
+     "Courbette",
+     15,
+     60,
+     null
+    ],
+    [
+     "Jeudi",
+     "Récupération",
+     30,
+     100,
+     null
+    ],
+    [
+     "Vendredi",
+     "Musculation",
+     60,
+     20,
+     "{Poids} * {Repetitions}"
+    ],
+    [
+     "Samedi",
+     "Marche libre",
+     30,
+     50,
+     null
+    ],
+    [
+     "Dimanche",
+     "Récupération",
+     90,
+     100,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Durée (minutes)",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Semaine 2 - Base",
+   "colonnes": [
+    {
+     "nom": "Jour",
+     "format": "texte"
+    },
+    {
+     "nom": "Séance",
+     "format": "texte"
+    },
+    {
+     "nom": "Distance (km)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Vitesse (km/h)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Formule",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Lundi",
+     "Marche à allure modérée",
+     5,
+     6,
+     "{Distance} * {Vitesse}"
+    ],
+    [
+     "Mardi",
+     "Course à allure modérée",
+     10,
+     8,
+     null
+    ],
+    [
+     "Mercredi",
+     "Marche à allure modérée",
+     7,
+     6.5,
+     null
+    ],
+    [
+     "Jeudi",
+     "Course à allure modérée",
+     12,
+     9,
+     null
+    ],
+    [
+     "Vendredi",
+     "Marche à allure modérée",
+     8,
+     7,
+     null
+    ],
+    [
+     "Samedi",
+     "Course à allure modérée",
+     15,
+     10,
+     null
+    ],
+    [
+     "Dimanche",
+     "Marche à allure modérée",
+     6,
+     6.5,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Distance (km)",
+     "fonction": "SOMME"
+    },
+    {
+     "colonne": "Vitesse (km/h)",
+     "fonction": "MOYENNE"
+    }
+   ]
+  },
+  {
+   "nom": "Semaine 3 - Intensification",
+   "colonnes": [
+    {
+     "nom": "Jour",
+     "format": "texte"
+    },
+    {
+     "nom": "Exercice",
+     "format": "texte"
+    },
+    {
+     "nom": "Distance (km)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Vitesse (km/h)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Formule",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Lundi",
+     "Course à pied rapide",
+     10,
+     8,
+     "{Distance} / {Vitesse}"
+    ],
+    [
+     "Mardi",
+     "Marche rapide",
+     6,
+     7,
+     null
+    ],
+    [
+     "Mercredi",
+     "Course à pied modérée",
+     8,
+     9,
+     null
+    ],
+    [
+     "Jeudi",
+     "Course à pied intense",
+     12,
+     10,
+     null
+    ],
+    [
+     "Vendredi",
+     "Marche modérée",
+     4,
+     6,
+     null
+    ],
+    [
+     "Samedi",
+     "Course à pied rapide",
+     15,
+     11,
+     null
+    ],
+    [
+     "Dimanche",
+     "Course à pied modéré",
+     9,
+     8.5,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Distance (km)",
+     "fonction": "SOMME"
+    },
+    {
+     "colonne": "Vitesse (km/h)",
+     "fonction": "MOYENNE"
+    }
+   ]
+  },
+  {
+   "nom": "Semaine 4 - Préparation finale",
+   "colonnes": [
+    {
+     "nom": "Jour",
+     "format": "texte"
+    },
+    {
+     "nom": "Activité",
+     "format": "texte"
+    },
+    {
+     "nom": "Durée (minutes)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Distance (km)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Altitude (m)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Poids du sac à dos (kg)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Formule",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Lundi",
+     "Course de 10 km",
+     60,
+     10,
+     0,
+     2,
+     null
+    ],
+    [
+     "Mardi",
+     "Course de 5 km",
+     45,
+     5,
+     0,
+     1,
+     null
+    ],
+    [
+     "Mercredi",
+     "Course de 3 km",
+     30,
+     3,
+     0,
+     0.5,
+     null
+    ],
+    [
+     "Jeudi",
+     "Course de 2 km",
+     20,
+     2,
+     0,
+     0.5,
+     null
+    ],
+    [
+     "Vendredi",
+     "Course de 1 km",
+     15,
+     1,
+     0,
+     0.5,
+     null
+    ],
+    [
+     "Samedi",
+     "Course de 1 km",
+     15,
+     1,
+     0,
+     0.5,
+     null
+    ],
+    [
+     "Dimanche",
+     "Course de 1 km",
+     15,
+     1,
+     0,
+     0.5,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Durée (minutes)",
+     "fonction": "SOMME"
+    },
+    {
+     "colonne": "Distance (km)",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+modele,id,sorte,mode,secondes,jetons_sortie,jetons_par_s,json_valide,erreurs_schema,corrections,rendu_ok,recopie_exemple,chiffres_inventes,exemples_inventes,chiffres_repris,mots_hors_source,erreur
+qwen2.5-0.5b-sans-exemple,T01,document,texte,189.3,3000,15.8,False,,0,False,,,,,,JSON incomplet (limite de jetons atteinte)
+qwen2.5-0.5b-sans-exemple,T02,document,texte,6.7,117,17.3,True,,0,True,0,0.0,,,0.278,
+qwen2.5-0.5b-sans-exemple,T03,document,texte,16.3,300,18.4,False,"sous_titre : 'évolution des ventes par catégorie de produits et de prix, avec un graphique de la farine (barre), un icone pour le sujet de la boulangerie Le Fournil, une citation pour le sujet de la boulangerie Le",0,True,0,0.0,,0.692,0.333,
+qwen2.5-0.5b-sans-exemple,T04,document,texte,111.6,1896,17.0,True,,0,True,0,0.0,,1.0,0.152,
+qwen2.5-0.5b-sans-exemple,P01,presentation,texte,67.8,1267,18.7,True,,0,True,0,0.136,65,0.615,0.129,
+qwen2.5-0.5b-sans-exemple,P02,presentation,texte,12.3,203,16.6,True,,0,True,0,0.0,,1.0,0.3,
+qwen2.5-0.5b-sans-exemple,P03,presentation,texte,13.0,240,18.5,True,,0,True,0,0.0,,0.571,0.2,
+qwen2.5-0.5b-sans-exemple,P04,presentation,texte,18.3,370,20.3,True,,0,True,0,0.0,,0.667,0.312,
+qwen2.5-0.5b-sans-exemple,C01,classeur,texte,95.7,1476,15.4,True,,28,True,1,0.348,12400,0.875,0.0,
+qwen2.5-0.5b-sans-exemple,C02,classeur,texte,30.2,608,20.2,True,,15,True,2,0.0,,0.333,0.5,
+qwen2.5-0.5b-sans-exemple,C03,classeur,texte,26.9,602,22.4,True,,20,True,0,0.0,,1.0,0.5,
+qwen2.5-0.5b-sans-exemple,S01,document,sujet,102.2,1719,16.8,True,,3,True,0,,,,,
+qwen2.5-0.5b-sans-exemple,S02,document,sujet,180.1,2954,16.4,True,,0,True,0,,,,,JSON incomplet (limite de jetons atteinte); JSON incomplet (limite de jetons atteinte)
+qwen2.5-0.5b-sans-exemple,S03,presentation,sujet,36.8,687,18.7,True,,0,True,0,,,,,
+qwen2.5-0.5b-sans-exemple,S04,classeur,sujet,84.5,1511,17.9,True,,26,True,0,,,,,

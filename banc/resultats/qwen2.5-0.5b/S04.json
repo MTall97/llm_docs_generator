@@ -1,0 +1,375 @@
+{
+ "type": "classeur",
+ "titre": "Plan d'entraînement de course à pied sur 4 semaines pour débutant",
+ "feuilles": [
+  {
+   "nom": "Introduction",
+   "colonnes": [
+    {
+     "nom": "Titre",
+     "format": "texte"
+    },
+    {
+     "nom": "Objets",
+     "format": "texte"
+    },
+    {
+     "nom": "Objectifs",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Introduction",
+     "",
+     ""
+    ],
+    [
+     "Le plan d'entraînement de course à pied sur 4 semaines est un excellent moyen de développer votre compétence physique et de maintenir une forme saine.",
+     "",
+     null
+    ],
+    [
+     "Objectifs",
+     "",
+     ""
+    ],
+    [
+     "Conclusion",
+     "",
+     ""
+    ],
+    [
+     "Titre",
+     "",
+     ""
+    ],
+    [
+     "Objets",
+     "",
+     ""
+    ],
+    [
+     "Objectifs",
+     "",
+     ""
+    ],
+    [
+     "Conclusion",
+     "",
+     ""
+    ],
+    [
+     "Titre",
+     "",
+     ""
+    ],
+    [
+     "Objets",
+     "",
+     ""
+    ],
+    [
+     "Objectifs",
+     "",
+     ""
+    ],
+    [
+     "Conclusion",
+     "",
+     ""
+    ],
+    [
+     "Titre",
+     "",
+     ""
+    ],
+    [
+     "Objets",
+     "",
+     ""
+    ],
+    [
+     "Objectifs",
+     "",
+     ""
+    ],
+    [
+     "Conclusion",
+     "",
+     ""
+    ],
+    [
+     "Titre",
+     "",
+     ""
+    ],
+    [
+     "Objets",
+     "",
+     ""
+    ],
+    [
+     "Objectifs",
+     "",
+     ""
+    ],
+    [
+     "Conclusion",
+     "",
+     ""
+    ],
+    [
+     "Titre",
+     "",
+     ""
+    ],
+    [
+     "Objets",
+     "",
+     ""
+    ],
+    [
+     "Objectifs",
+     "",
+     ""
+    ],
+    [
+     "Conclusion",
+     "",
+     ""
+    ],
+    [
+     "Titre",
+     "",
+     ""
+    ],
+    [
+     "Objets",
+     "",
+     ""
+    ],
+    [
+     "Objectifs",
+     "",
+     ""
+    ],
+    [
+     "Conclusion",
+     "",
+     ""
+    ],
+    [
+     "Titre",
+     "",
+     ""
+    ],
+    [
+     "Objets",
+     "",
+     ""
+    ],
+    [
+     "Objectifs",
+     "",
+     ""
+    ],
+    [
+     "Conclusion",
+     "",
+     ""
+    ],
+    [
+     "Titre",
+     "",
+     ""
+    ],
+    [
+     "Objets",
+     "",
+     ""
+    ],
+    [
+     "Objectifs",
+     "",
+     ""
+    ],
+    [
+     "Conclusion",
+     "",
+     ""
+    ],
+    [
+     "Titre",
+     "",
+     ""
+    ],
+    [
+     "Objets",
+     "",
+     ""
+    ],
+    [
+     "Objectifs",
+     "",
+     ""
+    ],
+    [
+     "Conclusion",
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "nom": "Objectifs",
+   "colonnes": [
+    {
+     "nom": "Améliorer votre endurance et tonnerre",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Rester en forme physique et mentale",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Maintenir une bonne santé cardiovasculaire",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "Objectif 1: Améliorer votre endurance et tonnerre",
+     "Améliorer votre endurance et tonnerre",
+     "Améliorer votre endurance et tonnerre"
+    ],
+    [
+     "Objectif 2: Rester en forme physique et mentale",
+     "Rester en forme physique et mentale",
+     "Rester en forme physique et mentale"
+    ],
+    [
+     "Objectif 3: Maintenir une bonne santé cardiovasculaire",
+     "Maintenir une bonne santé cardiovasculaire",
+     "Maintenir une bonne santé cardiovasculaire"
+    ]
+   ],
+   "totaux": []
+  },
+  {
+   "nom": "Plan d'entraînement",
+   "colonnes": [
+    {
+     "nom": "Introduction",
+     "format": "texte"
+    },
+    {
+     "nom": "Objectifs",
+     "format": "texte"
+    },
+    {
+     "nom": "Phase 1",
+     "format": "texte"
+    },
+    {
+     "nom": "Phase 2",
+     "format": "texte"
+    },
+    {
+     "nom": "Phase 3",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Introduction",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Objectifs",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Phase 1",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Phase 2",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Phase 3",
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Phase 1",
+     "fonction": "SOMME"
+    },
+    {
+     "colonne": "Phase 2",
+     "fonction": "SOMME"
+    },
+    {
+     "colonne": "Phase 3",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Conclusion",
+   "colonnes": [
+    {
+     "nom": "Objectifs",
+     "format": "texte"
+    },
+    {
+     "nom": "Plan d'entraînement",
+     "format": "texte"
+    },
+    {
+     "nom": "Conclusion",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Conclusion",
+     "Le plan d'entraînement de course à pied sur 4 semaines est une excellente option pour vous permettre de développer votre endurance et de maintenir une bonne santé cardiovasculaire.",
+     null
+    ],
+    [
+     "Objectifs",
+     "Les objectifs du plan d'entraînement sont clairs :",
+     null
+    ],
+    [
+     "Plan d'entraînement",
+     "Le plan d'entraînement comprend 4 semaines, chaque semaine de 20 à 30 minutes de course à pied.",
+     null
+    ],
+    [
+     "Conclusion",
+     "Le plan d'entraînement de course à pied sur 4 semaines est une excellente option pour vous permettre de développer votre endurance et de maintenir une bonne santé cardiovasculaire.",
+     null
+    ]
+   ]
+  }
+ ]
+}

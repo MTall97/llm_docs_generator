@@ -1,0 +1,211 @@
+{
+ "type": "classeur",
+ "titre": "Notes du deuxième trimestre en mathématiques, groupe B",
+ "feuilles": [
+  {
+   "nom": "Amina",
+   "colonnes": [
+    {
+     "nom": "Note 1",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 2",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 3",
+     "format": "nombre"
+    },
+    {
+     "nom": "Moyenne",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     9,
+     11,
+     10,
+     null
+    ],
+    [
+     14,
+     16,
+     12,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Moyenne",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Bastien",
+   "colonnes": [
+    {
+     "nom": "Note 1",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 2",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 3",
+     "format": "nombre"
+    },
+    {
+     "nom": "Moyenne",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     9,
+     11,
+     10,
+     null
+    ],
+    [
+     12,
+     13,
+     8,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Moyenne",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Chloé",
+   "colonnes": [
+    {
+     "nom": "Note 1",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 2",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 3",
+     "format": "nombre"
+    },
+    {
+     "nom": "Moyenne",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     17,
+     18,
+     19,
+     null
+    ],
+    [
+     14,
+     15,
+     16,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Moyenne",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Diego",
+   "colonnes": [
+    {
+     "nom": "Note 1",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 2",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 3",
+     "format": "nombre"
+    },
+    {
+     "nom": "Moyenne",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     12,
+     8,
+     13,
+     null
+    ],
+    [
+     14,
+     16,
+     12,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Moyenne",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Emma",
+   "colonnes": [
+    {
+     "nom": "Note 1",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 2",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 3",
+     "format": "nombre"
+    },
+    {
+     "nom": "Moyenne",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     15,
+     14,
+     16,
+     null
+    ],
+    [
+     14,
+     15,
+     16,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Moyenne",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}

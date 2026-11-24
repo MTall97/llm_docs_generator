@@ -1,0 +1,77 @@
+{
+ "type": "presentation",
+ "titre": "Enquête de satisfaction médiathèque",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Enquête de satisfaction médiathèque"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Résultats",
+   "points": [
+    "82% satisfaits",
+    "61% horaires souhaitées",
+    "34% jeux vidéo",
+    "8,4/10 accueil"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Moyenne note",
+   "chiffre": "8,4",
+   "legende": "sur 10"
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "Les usagers demandent davantage de places assises (cité par 47 %) et un meilleur réseau wifi (cité par 39 %).",
+   "auteur": "Inconnu"
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Médiathèque",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Sujets de mécontentement",
+    "etiquettes": [
+     "Horaires",
+     "Prêt de jeux vidéo",
+     "Accueil"
+    ],
+    "series": [
+     {
+      "nom": "Horaires",
+      "valeurs": [
+       61,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "Prêt de jeux vidéo",
+      "valeurs": [
+       34,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "Accueil",
+      "valeurs": [
+       8,
+       4,
+       0
+      ]
+     }
+    ],
+    "legende": "Pourcentage des répondants"
+   },
+   "points": [
+    "61%",
+    "34%",
+    "8,4"
+   ]
+  }
+ ]
+}

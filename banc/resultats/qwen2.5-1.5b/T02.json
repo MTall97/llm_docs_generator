@@ -1,0 +1,53 @@
+{
+ "type": "document",
+ "titre": "Fiche pratique pour rempoter une plante d'intérieur",
+ "sections": [
+  {
+   "titre": "Matériel",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Un pot de taille adaptée à la plante."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Étapes",
+      "Méthodes"
+     ],
+     "lignes": [
+      [
+       "Nettoyer la chaîne",
+       "Arrosez la plante la veille pour faciliter la motte"
+      ],
+      [
+       "Vérifier les freins",
+       "Placez au fond du pot une couche de billes d'argile"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Étapes",
+   "blocs": [
+    {
+     "type": "liste",
+     "elements": [
+      "Nettoyer la chaîne",
+      "Vérifier les freins"
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Arrosez la plante la veille pour faciliter la motte",
+      "Placez au fond du pot une couche de billes d'argile"
+     ],
+     "ordonnee": true
+    }
+   ]
+  }
+ ]
+}

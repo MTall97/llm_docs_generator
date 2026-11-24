@@ -1,0 +1,2 @@
+graphique « Nombre de stages par année » : série '2025' ramenée à 2 valeurs
+graphique « Nombre de stages par année » : série '2026' ramenée à 2 valeurs

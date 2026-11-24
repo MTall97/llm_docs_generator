@@ -1,0 +1,107 @@
+[
+ {
+  "id": "T01",
+  "sorte": "document",
+  "mode": "texte",
+  "consigne": "Fais un compte rendu de réunion structuré.",
+  "texte": "Compte rendu du conseil d'école du 14 octobre 2026, école élémentaire Jean-Moulin. Présents : la directrice Mme Diallo, 9 enseignants, 6 représentants des parents et l'adjoint au maire chargé de l'éducation. Effectifs : l'école accueille 212 élèves répartis en 9 classes, soit 23,5 élèves par classe en moyenne. Travaux : la mairie a voté 45 000 euros pour refaire la cour ; les travaux auront lieu pendant les vacances de février. Sorties : les CM2 partiront en classe de mer à Saint-Malo du 11 au 15 mai ; le coût par élève est de 280 euros, dont 120 euros pris en charge par la coopérative. Cantine : les parents signalent des repas froids ; la mairie va installer deux armoires chauffantes avant décembre. Sécurité : un exercice d'évacuation a eu lieu le 2 octobre et s'est terminé en 3 minutes 40. Prochain conseil : le 10 février 2027."
+ },
+ {
+  "id": "T02",
+  "sorte": "document",
+  "mode": "texte",
+  "consigne": "Rédige une fiche pratique claire.",
+  "ton": "pedagogique",
+  "texte": "Pour rempoter une plante d'intérieur, choisissez un pot dont le diamètre dépasse l'ancien de 2 à 4 centimètres. Le meilleur moment est le printemps, de mars à mai, quand la plante reprend sa croissance. Arrosez la plante la veille pour que la motte sorte facilement. Placez au fond du pot une couche de billes d'argile d'environ 3 centimètres pour le drainage. Sortez la plante, démêlez les racines qui tournent en rond et coupez celles qui sont noires ou molles. Posez la plante, complétez avec du terreau neuf en tassant légèrement, en laissant 2 centimètres sous le bord du pot. Arrosez abondamment puis laissez la plante à l'ombre pendant une semaine. N'apportez pas d'engrais pendant un mois : le terreau neuf en contient déjà."
+ },
+ {
+  "id": "T03",
+  "sorte": "document",
+  "mode": "texte",
+  "consigne": "Fais un rapport avec un tableau et un graphique des ventes.",
+  "texte": "Bilan commercial de la boulangerie Le Fournil pour le premier semestre 2026. Chiffre d'affaires mensuel : janvier 38 200 euros, février 35 900 euros, mars 41 300 euros, avril 43 800 euros, mai 46 100 euros, juin 44 700 euros. Le total du semestre atteint 250 000 euros, en hausse de 7 % par rapport au premier semestre 2025. Le pain représente 52 % des ventes, la viennoiserie 28 %, la pâtisserie 15 % et les boissons 5 %. La hausse de mai s'explique par le lancement d'une gamme de sandwichs le midi. Le coût de la farine a augmenté de 11 % sur un an. L'équipe compte 7 salariés depuis l'embauche d'un apprenti en avril."
+ },
+ {
+  "id": "T04",
+  "sorte": "document",
+  "mode": "texte",
+  "consigne": "Mets en forme cette procédure avec un schéma des étapes.",
+  "texte": "Procédure de remboursement des notes de frais de l'association Solidarité Numérique. Le bénévole remplit le formulaire de note de frais dans les 30 jours suivant la dépense et y joint les justificatifs originaux. Il remet le dossier au trésorier. Le trésorier vérifie que la dépense a été autorisée par le bureau et que les justificatifs sont complets. Si le dossier est incomplet, il le renvoie au bénévole avec la liste des pièces manquantes. Si le dossier est complet, le président signe l'ordre de paiement. Le trésorier effectue alors le virement sous 15 jours. Les frais kilométriques sont remboursés 0,32 euro par kilomètre. Les repas sont remboursés dans la limite de 20 euros."
+ },
+ {
+  "id": "P01",
+  "sorte": "presentation",
+  "mode": "texte",
+  "consigne": "Fais une présentation de 5 à 7 diapositives pour l'assemblée générale.",
+  "texte": "Rapport moral 2026 du club de handball de Villeneuve. Le club compte 312 licenciés, contre 268 l'an dernier, soit une hausse de 16 %. La section féminine a doublé, passant de 45 à 90 joueuses. L'équipe senior masculine est montée en Nationale 3. Le club a organisé 4 stages pendant les vacances, suivis par 140 jeunes. Les finances sont équilibrées : 186 000 euros de recettes pour 181 000 euros de dépenses. Les principales recettes sont les licences (98 000 euros), les subventions (52 000 euros) et le sponsoring (36 000 euros). Points faibles : le manque de créneaux au gymnase et le départ de 3 entraîneurs. Projet 2027 : créer une section handball adapté et former 10 nouveaux arbitres."
+ },
+ {
+  "id": "P02",
+  "sorte": "presentation",
+  "mode": "texte",
+  "consigne": "Présentation pédagogique pour des collégiens.",
+  "ton": "pedagogique",
+  "texte": "Le cycle de l'eau décrit le parcours de l'eau sur Terre. Sous l'effet du Soleil, l'eau des océans, des lacs et des rivières s'évapore et devient de la vapeur d'eau. Les plantes rejettent aussi de la vapeur d'eau : c'est la transpiration. En montant, la vapeur se refroidit et se condense en fines gouttelettes qui forment les nuages. Quand les gouttelettes deviennent trop lourdes, elles tombent : ce sont les précipitations, pluie, neige ou grêle. Une partie de l'eau ruisselle vers les rivières et la mer, une autre s'infiltre dans le sol et alimente les nappes phréatiques. Les océans contiennent 97 % de l'eau de la planète ; l'eau douce ne représente que 3 %, dont plus des deux tiers sont gelés dans les glaciers."
+ },
+ {
+  "id": "P03",
+  "sorte": "presentation",
+  "mode": "texte",
+  "consigne": "Présentation qui compare les deux offres pour aider à décider.",
+  "texte": "Choix d'un logiciel de comptabilité pour le cabinet. Offre A, ComptaPlus : 49 euros par mois et par utilisateur, hébergée dans le cloud, mises à jour automatiques, assistance par courriel uniquement, migration des données facturée 1 200 euros. Offre B, LedgerPro : licence de 3 600 euros la première année puis 900 euros par an de maintenance, installation sur nos serveurs, assistance téléphonique, migration incluse. Le cabinet compte 6 utilisateurs. Sur trois ans, l'offre A coûte 11 784 euros et l'offre B 5 400 euros, hors coût de nos serveurs. L'équipe informatique préfère l'offre A pour éviter la maintenance des serveurs. La direction veut une décision avant le 15 janvier."
+ },
+ {
+  "id": "P04",
+  "sorte": "presentation",
+  "mode": "texte",
+  "consigne": "Présente les résultats de l'enquête.",
+  "ton": "concis",
+  "texte": "Enquête de satisfaction des usagers de la médiathèque, menée du 1er au 30 septembre 2026 auprès de 425 personnes. 82 % des répondants se disent satisfaits ou très satisfaits. Les horaires sont le premier sujet de mécontentement : 61 % souhaitent une ouverture le dimanche. Le prêt de jeux vidéo, lancé en 2025, est utilisé par 34 % des 15-25 ans. La note moyenne de l'accueil est de 8,4 sur 10. Les usagers demandent davantage de places assises (cité par 47 %) et un meilleur réseau wifi (cité par 39 %). La médiathèque prévoit d'ouvrir le dimanche après-midi à titre expérimental à partir de janvier."
+ },
+ {
+  "id": "C01",
+  "sorte": "classeur",
+  "mode": "texte",
+  "consigne": "Fais un budget avec les totaux par ligne et le total général.",
+  "texte": "Budget du voyage scolaire à Berlin pour 2 classes de seconde, soit 58 élèves et 6 accompagnateurs. Transport en car : 9 800 euros pour l'ensemble du groupe. Hébergement en auberge de jeunesse : 4 nuits à 31 euros par personne et par nuit, pour 64 personnes. Repas : 22 euros par personne et par jour pendant 5 jours, pour 64 personnes. Visites et musées : 18 euros par élève. Assurance : 6 euros par personne pour 64 personnes. Le lycée prend en charge 4 000 euros et le conseil régional 3 500 euros ; le reste est payé par les familles."
+ },
+ {
+  "id": "C02",
+  "sorte": "classeur",
+  "mode": "texte",
+  "consigne": "Fais un tableau de suivi des stocks avec la valeur de chaque produit.",
+  "texte": "Inventaire de l'épicerie solidaire au 1er décembre 2026. Pâtes : 140 paquets à 0,95 euro. Riz : 85 sachets à 1,40 euro. Huile : 42 bouteilles à 3,20 euros. Conserves de légumes : 210 boîtes à 1,10 euro. Lait : 96 briques à 0,89 euro. Café : 30 paquets à 4,50 euros. Savon : 64 pains à 1,25 euro. Couches : 18 paquets à 9,90 euros. Le seuil de réapprovisionnement est de 50 unités pour chaque produit."
+ },
+ {
+  "id": "C03",
+  "sorte": "classeur",
+  "mode": "texte",
+  "consigne": "Mets les notes dans un classeur avec la moyenne de chaque élève et la moyenne de la classe.",
+  "texte": "Notes du deuxième trimestre en mathématiques, groupe B. Amina : 14, 16 et 12. Bastien : 9, 11 et 10. Chloé : 17, 18 et 19. Diego : 12, 8 et 13. Emma : 15, 14 et 16. Farid : 11, 13 et 12. Les trois notes correspondent au contrôle 1, au contrôle 2 et au devoir maison."
+ },
+ {
+  "id": "S01",
+  "sorte": "document",
+  "mode": "sujet",
+  "sujet": "Le compostage en appartement : principe, matériel et erreurs à éviter"
+ },
+ {
+  "id": "S02",
+  "sorte": "document",
+  "mode": "sujet",
+  "sujet": "Les bonnes pratiques pour choisir un mot de passe",
+  "ton": "pedagogique"
+ },
+ {
+  "id": "S03",
+  "sorte": "presentation",
+  "mode": "sujet",
+  "sujet": "Pourquoi et comment réduire le gaspillage alimentaire à la cantine"
+ },
+ {
+  "id": "S04",
+  "sorte": "classeur",
+  "mode": "sujet",
+  "sujet": "Planning d'entraînement de course à pied sur 4 semaines pour débutant"
+ }
+]

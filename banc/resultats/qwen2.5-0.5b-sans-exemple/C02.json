@@ -1,0 +1,106 @@
+{
+ "type": "classeur",
+ "titre": "Suivi des stocks",
+ "feuilles": [
+  {
+   "nom": "Pâtes",
+   "colonnes": [
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "nombre"
+    }
+   ],
+   "lignes": [
+    [
+     1,
+     140
+    ]
+   ],
+   "totaux": []
+  },
+  {
+   "nom": "Riz",
+   "colonnes": [
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "nombre"
+    }
+   ],
+   "lignes": [
+    [
+     2,
+     85
+    ]
+   ],
+   "totaux": []
+  },
+  {
+   "nom": "Huile",
+   "colonnes": [
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "nombre"
+    }
+   ],
+   "lignes": [
+    [
+     3,
+     42
+    ]
+   ],
+   "totaux": []
+  },
+  {
+   "nom": "Conserves de légumes",
+   "colonnes": [
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "nombre"
+    }
+   ],
+   "lignes": [
+    [
+     4,
+     210
+    ]
+   ],
+   "totaux": []
+  },
+  {
+   "nom": "Lait",
+   "colonnes": [
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "nombre"
+    }
+   ],
+   "lignes": [
+    [
+     5,
+     96
+    ]
+   ],
+   "totaux": []
+  }
+ ]
+}

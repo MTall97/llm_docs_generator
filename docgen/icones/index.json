@@ -1,0 +1,285 @@
+{
+ "chart-bar": [
+  "graphique",
+  "statistiques",
+  "chiffres",
+  "données",
+  "barres"
+ ],
+ "chart-line": [
+  "courbe",
+  "évolution",
+  "tendance",
+  "croissance"
+ ],
+ "chart-pie": [
+  "camembert",
+  "répartition",
+  "part"
+ ],
+ "trending-up": [
+  "hausse",
+  "augmentation",
+  "progression",
+  "croissance"
+ ],
+ "trending-down": [
+  "baisse",
+  "diminution",
+  "recul"
+ ],
+ "coin": [
+  "argent",
+  "euro",
+  "monnaie",
+  "prix",
+  "coût"
+ ],
+ "wallet": [
+  "budget",
+  "portefeuille",
+  "finances",
+  "dépenses"
+ ],
+ "building-bank": [
+  "banque",
+  "finance"
+ ],
+ "shopping-cart": [
+  "achat",
+  "commerce",
+  "vente",
+  "panier"
+ ],
+ "users": [
+  "équipe",
+  "personnes",
+  "groupe",
+  "membres",
+  "collaborateurs"
+ ],
+ "user": [
+  "personne",
+  "utilisateur",
+  "client"
+ ],
+ "school": [
+  "école",
+  "éducation",
+  "formation",
+  "enseignement"
+ ],
+ "book": [
+  "livre",
+  "lecture",
+  "documentation"
+ ],
+ "bulb": [
+  "idée",
+  "innovation",
+  "conseil",
+  "astuce"
+ ],
+ "target": [
+  "objectif",
+  "cible",
+  "but"
+ ],
+ "flag": [
+  "étape",
+  "jalon",
+  "drapeau"
+ ],
+ "calendar": [
+  "calendrier",
+  "date",
+  "planning",
+  "agenda"
+ ],
+ "clock": [
+  "temps",
+  "durée",
+  "horaire",
+  "délai"
+ ],
+ "rocket": [
+  "lancement",
+  "démarrage",
+  "projet"
+ ],
+ "settings": [
+  "réglages",
+  "paramètres",
+  "configuration",
+  "outil"
+ ],
+ "tool": [
+  "outil",
+  "maintenance",
+  "réparation"
+ ],
+ "shield-check": [
+  "sécurité",
+  "protection",
+  "conformité"
+ ],
+ "lock": [
+  "confidentialité",
+  "verrou",
+  "accès"
+ ],
+ "alert-triangle": [
+  "attention",
+  "risque",
+  "danger",
+  "alerte"
+ ],
+ "circle-check": [
+  "validé",
+  "réussite",
+  "ok",
+  "terminé"
+ ],
+ "circle-x": [
+  "échec",
+  "erreur",
+  "refus"
+ ],
+ "leaf": [
+  "écologie",
+  "environnement",
+  "nature",
+  "durable"
+ ],
+ "recycle": [
+  "recyclage",
+  "déchets"
+ ],
+ "bolt": [
+  "énergie",
+  "électricité",
+  "rapide"
+ ],
+ "sun": [
+  "soleil",
+  "solaire",
+  "été"
+ ],
+ "droplet": [
+  "eau"
+ ],
+ "world": [
+  "monde",
+  "international",
+  "planète",
+  "global"
+ ],
+ "map-pin": [
+  "lieu",
+  "adresse",
+  "localisation"
+ ],
+ "home": [
+  "maison",
+  "logement",
+  "accueil"
+ ],
+ "building": [
+  "entreprise",
+  "bâtiment",
+  "bureau"
+ ],
+ "truck": [
+  "transport",
+  "livraison",
+  "logistique"
+ ],
+ "car": [
+  "voiture",
+  "mobilité"
+ ],
+ "heart": [
+  "santé",
+  "cœur",
+  "bien-être"
+ ],
+ "stethoscope": [
+  "médecin",
+  "médical",
+  "soin"
+ ],
+ "device-laptop": [
+  "ordinateur",
+  "informatique",
+  "numérique"
+ ],
+ "device-mobile": [
+  "téléphone",
+  "mobile",
+  "smartphone"
+ ],
+ "cloud": [
+  "nuage",
+  "cloud"
+ ],
+ "database": [
+  "base",
+  "de",
+  "données",
+  "stockage"
+ ],
+ "code": [
+  "code",
+  "programmation",
+  "développement",
+  "logiciel"
+ ],
+ "mail": [
+  "courriel",
+  "email",
+  "message"
+ ],
+ "message-circle": [
+  "discussion",
+  "communication",
+  "échange"
+ ],
+ "file-text": [
+  "document",
+  "rapport",
+  "fichier",
+  "texte"
+ ],
+ "list-check": [
+  "liste",
+  "tâches",
+  "checklist"
+ ],
+ "search": [
+  "recherche",
+  "analyse",
+  "loupe"
+ ],
+ "scale": [
+  "justice",
+  "droit",
+  "équilibre"
+ ],
+ "chef-hat": [
+  "cuisine",
+  "recette",
+  "chef"
+ ],
+ "ball-football": [
+  "sport",
+  "football"
+ ],
+ "music": [
+  "musique"
+ ],
+ "plant": [
+  "plante",
+  "agriculture",
+  "jardin"
+ ]
+}

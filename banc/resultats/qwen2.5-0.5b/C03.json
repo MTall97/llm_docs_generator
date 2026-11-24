@@ -1,0 +1,94 @@
+{
+ "type": "classeur",
+ "titre": "Moyennes des notes",
+ "feuilles": [
+  {
+   "nom": "Achats",
+   "colonnes": [
+    {
+     "nom": "Pièce",
+     "format": "texte"
+    },
+    {
+     "nom": "Prix",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Moyenne",
+     "format": "monnaie",
+     "formule": "{Prix} / {Quantité}"
+    },
+    {
+     "nom": "Moyenne",
+     "format": "monnaie",
+     "formule": "{Prix} * {Quantité}"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie",
+     "formule": "{Prix} * {Quantité}"
+    }
+   ],
+   "lignes": [
+    [
+     "Amina",
+     14,
+     2,
+     null,
+     13.5,
+     14
+    ],
+    [
+     "Bastien",
+     9,
+     4,
+     null,
+     10.5,
+     11
+    ],
+    [
+     "Chloé",
+     17,
+     4,
+     null,
+     16.5,
+     18
+    ],
+    [
+     "Diego",
+     12,
+     3,
+     null,
+     15.5,
+     14
+    ],
+    [
+     "Emma",
+     15,
+     4,
+     null,
+     16.5,
+     17
+    ],
+    [
+     "Farid",
+     11,
+     3,
+     null,
+     12.5,
+     13
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}

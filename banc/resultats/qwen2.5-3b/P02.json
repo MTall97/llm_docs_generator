@@ -1,0 +1,77 @@
+{
+ "type": "presentation",
+ "titre": "Le Cycle de l'Eau",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Le Cycle de l'Eau",
+   "sous_titre": "Atelier du samedi"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Évaporation",
+   "points": [
+    "Océans",
+    "Lacs",
+    "Rivières"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Glace",
+   "chiffre": "97",
+   "legende": "%"
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Cycle de l'Eau",
+   "image": {
+    "type": "graphique",
+    "forme": "courbes",
+    "titre": "Évolution de l'eau sur Terre",
+    "etiquettes": [
+     "Évaporation",
+     "Condensation",
+     "Précipitations"
+    ],
+    "series": [
+     {
+      "nom": "Évaporation",
+      "valeurs": [
+       10,
+       20,
+       30
+      ]
+     },
+     {
+      "nom": "Condensation",
+      "valeurs": [
+       5,
+       15,
+       25
+      ]
+     },
+     {
+      "nom": "Précipitations",
+      "valeurs": [
+       1,
+       2,
+       3
+      ]
+     }
+    ],
+    "legende": "Pourcentage de l'eau sur Terre"
+   },
+   "points": [
+    "97%",
+    "3%",
+    "2%"
+   ]
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "Le cycle de l'eau est un processus complexe reliant les océans, les rivières et la vie sur Terre.",
+   "auteur": "Écologiste"
+  }
+ ]
+}

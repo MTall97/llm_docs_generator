@@ -1,0 +1,182 @@
+{
+ "type": "presentation",
+ "titre": "Assemblée générale du club de handball de Villeneuve",
+ "diapositives": [
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Points faibles",
+   "gauche": {
+    "titre": "Points faibles",
+    "points": [
+     "le manque de créneaux au gymnase et le départ de 3 entraîneurs."
+    ]
+   },
+   "droite": {
+    "titre": "Points faibles",
+    "points": [
+     "le manque de créneaux au gymnase et le départ de 3 entraîneurs."
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Projet 2027",
+   "gauche": {
+    "titre": "Projet 2027",
+    "points": [
+     "créer une section handball adapté et former 10 nouveaux arbitres."
+    ]
+   },
+   "droite": {
+    "titre": "Projet 2027",
+    "points": [
+     "créer une section handball adapté et former 10 nouveaux arbitres."
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Finances",
+   "gauche": {
+    "titre": "Finances",
+    "points": [
+     "186 000 euros de recettes pour 181 000 euros de dépenses."
+    ]
+   },
+   "droite": {
+    "titre": "Finances",
+    "points": [
+     "186 000 euros de recettes pour 181 000 euros de dépenses."
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Licenciés",
+   "gauche": {
+    "titre": "Licenciés",
+    "points": [
+     "312 licenciés contre 268 l'an dernier, soit une hausse de 16 %."
+    ]
+   },
+   "droite": {
+    "titre": "Licenciés",
+    "points": [
+     "312 licenciés contre 268 l'an dernier, soit une hausse de 16 %."
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Joueuses",
+   "gauche": {
+    "titre": "Joueuses",
+    "points": [
+     "90 joueuses contre 45 l'an dernier, soit une baisse de 65 %."
+    ]
+   },
+   "droite": {
+    "titre": "Joueuses",
+    "points": [
+     "90 joueuses contre 45 l'an dernier, soit une baisse de 65 %."
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Équipe senior masculine",
+   "gauche": {
+    "titre": "Équipe senior masculine",
+    "points": [
+     "90 joueuses contre 45 l'an dernier, soit une baisse de 65 %."
+    ]
+   },
+   "droite": {
+    "titre": "Équipe senior masculine",
+    "points": [
+     "90 joueuses contre 45 l'an dernier, soit une baisse de 65 %."
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Équipe senior féminine",
+   "gauche": {
+    "titre": "Équipe senior féminine",
+    "points": [
+     "45 joueuses contre 90 l'an dernier, soit une augmentation de 65 %."
+    ]
+   },
+   "droite": {
+    "titre": "Équipe senior féminine",
+    "points": [
+     "45 joueuses contre 90 l'an dernier, soit une augmentation de 65 %."
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Gymnase",
+   "gauche": {
+    "titre": "Gymnase",
+    "points": [
+     "le manque de créneaux au gymnase et le départ de 3 entraîneurs."
+    ]
+   },
+   "droite": {
+    "titre": "Gymnase",
+    "points": [
+     "le manque de créneaux au gymnase et le départ de 3 entraîneurs."
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Projet 2027",
+   "gauche": {
+    "titre": "Projet 2027",
+    "points": [
+     "créer une section handball adapté et former 10 nouveaux arbitres."
+    ]
+   },
+   "droite": {
+    "titre": "Projet 2027",
+    "points": [
+     "créer une section handball adapté et former 10 nouveaux arbitres."
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Finances",
+   "gauche": {
+    "titre": "Finances",
+    "points": [
+     "186 000 euros de recettes pour 181 000 euros de dépenses."
+    ]
+   },
+   "droite": {
+    "titre": "Finances",
+    "points": [
+     "186 000 euros de recettes pour 181 000 euros de dépenses."
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Licenciés",
+   "gauche": {
+    "titre": "Licenciés",
+    "points": [
+     "312 licenciés contre 268 l'an dernier, soit une hausse de 16 %."
+    ]
+   },
+   "droite": {
+    "titre": "Licenciés",
+    "points": [
+     "312 licenciés contre 268 l'an dernier, soit une hausse de 16 %."
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "type": "classeur",
+ "titre": "Plan d'entraînement de course à pied pour débutant sur 4 semaines",
+ "feuilles": [
+  {
+   "nom": "Semaine 1",
+   "colonnes": [
+    {
+     "nom": "Exercice",
+     "format": "texte"
+    },
+    {
+     "nom": "Durée",
+     "format": "nombre"
+    },
+    {
+     "nom": "Type",
+     "format": "texte"
+    },
+    {
+     "nom": "Monnaie",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Pourcentage",
+     "format": "pourcentage"
+    },
+    {
+     "nom": "Date",
+     "format": "date"
+    }
+   ],
+   "lignes": [
+    [
+     "Exercice de fond",
+     30,
+     "exercices de fond",
+     null,
+     null,
+     null
+    ],
+    [
+     "Exercice de sprint",
+     15,
+     "exercices de sprint",
+     null,
+     null,
+     null
+    ]
+   ],
+   "totaux": []
+  },
+  {
+   "nom": "Semaine 2",
+   "colonnes": [
+    {
+     "nom": "Jour",
+     "format": "texte"
+    },
+    {
+     "nom": "Exercices de fond",
+     "format": "texte"
+    },
+    {
+     "nom": "Exercices de sprint",
+     "format": "texte"
+    },
+    {
+     "nom": "Durée",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie",
+     "formule": "{Exercices de fond} * {Durée} + {Exercices de sprint} * {Durée}"
+    }
+   ],
+   "lignes": [
+    [
+     "1",
+     "Fond",
+     "Sprint",
+     30,
+     null
+    ],
+    [
+     "2",
+     "Fond",
+     "Sprint",
+     30,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Semaine 3",
+   "colonnes": [
+    {
+     "nom": "Jour",
+     "format": "texte"
+    },
+    {
+     "nom": "Type de séance",
+     "format": "texte"
+    },
+    {
+     "nom": "Durée",
+     "format": "nombre"
+    },
+    {
+     "nom": "Masse corporelle",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Pourcentage d'effort",
+     "format": "pourcentage"
+    },
+    {
+     "nom": "Date",
+     "format": "date"
+    }
+   ],
+   "lignes": [
+    [
+     "1",
+     "Séance de course à pied",
+     45,
+     null,
+     60,
+     "2023-09-15"
+    ],
+    [
+     "2",
+     "Séance d'entraînement de force",
+     45,
+     null,
+     70,
+     "2023-09-16"
+    ],
+    [
+     "3",
+     "Séance de course à pied",
+     45,
+     null,
+     80,
+     "2023-09-17"
+    ],
+    [
+     "4",
+     "Séance d'entraînement de force",
+     45,
+     null,
+     90,
+     "2023-09-18"
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Type de séance",
+     "fonction": "SOMME"
+    },
+    {
+     "colonne": "Durée",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Semaine 4",
+   "colonnes": [
+    {
+     "nom": "Pièce",
+     "format": "texte"
+    },
+    {
+     "nom": "Prix",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie",
+     "formule": "{Prix} * {Quantité}"
+    }
+   ],
+   "lignes": [
+    [
+     "Exercices de fond",
+     10,
+     2,
+     null
+    ],
+    [
+     "Exercices de sprint",
+     5,
+     3,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}

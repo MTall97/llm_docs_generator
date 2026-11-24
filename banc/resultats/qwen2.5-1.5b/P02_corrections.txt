@@ -1,0 +1,24 @@
+graphique « Pourcentage d'eau dans les océans » : série 'océans' ramenée à 4 valeurs
+graphique « Pourcentage d'eau dans les océans » : série 'lacs et rivières' ramenée à 4 valeurs
+graphique « Pourcentage d'eau dans les océans » : série 'nappes phréatiques' ramenée à 4 valeurs
+graphique « Pourcentage d'eau dans les océans » : série 'glaces' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'océans' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'lacs et rivières' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'nappes phréatiques' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'glaces' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'océans' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'lacs et rivières' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'nappes phréatiques' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'glaces' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'océans' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'lacs et rivières' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'nappes phréatiques' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'glaces' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'océans' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'lacs et rivières' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'nappes phréatiques' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'glaces' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'océans' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'lacs et rivières' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'nappes phréatiques' ramenée à 4 valeurs
+graphique « Pourcentage de l'eau douce sur Terre » : série 'glaces' ramenée à 4 valeurs

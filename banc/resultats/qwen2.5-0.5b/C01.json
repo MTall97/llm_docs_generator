@@ -1,0 +1,110 @@
+{
+ "type": "classeur",
+ "titre": "Budget scolaire Berlin",
+ "feuilles": [
+  {
+   "nom": "Achats",
+   "colonnes": [
+    {
+     "nom": "Total",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Budget",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Hébergement",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Repas",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Visites et musées",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Assurance",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "Budget",
+     9800,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Hébergement",
+     4000,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Repas",
+     2200,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Visites et musées",
+     1800,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Assurance",
+     4000,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Total",
+     9800,
+     4000,
+     2200,
+     1800,
+     4000,
+     6000
+    ],
+    [
+     "Total",
+     "monnaie",
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}

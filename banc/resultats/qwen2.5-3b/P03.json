@@ -1,0 +1,86 @@
+{
+ "type": "presentation",
+ "titre": "Comparaison des offres de logiciel de comptabilité",
+ "diapositives": [
+  {
+   "mise_en_page": "points",
+   "titre": "Coût mensuel",
+   "points": [
+    "Offre A : 49 euros par utilisateur",
+    "Offre B : 900 euros par an"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Total",
+   "chiffre": "5 400",
+   "legende": "pour l'offre B"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Mises à jour",
+   "points": [
+    "Offre A : automatiques",
+    "Offre B : téléphoniques"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Migration",
+   "chiffre": "1 200",
+   "legende": "pour l'offre A"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Assistance",
+   "points": [
+    "Offre A : courriel uniquement",
+    "Offre B : téléphonique et assistance"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Total",
+   "chiffre": "11 784",
+   "legende": "pour l'offre A"
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "La direction veut une décision avant le 15 janvier."
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Coûts comparatifs",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Coûts par an",
+    "etiquettes": [
+     "Offre A",
+     "Offre B"
+    ],
+    "series": [
+     {
+      "nom": "Offre A",
+      "valeurs": [
+       11784,
+       0
+      ]
+     },
+     {
+      "nom": "Offre B",
+      "valeurs": [
+       5400,
+       0
+      ]
+     }
+    ],
+    "legende": "en euros"
+   },
+   "points": [
+    "Coûts totaux de l'offre A : 11 784 euros",
+    "Coûts totaux de l'offre B : 5 400 euros"
+   ]
+  }
+ ]
+}

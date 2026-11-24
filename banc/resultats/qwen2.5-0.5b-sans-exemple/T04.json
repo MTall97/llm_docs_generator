@@ -1,0 +1,385 @@
+{
+ "type": "document",
+ "titre": "Procédure de remboursement des notes de frais de l'association Solidarité Numérique",
+ "sections": [
+  {
+   "titre": "1. Procédures de remboursement",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le bénévole remplit le formulaire de note de frais dans les 30 jours suivant la dépense et y joint les justificatifs originaux. Il remet le dossier au trésorier."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "remboursement",
+      "dossier",
+      "trésorier"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Le trésorier vérifie que la dépense a été autorisée par le bureau et que les justificatifs sont complets."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "trésorier",
+      "vérification"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Si le dossier est incomplet, il le renvoie au bénévole avec la liste des pièces manquantes."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "trésorier",
+      "renvoi"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Si le dossier est complet, le président signe l'ordre de paiement."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "president",
+      "signe"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "2. Virement des frais kilométriques",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le trésorier effectue alors le virement sous 15 jours."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "trésorier"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "kilométriques",
+      "remboursement"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les repas sont remboursés dans la limite de 20 euros."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "repas",
+      "limite",
+      "remboursement"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "3. Étapes complémentaires",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "kilométriques",
+      "remboursement",
+      "frais",
+      "kilomètres",
+      "remboursement"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les repas sont remboursés dans la limite de 20 euros."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "repas",
+      "limite",
+      "remboursement"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "4. Étapes suivantes",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "kilométriques",
+      "remboursement",
+      "frais",
+      "kilomètres",
+      "remboursement"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les repas sont remboursés dans la limite de 20 euros."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "repas",
+      "limite",
+      "remboursement"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "5. Étapes ultérieures",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "kilométriques",
+      "remboursement",
+      "frais",
+      "kilomètres",
+      "remboursement"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les repas sont remboursés dans la limite de 20 euros."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "repas",
+      "limite",
+      "remboursement"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "6. Étapes finales",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "kilométriques",
+      "remboursement",
+      "frais",
+      "kilomètres",
+      "remboursement"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les repas sont remboursés dans la limite de 20 euros."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "repas",
+      "limite",
+      "remboursement"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "7. Étapes ultérieures",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "kilométriques",
+      "remboursement",
+      "frais",
+      "kilomètres",
+      "remboursement"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les repas sont remboursés dans la limite de 20 euros."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "repas",
+      "limite",
+      "remboursement"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "8. Étapes finales",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "kilométriques",
+      "remboursement",
+      "frais",
+      "kilomètres",
+      "remboursement"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les repas sont remboursés dans la limite de 20 euros."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "repas",
+      "limite",
+      "remboursement"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "9. Étapes ultérieures",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "kilométriques",
+      "remboursement",
+      "frais",
+      "kilomètres",
+      "remboursement"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les repas sont remboursés dans la limite de 20 euros."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "repas",
+      "limite",
+      "remboursement"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "10. Étapes finales",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "kilométriques",
+      "remboursement",
+      "frais",
+      "kilomètres",
+      "remboursement"
+     ]
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les repas sont remboursés dans la limite de 20 euros."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "procédure",
+      "virement",
+      "repas",
+      "limite",
+      "remboursement"
+     ]
+    }
+   ]
+  }
+ ],
+ "sous_titre": "Sources de données"
+}

@@ -1,0 +1,141 @@
+{
+ "type": "document",
+ "titre": "Compte rendu du conseil d'école du 14 octobre 2026",
+ "sections": [
+  {
+   "titre": "Présentation des participants",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "La directrice Mme Diallo est présente, ainsi que 9 enseignants et 6 parents représentants. L'adjoint au maire chargé de l'éducation participe également."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Personnes",
+      "Nombre"
+     ],
+     "lignes": [
+      [
+       "Directrice Mme Diallo",
+       "1"
+      ],
+      [
+       "Enseignants",
+       "9"
+      ],
+      [
+       "Parents représentants",
+       "6"
+      ],
+      [
+       "Adjoint au maire chargé de l'éducation",
+       "1"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Effectifs et travaux",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "L'école accueille 212 élèves répartis en 9 classes, soit 23,5 élèves par classe en moyenne."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Travaux",
+      "Montant"
+     ],
+     "lignes": [
+      [
+       "Mairie pour refaire la cour",
+       "45 000 euros"
+      ],
+      [
+       "Costume par élève",
+       "280 euros"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Sorties",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les CM2 partiront en classe de mer à Saint-Malo du 11 au 15 mai."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Travaux",
+      "Coût par élève"
+     ],
+     "lignes": [
+      [
+       "CM2",
+       "280 euros"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Cantine",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les parents signalent des repas froids ; la mairie va installer deux armoires chauffantes avant décembre."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Travaux",
+      "Montant"
+     ],
+     "lignes": [
+      [
+       "Armoires chauffantes",
+       "280 euros"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Sécurité",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Un exercice d'évacuation a eu lieu le 2 octobre et s'est terminé en 3 minutes 40."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Travaux",
+      "Temps"
+     ],
+     "lignes": [
+      [
+       "Exercice d'évacuation",
+       "3 minutes 40"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Prochain conseil",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le prochain conseil se tiendra le 10 février 2027."
+    }
+   ]
+  }
+ ]
+}

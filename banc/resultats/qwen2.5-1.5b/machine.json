@@ -1,0 +1,7 @@
+{
+ "modele": "qwen2.5-1.5b",
+ "fichier_mo": 1117,
+ "chargement_s": 0.6,
+ "memoire_max_mo": 2384,
+ "threads": 4
+}

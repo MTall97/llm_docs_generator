@@ -1,0 +1,31 @@
+{
+ "type": "presentation",
+ "titre": "Comparaison des offres d'un logiciel de comptabilité pour le cabinet",
+ "diapositives": [
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Offre A",
+   "gauche": {
+    "titre": "ComptaPlus",
+    "points": [
+     ":49 euros par mois et par utilisateur",
+     "mises à jour automatiques",
+     "assistance par courriel uniquement",
+     "migration des données facturée 1 200 euros"
+    ]
+   },
+   "droite": {
+    "titre": "Offre A",
+    "points": [
+     ":11 784 euros",
+     "à partir de 3 ans",
+     "mises à jour automatiques",
+     "assistance par courriel uniquement",
+     "migration des données facturée 1 200 euros"
+    ]
+   },
+   "notes": "L'équipe informatique préfère l'offre A pour éviter la maintenance des serveurs. La direction veut une décision avant le 15 janvier."
+  }
+ ],
+ "sous_titre": "Réponse aux questions de décision"
+}

@@ -1,0 +1,43 @@
+{
+ "type": "presentation",
+ "titre": "Assemblée générale du club de handball de Villeneuve",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Assemblée générale du club de handball de Villeneuve",
+   "sous_titre": "Rapport 2026"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Graisser la chaîne",
+   "points": [
+    "Graisser la chaîne",
+    "Gonfler les pneus"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Pression",
+   "chiffre": "4 bars",
+   "legende": "pour un club de handball"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Développer la section féminine",
+   "chiffre": "90 joueuses",
+   "legende": "de 2026 à 2027"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Équilibre finances",
+   "chiffre": "186 000 euros de recettes pour 181 000 euros de dépenses",
+   "legende": "deux ans"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Projet 2027",
+   "chiffre": "10 nouveaux arbitres",
+   "legende": "pour 2027"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+feuille « Pâtes » : formule sans référence de colonne retirée ('140 * 0.95')
+feuille « Pâtes » : formule sans référence de colonne retirée ('140 * 0.95')
+feuille « Pâtes » : ligne ramenée à 2 cellules
+feuille « Riz » : formule sans référence de colonne retirée ('85 * 1.40')
+feuille « Riz » : formule sans référence de colonne retirée ('85 * 1.40')
+feuille « Riz » : ligne ramenée à 2 cellules
+feuille « Huile » : formule sans référence de colonne retirée ('42 * 3.20')
+feuille « Huile » : formule sans référence de colonne retirée ('42 * 3.20')
+feuille « Huile » : ligne ramenée à 2 cellules
+feuille « Conserves de légumes » : formule sans référence de colonne retirée ('210 * 1.10')
+feuille « Conserves de légumes » : formule sans référence de colonne retirée ('210 * 1.10')
+feuille « Conserves de légumes » : ligne ramenée à 2 cellules
+feuille « Lait » : formule sans référence de colonne retirée ('96 * 0.89')
+feuille « Lait » : formule sans référence de colonne retirée ('96 * 0.89')
+feuille « Lait » : ligne ramenée à 2 cellules

@@ -1,0 +1,42 @@
+{
+ "type": "document",
+ "titre": "Les bonnes pratiques pour choisir un mot de passe",
+ "sections": [
+  {
+   "titre": "Introduction",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Un mot de passe est une combinaison de caractères utilisée pour se connecter à des systèmes informatiques. Il est essentiel pour protéger les informations personnelles et financières contre les menaces cyber.</p>"
+    }
+   ]
+  },
+  {
+   "titre": "Principaux points à considérer",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Il est crucial de sélectionner un mot de passe qui soit fort, facile à retenir mais difficile à deviner. Un bon mot de passe doit être long et complexe, comportant une combinaison de lettres, chiffres et caractères spéciaux. Il est également important de changer régulièrement votre mot de passe pour prévenir les attaques de phishing ou d'autres menaces cyber.</p>"
+    }
+   ]
+  },
+  {
+   "titre": "Pratiques recommandées",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les bonnes pratiques pour choisir un mot de passe incluent une longueur maximale, une variété de caractères et l'utilisation d'un système de chiffrement. Une longueur maximale de 12 caractères est généralement recommandée pour maximiser la sécurité. La diversité des caractères, y compris les majuscules, minuscules, chiffres et symboles, renforce la protection contre les attaques par brute force. L'utilisation d'un système de chiffrement, tel que le bcrypt ou le scrypt, est également recommandée pour garantir une sécurité accrue."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Longueur maximale de 12 caractères",
+      "Diversité des caractères",
+      "Système de chiffrement"
+     ],
+     "ordonnee": true
+    }
+   ]
+  }
+ ]
+}

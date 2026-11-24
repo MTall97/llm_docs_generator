@@ -1,0 +1,3 @@
+tableau « microorganismes » : ligne 1 ramenée à 3 cellules
+tableau « microorganismes » : ligne 2 ramenée à 3 cellules
+tableau « microorganismes » : ligne 3 ramenée à 3 cellules

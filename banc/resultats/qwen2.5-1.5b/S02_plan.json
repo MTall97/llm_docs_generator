@@ -1,0 +1,21 @@
+{
+ "titre": "Les bonnes pratiques pour choisir un mot de passe",
+ "parties": [
+  {
+   "titre": "Introduction",
+   "idee": "Un mot de passe est une combinaison de caractères utilisée pour se connecter à des systèmes informatiques."
+  },
+  {
+   "titre": "Principaux points à considérer",
+   "idee": "Il est important de choisir un mot de passe robuste, facile à retenir mais difficile à deviner."
+  },
+  {
+   "titre": "Pratiques recommandées",
+   "idee": "Les bonnes pratiques incluent une longueur maximale, une variété de caractères et l'utilisation d'un système de chiffrement."
+  },
+  {
+   "titre": "Conclusion",
+   "idee": "La sécurité des comptes est primordiale, il faut donc respecter les bonnes pratiques pour préserver la confidentialité."
+  }
+ ]
+}

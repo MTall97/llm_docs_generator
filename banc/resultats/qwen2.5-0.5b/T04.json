@@ -1,0 +1,46 @@
+{
+ "type": "document",
+ "titre": "Procédure de remboursement des notes de frais Solidarité Numérique",
+ "sections": [
+  {
+   "titre": "Étapes",
+   "blocs": [
+    {
+     "type": "liste",
+     "elements": [
+      "Remplir le formulaire de note de frais",
+      "Nettoyer les documents",
+      "Jouer les justificatifs originaux",
+      "Remettre le dossier au trésorier"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Schéma des étapes",
+   "blocs": [
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Remplir le formulaire de note de frais",
+       "vers": "Nettoyer les documents"
+      },
+      {
+       "de": "Nettoyer les documents",
+       "vers": "Jouer les justificatifs originaux"
+      },
+      {
+       "de": "Jouer les justificatifs originaux",
+       "vers": "Remettre le dossier au trésorier"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "remboursement des notes de frais"
+    }
+   ]
+  }
+ ]
+}

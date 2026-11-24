@@ -1,0 +1,62 @@
+{
+ "type": "document",
+ "titre": "Bilan commercial de la boulangerie Le Fournil pour le premier semestre 2026",
+ "sections": [
+  {
+   "titre": "Chiffre d'affaires",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le total du semestre atteint 250 000 euros, en hausse de 7 % par rapport au premier semestre 2025."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Mesures",
+      "Chiffre"
+     ],
+     "lignes": [
+      [
+       "Marché",
+       "41 300 euros"
+      ],
+      [
+       "Marché",
+       "43 800 euros"
+      ],
+      [
+       "Marché",
+       "46 100 euros"
+      ],
+      [
+       "Marché",
+       "44 700 euros"
+      ],
+      [
+       "Marché",
+       "45 200 euros"
+      ],
+      [
+       "Marché",
+       "46 900 euros"
+      ]
+     ],
+     "legende": "12"
+    }
+   ]
+  },
+  {
+   "titre": "Étapes",
+   "blocs": [
+    {
+     "type": "liste",
+     "elements": [
+      "Mesures",
+      "Chiffre"
+     ],
+     "ordonnee": true
+    }
+   ]
+  }
+ ]
+}

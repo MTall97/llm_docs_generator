@@ -1,0 +1,438 @@
+{
+ "type": "presentation",
+ "titre": "Cycle de l'eau",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Cycle de l'eau"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Sous-entendus",
+   "points": [
+    "Évaporation des océans, lacs et rivières",
+    "Transpiration des plantes",
+    "Condensation en nuages",
+    "Tombée des précipitations",
+    "Ruisseau vers les nappes phréatiques",
+    "Gel des glaciers"
+   ],
+   "notes": "Les étapes du cycle de l'eau sont interconnectées."
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "97%",
+   "chiffre": "pourcentage d'eau dans les océans",
+   "legende": "sur Terre",
+   "notes": "La planète est majoritairement composée d'eau."
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Diagramme",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Pourcentage d'eau dans les océans",
+    "etiquettes": [
+     "97%",
+     "3%",
+     "2%",
+     "1%"
+    ],
+    "series": [
+     {
+      "nom": "océans",
+      "valeurs": [
+       97,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "lacs et rivières",
+      "valeurs": [
+       0,
+       3,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "nappes phréatiques",
+      "valeurs": [
+       0,
+       2,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "glaces",
+      "valeurs": [
+       0,
+       1,
+       0,
+       0
+      ]
+     }
+    ],
+    "legende": "Pourcentage de l'eau douce sur Terre"
+   },
+   "points": [
+    "97% des océans",
+    "3% des nappes phréatiques",
+    "2% des lacs et rivières",
+    "1% des glaciers"
+   ],
+   "notes": "Les océans contiennent la majorité de l'eau douce."
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "3%",
+   "chiffre": "pourcentage de l'eau douce",
+   "legende": "sur Terre",
+   "notes": "La planète est composée d'97% d'eau, mais seulement 3% est en forme d'eau douce."
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Diagramme",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Pourcentage de l'eau douce sur Terre",
+    "etiquettes": [
+     "97%",
+     "3%",
+     "2%",
+     "1%"
+    ],
+    "series": [
+     {
+      "nom": "océans",
+      "valeurs": [
+       97,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "lacs et rivières",
+      "valeurs": [
+       0,
+       3,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "nappes phréatiques",
+      "valeurs": [
+       0,
+       2,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "glaces",
+      "valeurs": [
+       0,
+       1,
+       0,
+       0
+      ]
+     }
+    ],
+    "legende": "Pourcentage de l'eau douce sur Terre"
+   },
+   "points": [
+    "97% des océans",
+    "3% des nappes phréatiques",
+    "2% des lacs et rivières",
+    "1% des glaciers"
+   ],
+   "notes": "Les océans contiennent la majorité de l'eau douce."
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "3%",
+   "chiffre": "pourcentage de l'eau douce",
+   "legende": "sur Terre",
+   "notes": "La planète est composée d'97% d'eau, mais seulement 3% est en forme d'eau douce."
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Diagramme",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Pourcentage de l'eau douce sur Terre",
+    "etiquettes": [
+     "97%",
+     "3%",
+     "2%",
+     "1%"
+    ],
+    "series": [
+     {
+      "nom": "océans",
+      "valeurs": [
+       97,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "lacs et rivières",
+      "valeurs": [
+       0,
+       3,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "nappes phréatiques",
+      "valeurs": [
+       0,
+       2,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "glaces",
+      "valeurs": [
+       0,
+       1,
+       0,
+       0
+      ]
+     }
+    ],
+    "legende": "Pourcentage de l'eau douce sur Terre"
+   },
+   "points": [
+    "97% des océans",
+    "3% des nappes phréatiques",
+    "2% des lacs et rivières",
+    "1% des glaciers"
+   ],
+   "notes": "Les océans contiennent la majorité de l'eau douce."
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "3%",
+   "chiffre": "pourcentage de l'eau douce",
+   "legende": "sur Terre",
+   "notes": "La planète est composée d'97% d'eau, mais seulement 3% est en forme d'eau douce."
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Diagramme",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Pourcentage de l'eau douce sur Terre",
+    "etiquettes": [
+     "97%",
+     "3%",
+     "2%",
+     "1%"
+    ],
+    "series": [
+     {
+      "nom": "océans",
+      "valeurs": [
+       97,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "lacs et rivières",
+      "valeurs": [
+       0,
+       3,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "nappes phréatiques",
+      "valeurs": [
+       0,
+       2,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "glaces",
+      "valeurs": [
+       0,
+       1,
+       0,
+       0
+      ]
+     }
+    ],
+    "legende": "Pourcentage de l'eau douce sur Terre"
+   },
+   "points": [
+    "97% des océans",
+    "3% des nappes phréatiques",
+    "2% des lacs et rivières",
+    "1% des glaciers"
+   ],
+   "notes": "Les océans contiennent la majorité de l'eau douce."
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "3%",
+   "chiffre": "pourcentage de l'eau douce",
+   "legende": "sur Terre",
+   "notes": "La planète est composée d'97% d'eau, mais seulement 3% est en forme d'eau douce."
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Diagramme",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Pourcentage de l'eau douce sur Terre",
+    "etiquettes": [
+     "97%",
+     "3%",
+     "2%",
+     "1%"
+    ],
+    "series": [
+     {
+      "nom": "océans",
+      "valeurs": [
+       97,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "lacs et rivières",
+      "valeurs": [
+       0,
+       3,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "nappes phréatiques",
+      "valeurs": [
+       0,
+       2,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "glaces",
+      "valeurs": [
+       0,
+       1,
+       0,
+       0
+      ]
+     }
+    ],
+    "legende": "Pourcentage de l'eau douce sur Terre"
+   },
+   "points": [
+    "97% des océans",
+    "3% des nappes phréatiques",
+    "2% des lacs et rivières",
+    "1% des glaciers"
+   ],
+   "notes": "Les océans contiennent la majorité de l'eau douce."
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "3%",
+   "chiffre": "pourcentage de l'eau douce",
+   "legende": "sur Terre",
+   "notes": "La planète est composée d'97% d'eau, mais seulement 3% est en forme d'eau douce."
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Diagramme",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Pourcentage de l'eau douce sur Terre",
+    "etiquettes": [
+     "97%",
+     "3%",
+     "2%",
+     "1%"
+    ],
+    "series": [
+     {
+      "nom": "océans",
+      "valeurs": [
+       97,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "lacs et rivières",
+      "valeurs": [
+       0,
+       3,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "nappes phréatiques",
+      "valeurs": [
+       0,
+       2,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "glaces",
+      "valeurs": [
+       0,
+       1,
+       0,
+       0
+      ]
+     }
+    ],
+    "legende": "Pourcentage de l'eau douce sur Terre"
+   },
+   "points": [
+    "97% des océans",
+    "3% des nappes phréatiques",
+    "2% des lacs et rivières",
+    "1% des glaciers"
+   ],
+   "notes": "Les océans contiennent la majorité de l'eau douce."
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "3%",
+   "chiffre": "pourcentage de l'eau douce",
+   "legende": "sur Terre",
+   "notes": "La planète est composée d'97% d'eau, mais seulement 3% est en forme d'eau douce."
+  }
+ ]
+}

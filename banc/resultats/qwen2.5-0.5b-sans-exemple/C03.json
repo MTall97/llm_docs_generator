@@ -1,0 +1,126 @@
+{
+ "type": "classeur",
+ "titre": "Moyenne des notes",
+ "feuilles": [
+  {
+   "nom": "Amina",
+   "colonnes": [
+    {
+     "nom": "14",
+     "format": "texte"
+    },
+    {
+     "nom": "16",
+     "format": "texte"
+    },
+    {
+     "nom": "12",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     null,
+     null,
+     null
+    ]
+   ]
+  },
+  {
+   "nom": "Bastien",
+   "colonnes": [
+    {
+     "nom": "9",
+     "format": "texte"
+    },
+    {
+     "nom": "11",
+     "format": "texte"
+    },
+    {
+     "nom": "10",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     null,
+     null,
+     null
+    ]
+   ]
+  },
+  {
+   "nom": "Chloé",
+   "colonnes": [
+    {
+     "nom": "17",
+     "format": "texte"
+    },
+    {
+     "nom": "18",
+     "format": "texte"
+    },
+    {
+     "nom": "19",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     null,
+     null,
+     null
+    ]
+   ]
+  },
+  {
+   "nom": "Diego",
+   "colonnes": [
+    {
+     "nom": "12",
+     "format": "texte"
+    },
+    {
+     "nom": "8",
+     "format": "texte"
+    },
+    {
+     "nom": "13",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     null,
+     null,
+     null
+    ]
+   ]
+  },
+  {
+   "nom": "Emma",
+   "colonnes": [
+    {
+     "nom": "15",
+     "format": "texte"
+    },
+    {
+     "nom": "14",
+     "format": "texte"
+    },
+    {
+     "nom": "16",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     null,
+     null,
+     null
+    ]
+   ]
+  }
+ ]
+}

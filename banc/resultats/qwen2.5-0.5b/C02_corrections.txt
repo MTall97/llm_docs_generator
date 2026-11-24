@@ -1,0 +1,5 @@
+feuille « Pièces de pâtes » : ligne ramenée à 2 cellules
+feuille « Pièces de riz » : ligne ramenée à 2 cellules
+feuille « Pièces de huile » : ligne ramenée à 2 cellules
+feuille « Pièces de conserves de légumes » : ligne ramenée à 2 cellules
+feuille « Pièces de conserve de légumes » : ligne ramenée à 2 cellules

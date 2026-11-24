@@ -1,0 +1,21 @@
+{
+ "titre": "Les bonnes pratiques pour choisir un mot de passe",
+ "parties": [
+  {
+   "titre": "Qu'est-ce que un mot de passe?",
+   "idee": "Un mot de passe est une phrase qui contient des chiffres et/ou caractères spéciaux, généralement utilisés pour sécuriser votre compte."
+  },
+  {
+   "titre": "Quels sont les avantages d'un mot de passe?",
+   "idee": "Les mots de passe sont utiles car ils protègent vos informations personnelles et permettent de vous authentifier facilement en ligne."
+  },
+  {
+   "titre": "Quels sont les inconvénients d'un mot de passe?",
+   "idee": "Les mots de passe peuvent être facilement perçus ou mis à jour, ce qui peut rendre leur sécurité moins efficace."
+  },
+  {
+   "titre": "Combien de mots de passe faut-il choisir?",
+   "idee": "Il est important de choisir un nombre raisonnable de mots de passe pour une sécurité maximale."
+  }
+ ]
+}

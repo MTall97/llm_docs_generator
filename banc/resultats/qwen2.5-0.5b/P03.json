@@ -1,0 +1,70 @@
+{
+ "type": "presentation",
+ "titre": "Comparaison des offres d'un logiciel de comptabilité",
+ "diapositives": [
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Comparaison",
+   "chiffre": "11 784 euros",
+   "legende": "pour le cabinet",
+   "notes": "La direction veut une décision avant le 15 janvier"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Offre A",
+   "points": [
+    "49 euros par mois et par utilisateur",
+    "mises à jour automatiques",
+    "assistance par courriel uniquement",
+    "migration des données facturée 1 200 euros"
+   ],
+   "notes": "L'équipe informatique préfère l'offre A pour éviter la maintenance des serveurs"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Offre B",
+   "points": [
+    "3 600 euros la première année puis 900 euros par an de maintenance",
+    "installation sur nos serveurs",
+    "assistance téléphonique",
+    "migration incluse"
+   ],
+   "notes": "La direction veut une décision avant le 15 janvier"
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Graphique",
+   "image": {
+    "type": "graphique",
+    "forme": "camembert",
+    "titre": "Comparaison des offres d'un logiciel de comptabilité",
+    "etiquettes": [
+     "Offre A",
+     "Offre B"
+    ],
+    "series": [
+     {
+      "nom": "ComptaPlus",
+      "valeurs": [
+       49,
+       3600
+      ]
+     },
+     {
+      "nom": "LedgerPro",
+      "valeurs": [
+       3600,
+       900
+      ]
+     }
+    ],
+    "legende": "offres d'un cabinet"
+   },
+   "points": [
+    "11 784 euros",
+    "5 400 euros"
+   ],
+   "notes": "L'équipe informatique préfère l'offre A pour éviter la maintenance des serveurs"
+  }
+ ]
+}

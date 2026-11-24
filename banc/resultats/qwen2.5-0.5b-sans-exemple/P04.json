@@ -1,0 +1,80 @@
+{
+ "type": "presentation",
+ "titre": "Résultats de l'enquête",
+ "diapositives": [
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Points",
+   "gauche": {
+    "titre": "82%",
+    "points": [
+     "satisfaction ou très satisfaits"
+    ]
+   },
+   "droite": {
+    "titre": "61%",
+    "points": [
+     "l'ouverture le dimanche"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Horaires",
+   "gauche": {
+    "titre": "61%",
+    "points": [
+     "souhaitent une ouverture le dimanche"
+    ]
+   },
+   "droite": {
+    "titre": "34%",
+    "points": [
+     "le prêt de jeux vidéo"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Accueil",
+   "gauche": {
+    "titre": "47%",
+    "points": [
+     "dans 15-25 ans"
+    ]
+   },
+   "droite": {
+    "titre": "39%",
+    "points": [
+     "un meilleur réseau wifi"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Médiathèque",
+   "gauche": {
+    "titre": "8,4 sur 10",
+    "points": [
+     "médecine",
+     "accueil",
+     "accessibilité",
+     "réseaux",
+     "société",
+     "santé"
+    ]
+   },
+   "droite": {
+    "titre": "9%",
+    "points": [
+     "ouverture le dimanche",
+     "prêt de jeux vidéo",
+     "note moyenne de l'accueil",
+     "réseau wifi",
+     "société",
+     "santé"
+    ]
+   }
+  }
+ ]
+}

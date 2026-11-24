@@ -1,0 +1,29 @@
+{
+ "type": "presentation",
+ "titre": "Comparaison des offres de logiciel de comptabilité",
+ "diapositives": [
+  {
+   "mise_en_page": "points",
+   "titre": "Offre A",
+   "points": [
+    "49 euros par mois par utilisateur",
+    "hébergée dans le cloud",
+    "mises à jour automatiques",
+    "assistance par courriel uniquement",
+    "migration des données facturée 1 200 euros"
+   ]
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Offre B",
+   "points": [
+    "licence de 3 600 euros la première année",
+    "maintenance annuelle de 900 euros",
+    "installation sur nos serveurs",
+    "assistance téléphonique",
+    "migration incluse"
+   ]
+  }
+ ],
+ "sous_titre": "Comparaison des coûts et fonctionnalités pour le cabinet compte 6 utilisateurs sur trois ans, sans coût de nos serveurs."
+}

@@ -1,0 +1,16 @@
+modele,id,sorte,mode,secondes,jetons_sortie,jetons_par_s,json_valide,erreurs_schema,corrections,rendu_ok,recopie_exemple,chiffres_inventes,exemples_inventes,chiffres_repris,mots_hors_source,erreur
+qwen2.5-0.5b,T01,document,texte,14.0,253,18.1,True,,0,True,7,0.0,,0.364,0.296,
+qwen2.5-0.5b,T02,document,texte,36.4,721,19.8,True,,0,True,10,0.0,,,0.192,
+qwen2.5-0.5b,T03,document,texte,15.7,256,16.3,True,,0,True,1,0.3,12 ; 45200 ; 46900,0.538,0.231,
+qwen2.5-0.5b,T04,document,texte,14.0,231,16.5,True,,0,True,1,0.0,,0.0,0.333,
+qwen2.5-0.5b,P01,presentation,texte,17.7,321,18.2,False,"diapositives/4 : {'mise_en_page': 'chiffre_cle', 'titre': 'Équilibre finances', 'chiffre': '186 000 euros de recettes pour 181 000 euros de dépenses', 'legende': 'deux ans'} is not valid under any of the given schemas",0,True,4,0.0,,0.385,0.35,
+qwen2.5-0.5b,P02,presentation,texte,45.5,886,19.5,True,,0,True,3,0.5,2000,1.0,0.097,
+qwen2.5-0.5b,P03,presentation,texte,24.3,431,17.8,True,,0,True,0,0.0,,1.0,0.107,
+qwen2.5-0.5b,P04,presentation,texte,9.7,164,16.8,True,,0,True,0,0.0,,0.417,0.111,
+qwen2.5-0.5b,C01,classeur,texte,17.4,341,19.6,True,,7,True,2,0.091,6000,0.5,0.222,
+qwen2.5-0.5b,C02,classeur,texte,22.2,450,20.2,True,,5,True,2,0.0,,0.278,0.6,
+qwen2.5-0.5b,C03,classeur,texte,17.1,351,20.5,True,,6,True,4,0.353,10.5 ; 12.5 ; 13.5 ; 15.5 ; 16.5,0.778,0.75,
+qwen2.5-0.5b,S01,document,sujet,62.8,1091,17.4,True,,0,True,0,,,,,
+qwen2.5-0.5b,S02,document,sujet,107.3,1753,16.3,True,,0,True,0,,,,,JSON incomplet (limite de jetons atteinte)
+qwen2.5-0.5b,S03,presentation,sujet,49.0,802,16.4,False,"diapositives/2 : {'mise_en_page': 'points', 'titre': 'Résultats du gaspillage alimentaire', 'points': [""Le gaspillage alimentaire peut être causé par des maladies, des maladies médicales, des maladies alimentaires, ou",0,True,0,,,,,
+qwen2.5-0.5b,S04,classeur,sujet,67.9,1279,18.8,True,,10,True,0,,,,,

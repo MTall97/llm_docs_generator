@@ -1,0 +1,26 @@
+{
+ "type": "presentation",
+ "titre": "Le cycle de l'eau",
+ "diapositives": [
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Définition du cycle de l'eau",
+   "gauche": {
+    "titre": "Les océans",
+    "points": [
+     "La plus grande partie de l'eau est dans les océans.",
+     "Les océans contiennent 97 % de l'eau de la planète."
+    ]
+   },
+   "droite": {
+    "titre": "Les lacs et les rivières",
+    "points": [
+     "Les lacs et les rivières sont des eaux qui s'évaporent.",
+     "Les lacs et les rivières s'infiltrent dans le sol."
+    ]
+   },
+   "notes": "],["
+  }
+ ],
+ "sous_titre": "Exemples de la vie de l'eau sur Terre"
+}

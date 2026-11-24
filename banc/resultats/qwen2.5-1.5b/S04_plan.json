@@ -1,0 +1,21 @@
+{
+ "titre": "Plan d'entraînement de course à pied pour débutant sur 4 semaines",
+ "parties": [
+  {
+   "titre": "Semaine 1",
+   "idee": "Commencez avec des séances de 30 minutes, alternant entre des exercices de fond et des exercices de sprint."
+  },
+  {
+   "titre": "Semaine 2",
+   "idee": "Améliorez la durabilité en ajoutant une seconde séance de 30 minutes à chaque jour, alternant toujours entre des exercices de fond et des exercices de sprint."
+  },
+  {
+   "titre": "Semaine 3",
+   "idee": "Intégrez des séances de 45 minutes pour améliorer la résistance et la durabilité. Assurez-vous d'ajuster les rythmes en fonction de vos performances."
+  },
+  {
+   "titre": "Semaine 4",
+   "idee": "Faites une dernière séance de 60 minutes, alternant toujours entre des exercices de fond et des exercices de sprint pour finaliser votre entraînement avant la course."
+  }
+ ]
+}

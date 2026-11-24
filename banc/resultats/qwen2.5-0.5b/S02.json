@@ -1,0 +1,54 @@
+{
+ "type": "document",
+ "titre": "Les bonnes pratiques pour choisir un mot de passe",
+ "sections": [
+  {
+   "titre": "Qu'est-ce que un mot de passe?",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Un mot de passe est une phrase qui contient des chiffres et/ou caractères spéciaux, généralement utilisés pour sécuriser votre compte."
+    }
+   ]
+  },
+  {
+   "titre": "Quels sont les avantages d'un mot de passe?",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les mots de passe sont des informations importantes qui protègent vos données personnelles. Ils permettent de vous authentifier facilement en ligne, ce qui est très utile pour un usage quotidien."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Avantages",
+      "Utilisation",
+      "Authentification",
+      "Détection",
+      "Protection",
+      "Authentification",
+      "Détection",
+      "Authentification",
+      "Détection",
+      "Protection",
+      "Authentification",
+      "Détection"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Quels sont les inconvénients d'un mot de passe?",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les mots de passe peuvent être facilement perçus ou mis à jour, ce qui peut rendre leur sécurité moins efficace. Par exemple, un mot de passe simple peut être facilement perçu par les hackers et peut être mis à jour en quelques secondes. Cela peut rendre le mot de passe plus susceptible d'être percuté ou mis à jour, ce qui peut rendre leur sécurité moins efficace."
+    },
+    {
+     "type": "icone",
+     "mot_cle": "perçu"
+    }
+   ]
+  }
+ ]
+}

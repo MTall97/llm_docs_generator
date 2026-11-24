@@ -1,0 +1,145 @@
+{
+ "type": "document",
+ "titre": "Bilan 2025 de l'association Jardins partagés",
+ "sous_titre": "Rapport annuel — exemple de rendu",
+ "sections": [
+  {
+   "titre": "Résumé",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "En 2025, l'association a ouvert deux nouvelles parcelles et accueilli 148 adhérents, soit 23 % de plus qu'en 2024. Les récoltes ont été partagées avec trois épiceries solidaires du quartier."
+    },
+    {
+     "type": "icone",
+     "mot_cle": "plante jardin",
+     "legende": "Jardinage"
+    },
+    {
+     "type": "liste",
+     "ordonnee": false,
+     "elements": [
+      "Deux parcelles ouvertes",
+      "148 adhérents (+23 %)",
+      "1,2 tonne de légumes récoltés"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Chiffres clés",
+   "blocs": [
+    {
+     "type": "tableau",
+     "entetes": [
+      "Indicateur",
+      "2024",
+      "2025"
+     ],
+     "lignes": [
+      [
+       "Adhérents",
+       120,
+       148
+      ],
+      [
+       "Parcelles",
+       6,
+       8
+      ],
+      [
+       "Récolte (kg)",
+       950,
+       1200
+      ]
+     ],
+     "legende": "Tableau 1 — évolution des indicateurs"
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Récoltes par saison (kg)",
+     "etiquettes": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+     ],
+     "series": [
+      {
+       "nom": "2024",
+       "valeurs": [
+        180,
+        420,
+        290,
+        60
+       ]
+      },
+      {
+       "nom": "2025",
+       "valeurs": [
+        230,
+        520,
+        370,
+        80
+       ]
+      }
+     ],
+     "legende": "Figure 1 — récoltes"
+    },
+    {
+     "type": "graphique",
+     "forme": "camembert",
+     "titre": "Répartition des dépenses",
+     "etiquettes": [
+      "Semences",
+      "Outils",
+      "Eau",
+      "Assurance"
+     ],
+     "series": [
+      {
+       "nom": "Dépenses",
+       "valeurs": [
+        1200,
+        800,
+        600,
+        400
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Organisation",
+   "blocs": [
+    {
+     "type": "schema",
+     "langage": "graphviz",
+     "code": "digraph { rankdir=LR; AG -> Bureau; Bureau -> \"Commission jardin\"; Bureau -> \"Commission événements\"; }",
+     "legende": "Figure 2 — gouvernance"
+    },
+    {
+     "type": "schema",
+     "langage": "mermaid",
+     "code": "flowchart TD\n  A[Inscription] --> B{Parcelle libre ?}\n  B -->|oui| C[Attribution]\n  B -->|non| D[Liste d'attente]",
+     "legende": "Figure 3 — attribution des parcelles"
+    },
+    {
+     "type": "citation",
+     "texte": "Le jardin est devenu le lieu de rencontre du quartier.",
+     "auteur": "Une adhérente"
+    },
+    {
+     "type": "liste",
+     "ordonnee": true,
+     "elements": [
+      "Assemblée générale en mars",
+      "Fête des récoltes en septembre"
+     ]
+    }
+   ]
+  }
+ ]
+}

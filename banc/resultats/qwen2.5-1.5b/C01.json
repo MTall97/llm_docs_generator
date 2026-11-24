@@ -1,0 +1,66 @@
+{
+ "type": "classeur",
+ "titre": "Budget du voyage scolaire à Berlin",
+ "feuilles": [
+  {
+   "nom": "Achats",
+   "colonnes": [
+    {
+     "nom": "Pièce",
+     "format": "texte"
+    },
+    {
+     "nom": "Prix",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie",
+     "formule": "{Prix} * {Quantité}"
+    }
+   ],
+   "lignes": [
+    [
+     "Transport en car",
+     9800,
+     58,
+     null
+    ],
+    [
+     "Hébergement en auberge de jeunesse",
+     4320,
+     64,
+     null
+    ],
+    [
+     "Repas",
+     1344,
+     64,
+     null
+    ],
+    [
+     "Visites et musées",
+     1080,
+     58,
+     null
+    ],
+    [
+     "Assurance",
+     324,
+     64,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}

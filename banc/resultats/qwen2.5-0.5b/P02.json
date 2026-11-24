@@ -1,0 +1,61 @@
+{
+ "type": "presentation",
+ "titre": "Le cycle de l'eau",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Le cycle de l'eau",
+   "sous_titre": "Définition et parcours",
+   "notes": "Les océans, des lacs et des rivières s'évaporent et deviennent de la vapeur d'eau sous l'effet du Soleil. Les plantes rejettent également de la vapeur d'eau. En montant, la vapeur se refroidit et se condense en fines gouttelettes qui forment les nuages. Quand les gouttelettes deviennent trop lourdes, elles tombent. Une partie de l'eau ruisselle vers les rivières et la mer, une autre s'infiltre dans le sol et alimente les nappes phréatiques. Les océans contiennent 97 % de l'eau de la planète ; l'eau douce ne représente que 3 %, dont plus des deux tiers sont gelés dans les glaciers."
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Les océans et la vapeur d'eau",
+   "points": [
+    "Les océans s'évaporent et deviennent de la vapeur d'eau sous l'effet du Soleil.",
+    "Les plantes rejettent également de la vapeur d'eau.",
+    "En montant, la vapeur se refroidit et se condense en fines gouttelettes qui forment les nuages.",
+    "Quand les gouttelettes deviennent trop lourdes, elles tombent.",
+    "Une partie de l'eau ruisselle vers les rivières et la mer, une autre s'infiltre dans le sol et alimente les nappes phréatiques.",
+    "Les océans contiennent 97 % de l'eau de la planète ; l'eau douce ne représente que 3 %, dont plus des deux tiers sont gelés dans les glaciers."
+   ],
+   "notes": "Les océans, des lacs et des rivières s'évaporent et deviennent de la vapeur d'eau sous l'effet du Soleil. Les plantes rejettent également de la vapeur d'eau. En montant, la vapeur se refroidit et se condense en fines gouttelettes qui forment les nuages. Quand les gouttelettes deviennent trop lourdes, elles tombent. Une partie de l'eau ruisselle vers les rivières et la mer, une autre s'infiltre dans le sol et alimente les nappes phréatiques. Les océans contiennent 97 % de l'eau de la planète ; l'eau douce ne représente que 3 %, dont plus des deux tiers sont gelés dans les glaciers."
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Pression",
+   "chiffre": "4 bars",
+   "legende": "pour un vélo de ville"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Transpiration",
+   "chiffre": "2000 kg",
+   "legende": "pour un vélo de ville"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Pression et Transpiration",
+   "chiffre": "4 bars",
+   "legende": "pour un vélo de ville"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Transpiration et Pression",
+   "chiffre": "2000 kg",
+   "legende": "pour un vélo de ville"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Pression et Transpiration",
+   "chiffre": "4 bars",
+   "legende": "pour un vélo de ville"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Transpiration et Pression",
+   "chiffre": "2000 kg",
+   "legende": "pour un vélo de ville"
+  }
+ ]
+}

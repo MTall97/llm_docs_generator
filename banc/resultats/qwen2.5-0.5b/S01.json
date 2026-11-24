@@ -1,0 +1,133 @@
+{
+ "type": "document",
+ "titre": "Le compostage en appartement : principe, matériel et erreurs à éviter",
+ "sections": [
+  {
+   "titre": "Principe du compostage",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le compostage est une technique qui combine le déchets de l'habitat avec des microorganismes pour réduire la quantité de déchets et les rendre plus nutritifs."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Principe du compostage"
+     ],
+     "lignes": [
+      [
+       "Le compostage est une technique qui combine le déchets de l'habitat avec des microorganismes pour réduire la quantité de déchets et les rendre plus nutritifs."
+      ],
+      [
+       "Les microorganismes sont essentiels pour le processus de compostage."
+      ],
+      [
+       "Le compostage permet de réduire la quantité de déchets et de rendre les déchets plus nutritifs."
+      ],
+      [
+       "Le processus de compostage est basé sur l'interaction entre les microorganismes et les déchets."
+      ],
+      [
+       "Les microorganismes sont capables de convertir les déchets en nourriture nutritive."
+      ],
+      [
+       "Le compostage permet de réduire la quantité de déchets et de rendre les déchets plus nutritifs."
+      ],
+      [
+       "Le processus de compostage est basé sur l'interaction entre les microorganismes et les déchets."
+      ],
+      [
+       "Les microorganismes sont essentiels pour le processus de compostage."
+      ],
+      [
+       "Le compostage permet de réduire la quantité de déchets et de rendre les déchets plus nutritifs."
+      ],
+      [
+       "Le processus de compostage est basé sur l'interaction entre les microorganismes et les déchets."
+      ],
+      [
+       "Les microorganismes sont capables de convertir les déchets en nourriture nutritive."
+      ],
+      [
+       "Le compostage permet de réduire la quantité de déchets et de rendre les déchets plus nutritifs."
+      ],
+      [
+       "Le processus de compostage est basé sur l'interaction entre les microorganismes et les déchets."
+      ],
+      [
+       "Les microorganismes sont essentiels pour le processus de compostage."
+      ],
+      [
+       "Le compostage permet de réduire la quantité de déchets et de rendre les déchets plus nutritifs."
+      ],
+      [
+       "Le processus de compostage est basé sur l'interaction entre les microorganismes et les déchets."
+      ],
+      [
+       "Les microorganismes sont essentiels pour le processus de compostage."
+      ],
+      [
+       "Le compostage permet de réduire la quantité de déchets et de rendre les déchets plus nutritifs."
+      ],
+      [
+       "Le processus de compostage est basé sur l'interaction entre les microorganismes et les déchets."
+      ],
+      [
+       "Les microorganismes sont essentiels pour le processus de compostage."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Matériel nécessaire",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Un bocage à compost est un matériel essentiel pour le compostage. Il comporte généralement des matériaux tels que le sable, le verre et le bois. Les matériaux utilisés sont essentiels pour la qualité du compost."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Matériel de compostage",
+      "Composants",
+      "Sables",
+      "Verres",
+      "Bois"
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Éviter les erreurs",
+   "blocs": [
+    {
+     "type": "icone",
+     "mot_cle": "erreur"
+    },
+    {
+     "type": "paragraphe",
+     "texte": "L'erreur d'utilisation du matériel de compostage peut être le manque de déchets, la mauvaise concentration des matériaux et l'absence de temps suffisants pour le compostage."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Manque de déchets"
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Mauvaise concentration des matériaux"
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "icone",
+     "mot_cle": "temps"
+    }
+   ]
+  }
+ ]
+}

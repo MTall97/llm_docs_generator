@@ -1,0 +1,12 @@
+# Moteurs de rendu (sans IA)
+jsonschema>=4.20
+fpdf2>=2.8
+python-pptx>=1.0
+openpyxl>=3.1
+matplotlib>=3.8
+cairosvg>=2.7        # icônes SVG → PNG (nécessite la bibliothèque système cairo)
+pillow>=10
+# Génération (facultatif pour le rendu seul)
+llama-cpp-python>=0.3.16
+# Tests
+pytest>=8

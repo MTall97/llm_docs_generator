@@ -1,0 +1,300 @@
+{
+ "type": "classeur",
+ "titre": "Budget du voyage scolaire à Berlin pour 2 classes de seconde, soit 58 élèves et 6 accompagnateurs.",
+ "feuilles": [
+  {
+   "nom": "Total",
+   "colonnes": [
+    {
+     "nom": "Transport",
+     "format": "texte"
+    },
+    {
+     "nom": "Hébergement",
+     "format": "texte"
+    },
+    {
+     "nom": "Repas",
+     "format": "texte"
+    },
+    {
+     "nom": "Visites et musées",
+     "format": "texte"
+    },
+    {
+     "nom": "Assurance",
+     "format": "texte"
+    },
+    {
+     "nom": "Le lycée prend en charge",
+     "format": "texte"
+    },
+    {
+     "nom": "Le conseil régional",
+     "format": "texte"
+    },
+    {
+     "nom": "Reste est payé par les familles",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Total",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Transport",
+     "9800 euros",
+     "9800 euros",
+     "9800 euros",
+     "9800 euros",
+     "9800 euros",
+     "9800 euros",
+     "9800 euros"
+    ],
+    [
+     "Hébergement",
+     "4 nuits * 31 euros",
+     "4 nuits * 31 euros",
+     "4 nuits * 31 euros",
+     "4 nuits * 31 euros",
+     "4 nuits * 31 euros",
+     "4 nuits * 31 euros",
+     "4 nuits * 31 euros"
+    ],
+    [
+     "Repas",
+     "22 euros",
+     "22 euros",
+     "22 euros",
+     "22 euros",
+     "22 euros",
+     "22 euros",
+     "22 euros"
+    ],
+    [
+     "Visites et musées",
+     "18 euros",
+     "18 euros",
+     "18 euros",
+     "18 euros",
+     "18 euros",
+     "18 euros",
+     "18 euros"
+    ],
+    [
+     "Assurance",
+     "6 euros",
+     "6 euros",
+     "6 euros",
+     "6 euros",
+     "6 euros",
+     "6 euros",
+     "6 euros"
+    ],
+    [
+     "Le lycée prend en charge",
+     "4 000 euros",
+     "4 000 euros",
+     "4 000 euros",
+     "4 000 euros",
+     "4 000 euros",
+     "4 000 euros",
+     "4 000 euros"
+    ],
+    [
+     "Le conseil régional",
+     "3 500 euros",
+     "3 500 euros",
+     "3 500 euros",
+     "3 500 euros",
+     "3 500 euros",
+     "3 500 euros",
+     "3 500 euros"
+    ],
+    [
+     "Reste est payé par les familles",
+     "le reste = 12400 euros",
+     "le reste = 12400 euros",
+     "le reste = 12400 euros",
+     "le reste = 12400 euros",
+     "le reste = 12400 euros",
+     "le reste = 12400 euros",
+     "le reste = 12400 euros"
+    ],
+    [
+     "Total",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros"
+    ]
+   ]
+  },
+  {
+   "nom": "Total",
+   "colonnes": [
+    {
+     "nom": "Total",
+     "format": "texte"
+    },
+    {
+     "nom": "Total",
+     "format": "texte"
+    },
+    {
+     "nom": "Total",
+     "format": "texte"
+    },
+    {
+     "nom": "Total",
+     "format": "texte"
+    },
+    {
+     "nom": "Total",
+     "format": "texte"
+    },
+    {
+     "nom": "Total",
+     "format": "texte"
+    },
+    {
+     "nom": "Total",
+     "format": "texte"
+    },
+    {
+     "nom": "Total",
+     "format": "texte"
+    },
+    {
+     "nom": "Total",
+     "format": "texte"
+    },
+    {
+     "nom": "Total",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Total",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Total",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros",
+     "12400 euros"
+    ],
+    [
+     "Total",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Total",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Total",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Total",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Total",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Total",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "Total",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   ]
+  }
+ ]
+}

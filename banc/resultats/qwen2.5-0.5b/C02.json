@@ -1,0 +1,131 @@
+{
+ "type": "classeur",
+ "titre": "Suivi des stocks",
+ "feuilles": [
+  {
+   "nom": "Pièces de pâtes",
+   "colonnes": [
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "140",
+     140.0
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Pièces de riz",
+   "colonnes": [
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "85",
+     85.0
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Pièces de huile",
+   "colonnes": [
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "42",
+     42.0
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Pièces de conserves de légumes",
+   "colonnes": [
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "210",
+     210.0
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  },
+  {
+   "nom": "Pièces de conserve de légumes",
+   "colonnes": [
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "210",
+     210.0
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}

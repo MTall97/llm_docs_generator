@@ -1,0 +1,84 @@
+{
+ "type": "classeur",
+ "titre": "Inventaire de l'épicerie solidaire au 1er décembre 2026",
+ "feuilles": [
+  {
+   "nom": "Inventaire",
+   "colonnes": [
+    {
+     "nom": "Produit",
+     "format": "texte"
+    },
+    {
+     "nom": "Quantité",
+     "format": "nombre"
+    },
+    {
+     "nom": "Prix",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie",
+     "formule": "{Quantité} * {Prix}"
+    }
+   ],
+   "lignes": [
+    [
+     "Pâtes",
+     140,
+     6.6,
+     null
+    ],
+    [
+     "Riz",
+     85,
+     1.12,
+     null
+    ],
+    [
+     "Huile",
+     42,
+     3.2,
+     null
+    ],
+    [
+     "Conserves de légumes",
+     210,
+     2.2,
+     null
+    ],
+    [
+     "Lait",
+     96,
+     7.92,
+     null
+    ],
+    [
+     "Café",
+     30,
+     13.5,
+     null
+    ],
+    [
+     "Savon",
+     64,
+     8.1,
+     null
+    ],
+    [
+     "Couches",
+     18,
+     19.8,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}

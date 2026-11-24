@@ -1,0 +1,23 @@
+# Thème par défaut. Les couleurs sont en hexadécimal.
+nom = "sobre"
+
+[couleurs]
+primaire = "#1F4E79"
+secondaire = "#2E86AB"
+accent = "#F18F01"
+texte = "#222222"
+fond = "#FFFFFF"
+palette_graphiques = ["#1F4E79", "#F18F01", "#2E86AB", "#C73E1D", "#3B8E3B", "#7D5BA6"]
+
+[polices]
+# PDF : fichiers TTF (cherchés dans le dossier courant puis les dossiers système)
+police_titre = "DejaVuSans-Bold.ttf"
+police_texte = "DejaVuSans.ttf"
+# PowerPoint : nom de police installée chez le lecteur
+police_pptx = "Calibri"
+taille_texte = 11.0
+
+[mise_en_page]
+marge_mm = 18.0
+# logo = "logo.png"          # facultatif, chemin relatif à ce fichier
+# modele_pptx = "modele.pptx" # facultatif : masques de diapositives de l'utilisateur

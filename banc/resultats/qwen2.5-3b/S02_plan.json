@@ -1,0 +1,21 @@
+{
+ "titre": "Les bonnes pratiques pour choisir un mot de passe",
+ "parties": [
+  {
+   "titre": "Définition du mot de passe",
+   "idee": "Un mot de passe est une série de caractères utilisée pour identifier un utilisateur lorsqu'il se connecte à un système informatique."
+  },
+  {
+   "titre": "Critères d'un bon mot de passe",
+   "idee": "Un bon mot de passe doit être long, complexe et unique pour chaque compte."
+  },
+  {
+   "titre": "Exemples de mots de passe sécurisés",
+   "idee": "Des exemples de mots de passe sécurisés incluent des combinaisons de chiffres, de lettres majuscules et minuscules, ainsi que d'espaces ou de caractères spéciaux."
+  },
+  {
+   "titre": "Stratégies pour créer un mot de passe",
+   "idee": "Créer un mot de passe peut être facilité par l'utilisation de mémoires associatives ou de logiciels de génération de mots de passe."
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "type": "document",
+ "titre": "Réunion du conseil d'école",
+ "sections": [
+  {
+   "titre": "Matériel",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le conseil d'école a eu lieu le 14 octobre 2026, école élémentaire Jean-Moulin. Présents : la directrice Mme Diallo, 9 enseignants, 6 représentants des parents et l'adjoint au maire chargé de l'éducation. Effectifs : l'école accueille 212 élèves répartis en 9 classes, soit 23,5 élèves par classe en moyenne."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Outil",
+      "Usage"
+     ],
+     "lignes": [
+      [
+       "Nettoyer la chaîne",
+       "Graisser la chaîne"
+      ],
+      [
+       "Vérifier les freins",
+       "Vérifier les freins"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Étapes",
+   "blocs": [
+    {
+     "type": "liste",
+     "elements": [
+      "Nettoyer la chaîne",
+      "Vérifier les freins"
+     ]
+    }
+   ]
+  }
+ ]
+}
