@@ -1,0 +1,111 @@
+{
+ "faits": [
+  {
+   "objet": "la directrice",
+   "information": "La directrice est Mme Diallo.",
+   "chiffres": []
+  },
+  {
+   "objet": "les enseignants",
+   "information": "Il y a 9 enseignants présents.",
+   "chiffres": [
+    "9"
+   ]
+  },
+  {
+   "objet": "les représentants des parents",
+   "information": "Il y a 6 représentants des parents présents.",
+   "chiffres": [
+    "6"
+   ]
+  },
+  {
+   "objet": "l'adjoint au maire",
+   "information": "L'adjoint au maire chargé de l'éducation est présent.",
+   "chiffres": []
+  },
+  {
+   "objet": "l'école",
+   "information": "L'école accueille 212 élèves répartis en 9 classes.",
+   "chiffres": [
+    "212",
+    "9"
+   ]
+  },
+  {
+   "objet": "le nombre moyen d'élèves par classe",
+   "information": "Il y a en moyenne 23,5 élèves par classe.",
+   "chiffres": [
+    "23,5"
+   ]
+  },
+  {
+   "objet": "la mairie",
+   "information": "La mairie a voté 45 000 euros pour refaire la cour.",
+   "chiffres": [
+    "45 000 euros"
+   ]
+  },
+  {
+   "objet": "les travaux de rénovation",
+   "information": "Les travaux de rénovation de la cour auront lieu pendant les vacances de février.",
+   "chiffres": []
+  },
+  {
+   "objet": "les CM2",
+   "information": "Les CM2 partiront en classe de mer à Saint-Malo du 11 au 15 mai.",
+   "chiffres": [
+    "11",
+    "15"
+   ]
+  },
+  {
+   "objet": "le coût par élève des sorties",
+   "information": "Le coût par élève des sorties est de 280 euros.",
+   "chiffres": [
+    "280 euros"
+   ]
+  },
+  {
+   "objet": "la part prise en charge par la coopérative",
+   "information": "120 euros par élève sont pris en charge par la coopérative.",
+   "chiffres": [
+    "120 euros"
+   ]
+  },
+  {
+   "objet": "les repas de la cantine",
+   "information": "Les parents signalent des repas froids.",
+   "chiffres": []
+  },
+  {
+   "objet": "l'installation des armoires chauffantes",
+   "information": "La mairie va installer deux armoires chauffantes avant décembre.",
+   "chiffres": [
+    "2"
+   ]
+  },
+  {
+   "objet": "l'exercice d'évacuation",
+   "information": "Un exercice d'évacuation a eu lieu le 2 octobre.",
+   "chiffres": [
+    "2"
+   ]
+  },
+  {
+   "objet": "la durée de l'exercice d'évacuation",
+   "information": "L'exercice d'évacuation s'est terminé en 3 minutes 40.",
+   "chiffres": [
+    "3 minutes 40"
+   ]
+  },
+  {
+   "objet": "le prochain conseil",
+   "information": "Le prochain conseil aura lieu le 10 février 2027.",
+   "chiffres": [
+    "10",
+    "2027"
+   ]
+  }
+ ]
+}
