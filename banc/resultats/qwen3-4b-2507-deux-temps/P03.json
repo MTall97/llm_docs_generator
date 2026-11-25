@@ -1,0 +1,97 @@
+{
+ "type": "presentation",
+ "titre": "Comparaison des offres ComptaPlus et LedgerPro",
+ "diapositives": [
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Coût total sur 3 ans",
+   "chiffre": "5 400 €",
+   "legende": "Offre LedgerPro (moins coûteuse)"
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Coût mensuel par utilisateur",
+   "gauche": {
+    "titre": "ComptaPlus",
+    "points": [
+     "49 €/mois",
+     "Hébergement cloud",
+     "Mises à jour automatiques"
+    ]
+   },
+   "droite": {
+    "titre": "LedgerPro",
+    "points": [
+     "3 600 € (1ère année)",
+     "Maintenance : 900 €/an",
+     "Installation sur serveurs du cabinet"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Assistance et migration",
+   "gauche": {
+    "titre": "ComptaPlus",
+    "points": [
+     "Assistance par courriel",
+     "Migration facturée : 1 200 €"
+    ]
+   },
+   "droite": {
+    "titre": "LedgerPro",
+    "points": [
+     "Assistance téléphonique",
+     "Migration incluse"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Facteurs de décision",
+   "points": [
+    "Équipe préfère ComptaPlus (pas de maintenance)",
+    "Direction veut une décision avant le 15 janvier",
+    "Cabinet compte 6 utilisateurs"
+   ]
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "La direction veut une décision avant le 15 janvier."
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Coût sur 3 ans (en euros)",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Comparaison coût total",
+    "etiquettes": [
+     "ComptaPlus",
+     "LedgerPro"
+    ],
+    "series": [
+     {
+      "nom": "ComptaPlus",
+      "valeurs": [
+       11784,
+       0
+      ]
+     },
+     {
+      "nom": "LedgerPro",
+      "valeurs": [
+       5400,
+       0
+      ]
+     }
+    ],
+    "legende": "Coût total sur 3 ans"
+   },
+   "points": [
+    "11 784 € pour ComptaPlus",
+    "5 400 € pour LedgerPro"
+   ]
+  }
+ ]
+}

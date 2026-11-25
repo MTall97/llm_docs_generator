@@ -1,0 +1,182 @@
+{
+ "type": "document",
+ "titre": "Procédure de remboursement des frais pour bénévoles",
+ "sections": [
+  {
+   "titre": "Remplissage du formulaire et accompagnement des justificatifs",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le bénévole doit remplir le formulaire de note de frais dans les 30 jours suivant la dépense. Il y joint les justificatifs originaux afin de garantir la traçabilité et la validité des frais."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Élément",
+      "Délai ou montant"
+     ],
+     "lignes": [
+      [
+       "Formulaire de note de frais",
+       "Rempli dans les 30 jours"
+      ],
+      [
+       "Justificatifs originaux",
+       "Joint au formulaire"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Validation du dossier par le trésorier",
+   "blocs": [
+    {
+     "type": "liste",
+     "elements": [
+      "Le trésorier vérifie que la dépense a été autorisée par le bureau.",
+      "Il contrôle la complétude des justificatifs."
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "Le trésorier assure la conformité du dossier aux règles internes de gestion des frais."
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Délais de traitement du dossier",
+     "etiquettes": [
+      "Vérification de l'autorisation",
+      "Vérification des justificatifs"
+     ],
+     "series": [
+      {
+       "nom": "Délai en jours",
+       "valeurs": [
+        1,
+        2
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Traitement du dossier incomplet ou complet",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Si le dossier est incomplet, le trésorier le renvoie au bénévole avec une liste des pièces manquantes. En revanche, si le dossier est complet, le président signe l'ordre de paiement."
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Dossier incomplet",
+       "vers": "Renvoi au bénévole"
+      },
+      {
+       "de": "Dossier complet",
+       "vers": "Signature du président"
+      },
+      {
+       "de": "Signature du président",
+       "vers": "Virement effectué"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "validation"
+    }
+   ]
+  },
+  {
+   "titre": "Effectuation du virement et remboursements spécifiques",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Une fois le dossier validé, le trésorier effectue le virement sous 15 jours. Les frais kilométriques sont remboursés à 0,32 euro par kilomètre, et les repas sont remboursés jusqu'à 20 euros."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Type de frais",
+      "Montant ou taux"
+     ],
+     "lignes": [
+      [
+       "Frais kilométriques",
+       "0,32 € par kilomètre"
+      ],
+      [
+       "Repas",
+       "jusqu'à 20 €"
+      ]
+     ]
+    },
+    {
+     "type": "graphique",
+     "forme": "camembert",
+     "titre": "Répartition des types de frais remboursés",
+     "etiquettes": [
+      "Frais kilométriques",
+      "Repas"
+     ],
+     "series": [
+      {
+       "nom": "Pourcentage",
+       "valeurs": [
+        60,
+        40
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Chronologie des étapes clés",
+   "blocs": [
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Remplissage du formulaire",
+       "vers": "Joint des justificatifs"
+      },
+      {
+       "de": "Joint des justificatifs",
+       "vers": "Remise au trésorier"
+      },
+      {
+       "de": "Remise au trésorier",
+       "vers": "Vérification de l'autorisation"
+      },
+      {
+       "de": "Vérification de l'autorisation",
+       "vers": "Vérification des justificatifs"
+      },
+      {
+       "de": "Vérification des justificatifs",
+       "vers": "Dossier incomplet → renvoi"
+      },
+      {
+       "de": "Vérification des justificatifs",
+       "vers": "Dossier complet → signature du président"
+      },
+      {
+       "de": "Signature du président",
+       "vers": "Virement sous 15 jours"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "délai"
+    }
+   ]
+  }
+ ]
+}

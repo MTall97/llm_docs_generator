@@ -1,0 +1,56 @@
+{
+ "faits": [
+  {
+   "objet": "pot",
+   "information": "Le diamètre du pot doit dépasser celui de l'ancien de 2 à 4 centimètres.",
+   "chiffres": [
+    "2",
+    "4"
+   ]
+  },
+  {
+   "objet": "moment",
+   "information": "Le meilleur moment pour rempoter une plante d'intérieur est le printemps, de mars à mai.",
+   "chiffres": [
+    "mars",
+    "mai"
+   ]
+  },
+  {
+   "objet": "arrosage",
+   "information": "Arrosez la plante la veille pour que la motte sorte facilement.",
+   "chiffres": []
+  },
+  {
+   "objet": "couche de billes d'argile",
+   "information": "Placez au fond du pot une couche de billes d'argile d'environ 3 centimètres pour le drainage.",
+   "chiffres": [
+    "3"
+   ]
+  },
+  {
+   "objet": "racines",
+   "information": "Sortez la plante, démêlez les racines qui tournent en rond et coupez celles qui sont noires ou molles.",
+   "chiffres": []
+  },
+  {
+   "objet": "position de la plante",
+   "information": "Posez la plante, complétez avec du terreau neuf en tassant légèrement, en laissant 2 centimètres sous le bord du pot.",
+   "chiffres": [
+    "2"
+   ]
+  },
+  {
+   "objet": "arrosage après rempotage",
+   "information": "Arrosez abondamment puis laissez la plante à l'ombre pendant une semaine.",
+   "chiffres": []
+  },
+  {
+   "objet": "engrais",
+   "information": "N'apportez pas d'engrais pendant un mois : le terreau neuf en contient déjà.",
+   "chiffres": [
+    "1"
+   ]
+  }
+ ]
+}

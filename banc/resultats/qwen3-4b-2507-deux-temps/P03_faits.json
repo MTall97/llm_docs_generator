@@ -1,0 +1,95 @@
+{
+ "faits": [
+  {
+   "objet": "Offre A, ComptaPlus",
+   "information": "L'offre ComptaPlus coûte 49 euros par mois et par utilisateur.",
+   "chiffres": [
+    "49 euros par mois et par utilisateur"
+   ]
+  },
+  {
+   "objet": "Offre A, ComptaPlus",
+   "information": "L'offre ComptaPlus est hébergée dans le cloud.",
+   "chiffres": []
+  },
+  {
+   "objet": "Offre A, ComptaPlus",
+   "information": "L'offre ComptaPlus inclut des mises à jour automatiques.",
+   "chiffres": []
+  },
+  {
+   "objet": "Offre A, ComptaPlus",
+   "information": "L'offre ComptaPlus propose une assistance par courriel uniquement.",
+   "chiffres": []
+  },
+  {
+   "objet": "Offre A, ComptaPlus",
+   "information": "La migration des données de l'offre ComptaPlus est facturée à 1 200 euros.",
+   "chiffres": [
+    "1 200 euros"
+   ]
+  },
+  {
+   "objet": "Offre B, LedgerPro",
+   "information": "L'offre LedgerPro a une licence de 3 600 euros la première année.",
+   "chiffres": [
+    "3 600 euros"
+   ]
+  },
+  {
+   "objet": "Offre B, LedgerPro",
+   "information": "L'offre LedgerPro a une maintenance de 900 euros par an.",
+   "chiffres": [
+    "900 euros par an"
+   ]
+  },
+  {
+   "objet": "Offre B, LedgerPro",
+   "information": "L'offre LedgerPro est installée sur les serveurs du cabinet.",
+   "chiffres": []
+  },
+  {
+   "objet": "Offre B, LedgerPro",
+   "information": "L'offre LedgerPro propose une assistance téléphonique.",
+   "chiffres": []
+  },
+  {
+   "objet": "Offre B, LedgerPro",
+   "information": "La migration des données est incluse dans l'offre LedgerPro.",
+   "chiffres": []
+  },
+  {
+   "objet": "cabinet",
+   "information": "Le cabinet compte 6 utilisateurs.",
+   "chiffres": [
+    "6 utilisateurs"
+   ]
+  },
+  {
+   "objet": "Offre A",
+   "information": "Sur trois ans, l'offre A coûte 11 784 euros.",
+   "chiffres": [
+    "11 784 euros"
+   ]
+  },
+  {
+   "objet": "Offre B",
+   "information": "Sur trois ans, l'offre B coûte 5 400 euros.",
+   "chiffres": [
+    "5 400 euros"
+   ]
+  },
+  {
+   "objet": "cabinet",
+   "information": "L'équipe informatique préfère l'offre A pour éviter la maintenance des serveurs.",
+   "chiffres": []
+  },
+  {
+   "objet": "direction",
+   "information": "La direction veut une décision avant le 15 janvier.",
+   "chiffres": [
+    "15 janvier"
+   ]
+  }
+ ]
+}

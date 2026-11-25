@@ -1,0 +1,43 @@
+{
+ "type": "presentation",
+ "titre": "Assemblée générale 2024",
+ "diapositives": [
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Licenciés",
+   "chiffre": "312",
+   "legende": "hausse de 16 % par rapport à l'année dernière"
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Évolution des effectifs",
+   "gauche": {
+    "titre": "Section féminine",
+    "points": [
+     "45 joueuses → 90 joueuses"
+    ]
+   },
+   "droite": {
+    "titre": "Équipe senior masculine",
+    "points": [
+     "Montée en Nationale 3"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Stages et jeunes",
+   "points": [
+    "4 stages organisés",
+    "140 jeunes formés"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Équilibre financier",
+   "chiffre": "5 000 €",
+   "legende": "recettes (186 000 €) - dépenses (181 000 €)"
+  }
+ ],
+ "sous_titre": "Résumé des résultats et perspectives du club"
+}

@@ -1,0 +1,67 @@
+{
+ "type": "presentation",
+ "titre": "Résultats de l'enquête",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Satisfaction des usagers"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Taux de satisfaction",
+   "chiffre": "82 %",
+   "legende": "satisfaits ou très satisfaits"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Mécontentement principal",
+   "points": [
+    "Horaires",
+    "Manque d'ouverture dimanche"
+   ]
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Demandes d'amélioration",
+   "gauche": {
+    "titre": "Places assises",
+    "points": [
+     "47 % des usagers"
+    ]
+   },
+   "droite": {
+    "titre": "Réseau Wi-Fi",
+    "points": [
+     "39 % des usagers"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Utilisation du prêt de jeux vidéo",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "34 % des 15-25 ans",
+    "etiquettes": [
+     "15-25 ans"
+    ],
+    "series": [
+     {
+      "nom": "Prêt jeux vidéo",
+      "valeurs": [
+       34
+      ]
+     }
+    ]
+   },
+   "points": [
+    "Lancé en 2025"
+   ]
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "61 % souhaitent une ouverture dimanche"
+  }
+ ]
+}

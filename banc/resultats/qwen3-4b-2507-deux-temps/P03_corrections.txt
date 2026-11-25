@@ -1,0 +1,2 @@
+graphique « Comparaison coût total » : série 'ComptaPlus' ramenée à 2 valeurs
+graphique « Comparaison coût total » : série 'LedgerPro' ramenée à 2 valeurs

@@ -1,0 +1,70 @@
+{
+ "faits": [
+  {
+   "objet": "enquête de satisfaction",
+   "information": "Une enquête de satisfaction des usagers de la médiathèque a été menée du 1er au 30 septembre 2026.",
+   "chiffres": [
+    "du 1er au 30 septembre 2026"
+   ]
+  },
+  {
+   "objet": "nombre de répondants",
+   "information": "L'enquête a été menée auprès de 425 personnes.",
+   "chiffres": [
+    "425 personnes"
+   ]
+  },
+  {
+   "objet": "taux de satisfaction",
+   "information": "82 % des répondants se disent satisfaits ou très satisfaits.",
+   "chiffres": [
+    "82 %"
+   ]
+  },
+  {
+   "objet": "sujet de mécontentement principal",
+   "information": "Les horaires sont le premier sujet de mécontentement.",
+   "chiffres": []
+  },
+  {
+   "objet": "pourcentage souhaitant une ouverture le dimanche",
+   "information": "61 % des répondants souhaitent une ouverture le dimanche.",
+   "chiffres": [
+    "61 %"
+   ]
+  },
+  {
+   "objet": "utilisation du prêt de jeux vidéo",
+   "information": "Le prêt de jeux vidéo, lancé en 2025, est utilisé par 34 % des 15-25 ans.",
+   "chiffres": [
+    "34 %"
+   ]
+  },
+  {
+   "objet": "note moyenne de l'accueil",
+   "information": "La note moyenne de l'accueil est de 8,4 sur 10.",
+   "chiffres": [
+    "8,4 sur 10"
+   ]
+  },
+  {
+   "objet": "demande de plus de places assises",
+   "information": "Les usagers demandent davantage de places assises, cité par 47 %.",
+   "chiffres": [
+    "47 %"
+   ]
+  },
+  {
+   "objet": "demande de meilleur réseau wifi",
+   "information": "Les usagers demandent un meilleur réseau wifi, cité par 39 %.",
+   "chiffres": [
+    "39 %"
+   ]
+  },
+  {
+   "objet": "ouverture dimanche après-midi",
+   "information": "La médiathèque prévoit d'ouvrir le dimanche après-midi à titre expérimental à partir de janvier.",
+   "chiffres": []
+  }
+ ]
+}

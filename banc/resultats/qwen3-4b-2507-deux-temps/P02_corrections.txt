@@ -1,0 +1,2 @@
+graphique « Étapes du cycle » : série 'Vapeur' ramenée à 6 valeurs
+graphique « Étapes du cycle » : série 'Gouttelettes' ramenée à 6 valeurs

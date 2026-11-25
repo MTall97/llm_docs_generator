@@ -1,0 +1,103 @@
+{
+ "type": "presentation",
+ "titre": "Le cycle de l'eau",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Le cycle de l'eau"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Comment circule l'eau ?",
+   "points": [
+    "L'eau s'évapore au soleil",
+    "Les plantes transpirent aussi",
+    "La vapeur se condense en nuages",
+    "Les nuages font tomber la pluie"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Eau des océans",
+   "chiffre": "97 %",
+   "legende": "de l'eau de la planète"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Eau douce",
+   "chiffre": "3 %",
+   "legende": "sur Terre, très rare"
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Océans vs Glaciers",
+   "gauche": {
+    "titre": "Océans",
+    "points": [
+     "97 % de l'eau",
+     "L'eau est salée"
+    ]
+   },
+   "droite": {
+    "titre": "Glaciers",
+    "points": [
+     "Plus des deux tiers de l'eau douce",
+     "L'eau est gelée"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "L'eau ne s'arrête jamais : elle circule tout autour de la Terre.",
+   "auteur": "Nature"
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Le parcours de l'eau",
+   "image": {
+    "type": "graphique",
+    "forme": "courbes",
+    "titre": "Étapes du cycle",
+    "etiquettes": [
+     "Évaporation",
+     "Transpiration",
+     "Condensation",
+     "Précipitations",
+     "Ruissellement",
+     "Infiltration"
+    ],
+    "series": [
+     {
+      "nom": "Vapeur",
+      "valeurs": [
+       1,
+       2,
+       3,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "Gouttelettes",
+      "valeurs": [
+       2,
+       4,
+       5,
+       0,
+       0,
+       0
+      ]
+     }
+    ],
+    "legende": "Chaque étape est liée à la suivante →"
+   },
+   "points": [
+    "L'eau monte en vapeur",
+    "Elle se refroidit",
+    "Elle devient des nuages",
+    "Puis elle tombe"
+   ]
+  }
+ ]
+}

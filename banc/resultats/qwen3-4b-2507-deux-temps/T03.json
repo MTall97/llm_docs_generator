@@ -1,0 +1,224 @@
+{
+ "type": "document",
+ "titre": "Rapport des ventes de la boulangerie Le Fournil",
+ "sections": [
+  {
+   "titre": "Chiffres d'affaires mensuels",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les ventes mensuelles de la boulangerie Le Fournil montrent une évolution progressive au fil des mois, avec un pic en mai. Les chiffres d'affaires s'élèvent à 38 200 euros en janvier, 35 900 euros en février, 41 300 euros en mars, 43 800 euros en avril, 46 100 euros en mai et 44 700 euros en juin."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Mois",
+      "Chiffre d'affaires (en euros)"
+     ],
+     "lignes": [
+      [
+       "Janvier",
+       "38 200"
+      ],
+      [
+       "Février",
+       "35 900"
+      ],
+      [
+       "Mars",
+       "41 300"
+      ],
+      [
+       "Avril",
+       "43 800"
+      ],
+      [
+       "Mai",
+       "46 100"
+      ],
+      [
+       "Juin",
+       "44 700"
+      ]
+     ]
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Chiffre d'affaires mensuel (en euros)",
+     "etiquettes": [
+      "Janvier",
+      "Février",
+      "Mars",
+      "Avril",
+      "Mai",
+      "Juin"
+     ],
+     "series": [
+      {
+       "nom": "Chiffre d'affaires",
+       "valeurs": [
+        38200,
+        35900,
+        41300,
+        43800,
+        46100,
+        44700
+       ]
+      }
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "La hausse de ventes en mai s'explique par le lancement d'une gamme de sandwichs le midi."
+    }
+   ]
+  },
+  {
+   "titre": "Répartition des produits vendus",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "La répartition des ventes par catégorie de produit montre que le pain constitue la part la plus importante, suivie de la viennoiserie, puis de la pâtisserie et des boissons."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Produit",
+      "Part des ventes (%)"
+     ],
+     "lignes": [
+      [
+       "Pain",
+       "52"
+      ],
+      [
+       "Viennoiserie",
+       "28"
+      ],
+      [
+       "Pâtisserie",
+       "15"
+      ],
+      [
+       "Boissons",
+       "5"
+      ]
+     ]
+    },
+    {
+     "type": "graphique",
+     "forme": "camembert",
+     "titre": "Répartition des ventes par produit",
+     "etiquettes": [
+      "Pain",
+      "Viennoiserie",
+      "Pâtisserie",
+      "Boissons"
+     ],
+     "series": [
+      {
+       "nom": "Part des ventes (%)",
+       "valeurs": [
+        52,
+        28,
+        15,
+        5
+       ]
+      }
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "Le pain représente 52 % des ventes."
+    }
+   ]
+  },
+  {
+   "titre": "Évolution du chiffre d'affaires par rapport à l'année précédente",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le total du chiffre d'affaires du premier semestre 2026 s'élève à 250 000 euros, en hausse de 7 % par rapport au premier semestre 2025."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Indicateur",
+      "Valeur"
+     ],
+     "lignes": [
+      [
+       "Total du semestre (2026)",
+       "250 000 euros"
+      ],
+      [
+       "Hausse par rapport à 2025",
+       "7 %"
+      ]
+     ]
+    },
+    {
+     "type": "graphique",
+     "forme": "courbes",
+     "titre": "Évolution du chiffre d'affaires du premier semestre (en euros)",
+     "etiquettes": [
+      "Semestre 2025",
+      "Semestre 2026"
+     ],
+     "series": [
+      {
+       "nom": "Chiffre d'affaires",
+       "valeurs": [
+        233,
+        250
+       ]
+      }
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "Le total du semestre 2026 est en hausse de 7 % par rapport au premier semestre 2025."
+    }
+   ]
+  },
+  {
+   "titre": "Facteurs d'influence sur les ventes",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Plusieurs facteurs influencent la performance commerciale, notamment le lancement de nouveaux produits et l'augmentation des coûts de production."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Lancement d'une gamme de sandwichs en mai",
+      "Augmentation du coût de la farine de 11 % sur un an",
+      "Équipe composée de 7 salariés depuis avril"
+     ]
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "lancement sandwichs",
+       "vers": "hausse ventes mai"
+      },
+      {
+       "de": "augmentation farine",
+       "vers": "augmentation coût production"
+      },
+      {
+       "de": "effet de l'équipe",
+       "vers": "stabilité opérationnelle"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "évolution"
+    }
+   ]
+  }
+ ]
+}

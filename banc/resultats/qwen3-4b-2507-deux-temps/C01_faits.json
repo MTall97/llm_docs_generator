@@ -1,0 +1,82 @@
+{
+ "faits": [
+  {
+   "objet": "budget du voyage scolaire",
+   "information": "Le budget du voyage scolaire à Berlin est établi pour 2 classes de seconde.",
+   "chiffres": []
+  },
+  {
+   "objet": "nombre d'élèves",
+   "information": "Il y a 58 élèves dans les deux classes de seconde.",
+   "chiffres": [
+    "58"
+   ]
+  },
+  {
+   "objet": "nombre d'accompagnateurs",
+   "information": "Il y a 6 accompagnateurs dans le groupe.",
+   "chiffres": [
+    "6"
+   ]
+  },
+  {
+   "objet": "transport en car",
+   "information": "Le transport en car coûte 9 800 euros pour l'ensemble du groupe.",
+   "chiffres": [
+    "9 800 euros"
+   ]
+  },
+  {
+   "objet": "hébergement en auberge de jeunesse",
+   "information": "L'hébergement est prévu pour 4 nuits à 31 euros par personne et par nuit, pour 64 personnes.",
+   "chiffres": [
+    "4 nuits",
+    "31 euros par personne et par nuit",
+    "64 personnes"
+   ]
+  },
+  {
+   "objet": "repas",
+   "information": "Les repas coûtent 22 euros par personne et par jour pendant 5 jours, pour 64 personnes.",
+   "chiffres": [
+    "22 euros par personne et par jour",
+    "5 jours",
+    "64 personnes"
+   ]
+  },
+  {
+   "objet": "visites et musées",
+   "information": "Les visites et musées coûtent 18 euros par élève.",
+   "chiffres": [
+    "18 euros par élève"
+   ]
+  },
+  {
+   "objet": "assurance",
+   "information": "L'assurance coûte 6 euros par personne pour 64 personnes.",
+   "chiffres": [
+    "6 euros par personne",
+    "64 personnes"
+   ]
+  },
+  {
+   "objet": "financement du lycée",
+   "information": "Le lycée prend en charge 4 000 euros du budget du voyage.",
+   "chiffres": [
+    "4 000 euros"
+   ]
+  },
+  {
+   "objet": "financement du conseil régional",
+   "information": "Le conseil régional prend en charge 3 500 euros du budget du voyage.",
+   "chiffres": [
+    "3 500 euros"
+   ]
+  },
+  {
+   "objet": "paiement par les familles",
+   "information": "Le reste du budget est payé par les familles.",
+   "chiffres": []
+  }
+ ]
+}

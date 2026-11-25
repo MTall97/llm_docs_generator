@@ -1,0 +1,159 @@
+{
+ "type": "document",
+ "titre": "Comment rempoter une plante d'intérieur : guide pratique",
+ "sections": [
+  {
+   "titre": "Choisir le bon pot",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le diamètre du nouveau pot doit être supérieur à celui de l'ancien de 2 à 4 centimètres pour permettre une croissance saine sans surcharger la plante."
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Écart de diamètre entre les pots (en cm)",
+     "etiquettes": [
+      "Minimum",
+      "Maximum"
+     ],
+     "series": [
+      {
+       "nom": "Écart de diamètre",
+       "valeurs": [
+        2,
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "diamètre"
+    }
+   ]
+  },
+  {
+   "titre": "Meilleur moment pour rempoter",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le printemps, entre mars et mai, est le meilleur moment car les plantes sont en période de croissance active."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Mois",
+      "Période"
+     ],
+     "lignes": [
+      [
+       "Mars",
+       "Début du printemps"
+      ],
+      [
+       "Mai",
+       "Fin du printemps"
+      ]
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "printemps"
+    }
+   ]
+  },
+  {
+   "titre": "Préparation avant le rempotage",
+   "blocs": [
+    {
+     "type": "liste",
+     "elements": [
+      "Arrosez la plante la veille pour faciliter l'extirpation de la motte.",
+      "Placez une couche de billes d'argile d'environ 3 centimètres au fond du pot pour améliorer le drainage."
+     ]
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "arrosage",
+       "vers": "sortie de la motte"
+      },
+      {
+       "de": "couche d'argile",
+       "vers": "drainage"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "drainage"
+    }
+   ]
+  },
+  {
+   "titre": "Réaliser le rempotage",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Démêlez les racines en les dégageant des tours, coupez celles qui sont noires ou molles pour éviter les maladies."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Action",
+      "Description"
+     ],
+     "lignes": [
+      [
+       "Sortir la plante",
+       "Démêler les racines"
+      ],
+      [
+       "Couper les racines",
+       "Éliminer celles noires ou molles"
+      ]
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "racines"
+    }
+   ]
+  },
+  {
+   "titre": "Après rempotage et soins",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Posez la plante dans le nouveau pot, complétez avec du terreau neuf en tassant légèrement, en laissant 2 centimètres sous le bord du pot. Arrosez abondamment puis placez-la à l'ombre pendant une semaine."
+    },
+    {
+     "type": "citation",
+     "texte": "N'apportez pas d'engrais pendant un mois : le terreau neuf en contient déjà suffisamment."
+    },
+    {
+     "type": "graphique",
+     "forme": "camembert",
+     "titre": "Période sans engrais (en mois)",
+     "etiquettes": [
+      "Sans engrais"
+     ],
+     "series": [
+      {
+       "nom": "Durée",
+       "valeurs": [
+        1
+       ]
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "soins"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "faits": [
+  {
+   "objet": "le cycle de l'eau",
+   "information": "Le cycle de l'eau décrit le parcours de l'eau sur Terre.",
+   "chiffres": []
+  },
+  {
+   "objet": "l'évaporation",
+   "information": "Sous l'effet du Soleil, l'eau des océans, des lacs et des rivières s'évapore et devient de la vapeur d'eau.",
+   "chiffres": []
+  },
+  {
+   "objet": "la transpiration",
+   "information": "Les plantes rejettent aussi de la vapeur d'eau : c'est la transpiration.",
+   "chiffres": []
+  },
+  {
+   "objet": "la condensation",
+   "information": "En montant, la vapeur se refroidit et se condense en fines gouttelettes qui forment les nuages.",
+   "chiffres": []
+  },
+  {
+   "objet": "les précipitations",
+   "information": "Quand les gouttelettes deviennent trop lourdes, elles tombent : ce sont les précipitations, pluie, neige ou grêle.",
+   "chiffres": []
+  },
+  {
+   "objet": "l'eau ruisselante",
+   "information": "Une partie de l'eau ruisselle vers les rivières et la mer.",
+   "chiffres": []
+  },
+  {
+   "objet": "l'eau infiltrée",
+   "information": "Une autre s'infiltre dans le sol et alimente les nappes phréatiques.",
+   "chiffres": []
+  },
+  {
+   "objet": "la quantité d'eau des océans",
+   "information": "Les océans contiennent 97 % de l'eau de la planète.",
+   "chiffres": [
+    "97 %"
+   ]
+  },
+  {
+   "objet": "la quantité d'eau douce",
+   "information": "l'eau douce ne représente que 3 %",
+   "chiffres": [
+    "3 %"
+   ]
+  },
+  {
+   "objet": "la répartition de l'eau douce",
+   "information": "dont plus des deux tiers sont gelés dans les glaciers.",
+   "chiffres": [
+    "plus des deux tiers"
+   ]
+  }
+ ]
+}

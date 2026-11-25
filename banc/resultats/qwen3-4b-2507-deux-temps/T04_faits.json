@@ -1,0 +1,62 @@
+{
+ "faits": [
+  {
+   "objet": "le formulaire de note de frais",
+   "information": "Le bénévole remplit le formulaire de note de frais dans les 30 jours suivant la dépense.",
+   "chiffres": [
+    "30 jours"
+   ]
+  },
+  {
+   "objet": "les justificatifs originaux",
+   "information": "Le bénévole y joint les justificatifs originaux.",
+   "chiffres": []
+  },
+  {
+   "objet": "le dossier",
+   "information": "Le bénévole remet le dossier au trésorier.",
+   "chiffres": []
+  },
+  {
+   "objet": "la dépense",
+   "information": "Le trésorier vérifie que la dépense a été autorisée par le bureau.",
+   "chiffres": []
+  },
+  {
+   "objet": "les justificatifs",
+   "information": "Le trésorier vérifie que les justificatifs sont complets.",
+   "chiffres": []
+  },
+  {
+   "objet": "le dossier incomplet",
+   "information": "Si le dossier est incomplet, il le renvoie au bénévole avec la liste des pièces manquantes.",
+   "chiffres": []
+  },
+  {
+   "objet": "le dossier complet",
+   "information": "Si le dossier est complet, le président signe l'ordre de paiement.",
+   "chiffres": []
+  },
+  {
+   "objet": "le virement",
+   "information": "Le trésorier effectue alors le virement sous 15 jours.",
+   "chiffres": [
+    "15 jours"
+   ]
+  },
+  {
+   "objet": "les frais kilométriques",
+   "information": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre.",
+   "chiffres": [
+    "0,32 euro par kilomètre"
+   ]
+  },
+  {
+   "objet": "les repas",
+   "information": "Les repas sont remboursés dans la limite de 20 euros.",
+   "chiffres": [
+    "20 euros"
+   ]
+  }
+ ]
+}
