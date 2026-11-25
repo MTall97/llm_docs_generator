@@ -14,7 +14,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 from .nettoyage import nettoyer
-from .schema import PLAN, _sans_maxlength, schema_generation
+from .schema import FAITS, PLAN, _sans_maxlength, schema_generation
 
 TONS = {
     "formel": "Ton formel et professionnel, vouvoiement, phrases complètes.",
@@ -127,15 +127,49 @@ class Generateur:
         return consigne
 
     # -- Mode 1 : transformer un texte fourni ---------------------------------------------
+    def extraire_faits(self, texte: str, max_jetons: int = 2000) -> Resultat:
+        """Étape 1 de la consigne en deux temps : liste des faits, chiffres recopiés tels quels."""
+        systeme = ("Tu réponds uniquement en JSON, en français. Lis le texte et liste TOUS ses faits, un par "
+                   "élément, dans l'ordre du texte. « objet » : de qui ou de quoi parle le fait. « information » : "
+                   "le fait en une phrase courte. « chiffres » : chaque nombre du fait recopié EXACTEMENT, avec son "
+                   "unité et ce qu'il compte (par exemple « 31 euros par personne et par nuit », « 64 personnes »). "
+                   "Ne déduis rien, ne calcule rien, n'ajoute rien.")
+        return self._appel(systeme, f"Texte :\n\"\"\"\n{texte.strip()}\n\"\"\"", _sans_maxlength(FAITS), max_jetons)
+
+    @staticmethod
+    def faits_en_texte(faits: dict) -> str:
+        lignes = []
+        for i, f in enumerate(faits.get("faits", []), 1):
+            ch = f" [chiffres : {' ; '.join(f['chiffres'])}]" if f.get("chiffres") else ""
+            lignes.append(f"{i}. {f['objet']} : {f['information']}{ch}")
+        return "\n".join(lignes)
+
     def depuis_texte(self, texte: str, sorte: str, consigne: str = "", ton: str = "formel",
-                     images: bool = True, fichiers: list[str] | None = None, max_jetons: int = 3000) -> Resultat:
+                     images: bool = True, fichiers: list[str] | None = None, max_jetons: int = 3000,
+                     deux_temps: bool = False) -> Resultat:
+        """`deux_temps=True` : extraire d'abord les faits (étape 1), puis mettre en forme
+        cette liste au lieu du texte brut (étape 2)."""
+        faits = None
+        if deux_temps:
+            rf = self.extraire_faits(texte)
+            if rf.donnees is None:
+                return rf
+            faits = rf
+            source = ("Faits extraits du texte source (seules informations à utiliser) :\n"
+                      + self.faits_en_texte(rf.donnees))
+        else:
+            source = f"Texte source :\n\"\"\"\n{texte.strip()}\n\"\"\""
         systeme = self._systeme(sorte, ton, images, fichiers) + (
-            " Utilise UNIQUEMENT les informations du texte source : n'invente ni chiffre, ni nom, ni date. "
+            " Utilise UNIQUEMENT les informations de la source : n'invente ni chiffre, ni nom, ni date. "
             "Reformule et organise, sans rien ajouter.")
-        utilisateur = (f"Demande : {consigne or 'mets ce texte en forme'}\n\nTexte source :\n\"\"\"\n"
-                       f"{texte.strip()}\n\"\"\"")
+        utilisateur = f"Demande : {consigne or 'mets ce texte en forme'}\n\n{source}"
         schema = schema_generation(sorte, images, fichiers)
         res = self._appel(systeme, utilisateur, schema, max_jetons)
+        if faits is not None:  # temps et jetons des deux étapes
+            res.secondes += faits.secondes
+            res.jetons_entree += faits.jetons_entree
+            res.jetons_sortie += faits.jetons_sortie
+            res.etapes = [{"faits": faits.donnees, "secondes": round(faits.secondes, 1)}]
         if res.donnees is not None:
             res.donnees["type"] = sorte
             res.donnees, res.corrections = nettoyer(res.donnees)

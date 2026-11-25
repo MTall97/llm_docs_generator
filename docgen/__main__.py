@@ -45,6 +45,8 @@ def main(argv=None):
     p = sp.add_parser("texte", help="mettre en forme un texte fourni")
     p.add_argument("fichier", help="fichier texte, ou - pour l'entrée standard")
     p.add_argument("-c", "--consigne", default="", help="précision sur ce qu'on veut obtenir")
+    p.add_argument("--deux-temps", action="store_true",
+                   help="extraire d'abord les faits du texte, puis les mettre en forme")
     _modele(p)
     _commun(p)
     p = sp.add_parser("plan", help="sujet seul, étape 1 : proposer un plan (à modifier puis `rediger`)")
@@ -90,7 +92,8 @@ def main(argv=None):
         return 0
     if a.cmd == "texte":
         texte = sys.stdin.read() if a.fichier == "-" else Path(a.fichier).read_text(encoding="utf-8")
-        r = g.depuis_texte(texte, a.sorte, a.consigne, a.ton, not a.sans_images, fichiers)
+        r = g.depuis_texte(texte, a.sorte, a.consigne, a.ton, not a.sans_images, fichiers,
+                           deux_temps=a.deux_temps)
     else:
         if a.cmd == "rediger":
             plan = json.loads(Path(a.plan).read_text(encoding="utf-8"))

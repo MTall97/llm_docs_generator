@@ -250,6 +250,21 @@ PLAN = {
     "required": ["titre", "parties"],
     "additionalProperties": False,
 }
+# --- Consigne en deux temps : faits extraits du texte, puis mise en forme -----------
+FAITS = {
+    "type": "object",
+    "properties": {
+        "faits": _liste({
+            "type": "object",
+            "properties": {"objet": COURT, "information": {"type": "string", "maxLength": 400},
+                           "chiffres": _liste(COURT, 6)},
+            "required": ["objet", "information", "chiffres"],
+            "additionalProperties": False,
+        }, 30, 1),
+    },
+    "required": ["faits"],
+    "additionalProperties": False,
+}
 PARTIE = {"document": SECTION, "presentation": DIAPOSITIVE, "classeur": FEUILLE}
 
 

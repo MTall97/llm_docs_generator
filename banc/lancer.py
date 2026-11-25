@@ -117,8 +117,9 @@ def main():
     ap.add_argument("modele")
     ap.add_argument("--ids", nargs="*", help="sous-ensemble de demandes")
     ap.add_argument("--sans-exemple", action="store_true", help="pas d'exemple JSON dans la consigne")
+    ap.add_argument("--deux-temps", action="store_true", help="extraire les faits puis mettre en forme")
     a = ap.parse_args()
-    nom = Path(a.modele).stem.replace("-instruct-q4_k_m", "") + ("-sans-exemple" if a.sans_exemple else "")
+    nom = Path(a.modele).stem.replace("-instruct-q4_k_m", "").replace("-instruct-2507-q4_k_m", "-2507") + ("-sans-exemple" if a.sans_exemple else "") + ("-deux-temps" if a.deux_temps else "")
     dossier = RACINE / "banc" / "resultats" / nom
     dossier.mkdir(parents=True, exist_ok=True)
     demandes = json.loads((RACINE / "banc" / "demandes.json").read_text(encoding="utf-8"))
@@ -132,7 +133,10 @@ def main():
         print(f"[{nom}] {dm['id']} …", flush=True)
         ton = dm.get("ton", "formel")
         if dm["mode"] == "texte":
-            r = g.depuis_texte(dm["texte"], dm["sorte"], dm.get("consigne", ""), ton)
+            r = g.depuis_texte(dm["texte"], dm["sorte"], dm.get("consigne", ""), ton, deux_temps=a.deux_temps)
+            if a.deux_temps and r.etapes:
+                (dossier / f"{dm['id']}_faits.json").write_text(
+                    json.dumps(r.etapes[0]["faits"], ensure_ascii=False, indent=1), encoding="utf-8")
         else:
             p = g.plan(dm["sujet"], dm["sorte"], 4, ton)
             if p.donnees is None:
