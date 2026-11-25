@@ -1,0 +1,107 @@
+{
+ "type": "classeur",
+ "titre": "Budget du voyage",
+ "feuilles": [
+  {
+   "nom": "Transport",
+   "colonnes": [
+    {
+     "nom": "Description",
+     "format": "texte"
+    },
+    {
+     "nom": "Montant",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "Transport en car",
+     9800
+    ]
+   ]
+  },
+  {
+   "nom": "Hébergement",
+   "colonnes": [
+    {
+     "nom": "Description",
+     "format": "texte"
+    },
+    {
+     "nom": "Montant",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "Hôtel d' jeunesse",
+     43164
+    ]
+   ]
+  },
+  {
+   "nom": "Repas",
+   "colonnes": [
+    {
+     "nom": "Description",
+     "format": "texte"
+    },
+    {
+     "nom": "Montant",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "Repas",
+     22640
+    ]
+   ]
+  },
+  {
+   "nom": "Visites et musées",
+   "colonnes": [
+    {
+     "nom": "Description",
+     "format": "texte"
+    },
+    {
+     "nom": "Montant",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "Visites et musées",
+     1864
+    ]
+   ]
+  },
+  {
+   "nom": "Assurance",
+   "colonnes": [
+    {
+     "nom": "Description",
+     "format": "texte"
+    },
+    {
+     "nom": "Montant",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "Assurance",
+     384
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Montant",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}

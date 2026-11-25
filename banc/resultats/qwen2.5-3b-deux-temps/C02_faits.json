@@ -1,0 +1,68 @@
+{
+ "faits": [
+  {
+   "objet": "pâtes",
+   "information": "140 paquets à 0,95 euro",
+   "chiffres": [
+    "140",
+    "0,95"
+   ]
+  },
+  {
+   "objet": "riz",
+   "information": "85 sachets à 1,40 euro",
+   "chiffres": [
+    "85",
+    "1,40"
+   ]
+  },
+  {
+   "objet": "huile",
+   "information": "42 bouteilles à 3,20 euros",
+   "chiffres": [
+    "42",
+    "3,20"
+   ]
+  },
+  {
+   "objet": "conserves de légumes",
+   "information": "210 boîtes à 1,10 euro",
+   "chiffres": [
+    "210",
+    "1,10"
+   ]
+  },
+  {
+   "objet": "lait",
+   "information": "96 briques à 0,89 euro",
+   "chiffres": [
+    "96",
+    "0,89"
+   ]
+  },
+  {
+   "objet": "café",
+   "information": "30 paquets à 4,50 euros",
+   "chiffres": [
+    "30",
+    "4,50"
+   ]
+  },
+  {
+   "objet": "savon",
+   "information": "64 pains à 1,25 euro",
+   "chiffres": [
+    "64",
+    "1,25"
+   ]
+  },
+  {
+   "objet": "couches",
+   "information": "18 paquets à 9,90 euros",
+   "chiffres": [
+    "18",
+    "9,90"
+   ]
+  }
+ ]
+}

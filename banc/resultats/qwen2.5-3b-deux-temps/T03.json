@@ -1,0 +1,180 @@
+{
+ "type": "document",
+ "titre": "Rapport des Ventes de la Boulangerie Le Fournil pour le Premier Semestre 2026",
+ "sections": [
+  {
+   "titre": "Bilan Commercial",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le bilan commercial de la boulangerie Le Fournil pour le premier semestre 2026 est présenté avec des chiffres précis."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Mois",
+      "Ventes"
+     ],
+     "lignes": [
+      [
+       "Janvier",
+       "38 200 euros"
+      ],
+      [
+       "Février",
+       "35 900 euros"
+      ],
+      [
+       "Mars",
+       "41 300 euros"
+      ],
+      [
+       "Avril",
+       "43 800 euros"
+      ],
+      [
+       "Mai",
+       "46 100 euros"
+      ],
+      [
+       "Juin",
+       "44 700 euros"
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "Le total des ventes pour le premier semestre 2026 est de 250 000 euros."
+    }
+   ]
+  },
+  {
+   "titre": "Composition des Ventes",
+   "blocs": [
+    {
+     "type": "liste",
+     "elements": [
+      "Le pain représente 52 % des ventes",
+      "la viennoiserie 28 %",
+      "la pâtisserie 15 %",
+      "les boissons 5 %"
+     ]
+    },
+    {
+     "type": "graphique",
+     "forme": "camembert",
+     "titre": "Composition des Ventes",
+     "etiquettes": [
+      "Pain",
+      "Viennoiserie",
+      "Pâtisserie",
+      "Boissons"
+     ],
+     "series": [
+      {
+       "nom": "Pain",
+       "valeurs": [
+        52,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "nom": "Viennoiserie",
+       "valeurs": [
+        28,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "nom": "Pâtisserie",
+       "valeurs": [
+        15,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "nom": "Boissons",
+       "valeurs": [
+        5,
+        0,
+        0,
+        0
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Hausse des Ventes",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "La hausse des ventes pour le premier semestre 2026 est de 7 % par rapport au premier semestre 2025."
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Hausse des Ventes",
+       "vers": "Composition des Ventes"
+      },
+      {
+       "de": "Hausse des Ventes",
+       "vers": "Coût de la Farine"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Coût de la Farine",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le coût de la farine a augmenté de 11 % sur un an."
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Coût de la Farine",
+     "etiquettes": [
+      "2025",
+      "2026"
+     ],
+     "series": [
+      {
+       "nom": "2025",
+       "valeurs": [
+        100,
+        0
+       ]
+      },
+      {
+       "nom": "2026",
+       "valeurs": [
+        111,
+        0
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Évolution des Ventes en Mai",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "La hausse des ventes en mai est due au lancement d'une gamme de sandwichs le midi."
+    }
+   ]
+  }
+ ]
+}

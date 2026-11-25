@@ -1,0 +1,84 @@
+{
+ "type": "document",
+ "titre": "Procédure de Remboursement des Notes de Frais",
+ "sections": [
+  {
+   "titre": "Étapes du Remboursement",
+   "blocs": [
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "remboursement des notes de frais",
+       "vers": "remboursement des notes de frais",
+       "etiquette": "1"
+      },
+      {
+       "de": "remboursement des notes de frais",
+       "vers": "remboursement des notes de frais",
+       "etiquette": "2"
+      },
+      {
+       "de": "remboursement des notes de frais",
+       "vers": "remboursement des notes de frais",
+       "etiquette": "3"
+      },
+      {
+       "de": "remboursement des notes de frais",
+       "vers": "remboursement des notes de frais",
+       "etiquette": "4"
+      },
+      {
+       "de": "remboursement des notes de frais",
+       "vers": "remboursement des notes de frais",
+       "etiquette": "5"
+      },
+      {
+       "de": "remboursement des notes de frais",
+       "vers": "remboursement des notes de frais",
+       "etiquette": "6"
+      },
+      {
+       "de": "remboursement des notes de frais",
+       "vers": "remboursement des notes de frais",
+       "etiquette": "7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Remboursement des Notes de Frais",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le bénévole remplit le formulaire de note de frais et y joint les justificatifs originaux."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Le trésorier vérifie que la dépense a été autorisée par le bureau et que les justificatifs sont complets."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Si le dossier est incomplet, il le renvoie au bénévole avec la liste des pièces manquantes."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Si le dossier est complet, le président signe l'ordre de paiement."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Le trésorier effectue alors le virement sous 15 jours."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre."
+    },
+    {
+     "type": "paragraphe",
+     "texte": "Les repas sont remboursés dans la limite de 20 euros."
+    }
+   ]
+  }
+ ]
+}

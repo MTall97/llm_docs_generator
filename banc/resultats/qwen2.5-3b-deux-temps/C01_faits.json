@@ -1,0 +1,44 @@
+{
+ "faits": [
+  {
+   "objet": "transport",
+   "information": "Le transport en car coûte 9 800 euros pour l'ensemble du groupe.",
+   "chiffres": [
+    "9 800"
+   ]
+  },
+  {
+   "objet": "hébergement",
+   "information": "Les hôtels d jeunesse coûtent 4 nuits à 31 euros par personne et par nuit pour 64 personnes.",
+   "chiffres": [
+    "4",
+    "31",
+    "64"
+   ]
+  },
+  {
+   "objet": "repas",
+   "information": "Les repas coûtent 22 euros par personne et par jour pendant 5 jours pour 64 personnes.",
+   "chiffres": [
+    "22",
+    "5",
+    "64"
+   ]
+  },
+  {
+   "objet": "visites et musées",
+   "information": "Les visites et musées coûtent 18 euros par élève.",
+   "chiffres": [
+    "18"
+   ]
+  },
+  {
+   "objet": "assurance",
+   "information": "L'assurance coûte 6 euros par personne pour 64 personnes.",
+   "chiffres": [
+    "6",
+    "64"
+   ]
+  }
+ ]
+}

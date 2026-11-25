@@ -1,0 +1,82 @@
+{
+ "type": "classeur",
+ "titre": "Notes Mathématiques",
+ "feuilles": [
+  {
+   "nom": "Notes",
+   "colonnes": [
+    {
+     "nom": "Nom",
+     "format": "texte"
+    },
+    {
+     "nom": "Note 1",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 2",
+     "format": "nombre"
+    },
+    {
+     "nom": "Note 3",
+     "format": "nombre"
+    },
+    {
+     "nom": "Moyenne",
+     "format": "pourcentage",
+     "formule": "({Note 1} + {Note 2} + {Note 3}) / 3"
+    }
+   ],
+   "lignes": [
+    [
+     "Amina",
+     14,
+     16,
+     12,
+     null
+    ],
+    [
+     "Bastien",
+     9,
+     11,
+     10,
+     null
+    ],
+    [
+     "Chloé",
+     17,
+     18,
+     19,
+     null
+    ],
+    [
+     "Diego",
+     12,
+     8,
+     13,
+     null
+    ],
+    [
+     "Emma",
+     15,
+     14,
+     16,
+     null
+    ],
+    [
+     "Farid",
+     11,
+     13,
+     12,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Moyenne",
+     "fonction": "MOYENNE"
+    }
+   ]
+  }
+ ]
+}

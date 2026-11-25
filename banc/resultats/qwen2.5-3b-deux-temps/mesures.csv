@@ -1,0 +1,12 @@
+modele,id,sorte,mode,secondes,jetons_sortie,jetons_par_s,json_valide,erreurs_schema,corrections,rendu_ok,recopie_exemple,chiffres_inventes,exemples_inventes,chiffres_repris,mots_hors_source,erreur
+qwen2.5-3b-deux-temps,T01,document,texte,175.4,1079,6.2,True,,0,True,0,0.0,,1.0,0.195,
+qwen2.5-3b-deux-temps,T02,document,texte,86.4,482,5.6,True,,0,True,0,0.0,,,0.429,
+qwen2.5-3b-deux-temps,T03,document,texte,193.7,1189,6.1,True,,6,True,0,0.08,100 ; 111,1.0,0.174,
+qwen2.5-3b-deux-temps,T04,document,texte,153.4,937,6.1,True,,0,True,0,0.0,,0.75,0.04,
+qwen2.5-3b-deux-temps,P01,presentation,texte,137.2,844,6.2,True,,0,True,0,0.6,36 ; 52 ; 98,0.462,0.292,
+qwen2.5-3b-deux-temps,P02,presentation,texte,127.4,734,5.8,False,"sous_titre : ""Atelier du samedi 15 juillet 2023 - Atelier de collège - Atelier de lycée - Atelier de l'école élémentaire - Atelier de l'école primaire - Atelier de l'école maternelle - Atelier de la maternelle - A",0,True,0,1.0,15 ; 2023,0.0,0.794,
+qwen2.5-3b-deux-temps,P03,presentation,texte,126.6,758,6.0,True,,2,True,0,0.0,,0.714,0.158,
+qwen2.5-3b-deux-temps,P04,presentation,texte,110.4,644,5.8,True,,0,True,0,0.0,,0.417,0.1,
+qwen2.5-3b-deux-temps,C01,classeur,texte,105.1,585,5.6,True,,0,True,0,0.8,1864 ; 22640 ; 384 ; 43164,0.125,0.2,
+qwen2.5-3b-deux-temps,C02,classeur,texte,106.9,625,5.8,True,,0,True,0,0.0,,0.889,0.429,
+qwen2.5-3b-deux-temps,C03,classeur,texte,91.5,567,6.2,True,,0,True,0,0.0,,1.0,0.333,

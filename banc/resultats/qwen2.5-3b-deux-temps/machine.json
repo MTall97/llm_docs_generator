@@ -1,0 +1,7 @@
+{
+ "modele": "qwen2.5-3b-deux-temps",
+ "fichier_mo": 2105,
+ "chargement_s": 1.2,
+ "memoire_max_mo": 4263,
+ "threads": 4
+}

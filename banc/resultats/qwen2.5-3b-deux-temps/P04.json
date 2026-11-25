@@ -1,0 +1,61 @@
+{
+ "type": "presentation",
+ "titre": "Résultats de l'enquête sur la médiathèque",
+ "diapositives": [
+  {
+   "mise_en_page": "points",
+   "titre": "Satisfaction des répondants",
+   "points": [
+    "82 % satisfaits ou très satisfaits",
+    "61 % souhaitent une ouverture le dimanche"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Note moyenne",
+   "chiffre": "8,4",
+   "legende": "sur 10"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Demandes des usagers",
+   "points": [
+    "47 % demandent davantage de places assises",
+    "39 % demandent un meilleur réseau wifi"
+   ]
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Expérimentation",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Ouverture dimanche",
+    "etiquettes": [
+     "Avant",
+     "Après"
+    ],
+    "series": [
+     {
+      "nom": "Avant",
+      "valeurs": [
+       0,
+       61
+      ]
+     },
+     {
+      "nom": "Après",
+      "valeurs": [
+       47,
+       61
+      ]
+     }
+    ],
+    "legende": "Pourcentage des répondants"
+   },
+   "points": [
+    "La médiathèque prévoit d'ouvrir le dimanche après-midi à titre expérimental"
+   ]
+  }
+ ]
+}

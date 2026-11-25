@@ -1,0 +1,87 @@
+{
+ "type": "presentation",
+ "titre": "Résumé de l'Assemblée Générale",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Résumé de l'Assemblée Générale"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Évolution du club",
+   "points": [
+    "312 licenciés",
+    "contre 268 l'an dernier",
+    "hausse de 16 %"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Licences",
+   "chiffre": "98 000 euros",
+   "legende": "pour les recettes"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Sections du club",
+   "points": [
+    "Section féminine double",
+    "90 joueuses"
+   ]
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Évolution des sections",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Évolution des sections du club de handball",
+    "etiquettes": [
+     "Licences",
+     "Subventions",
+     "Sponsoring"
+    ],
+    "series": [
+     {
+      "nom": "Licences",
+      "valeurs": [
+       98,
+       52,
+       36
+      ]
+     },
+     {
+      "nom": "Subventions",
+      "valeurs": [
+       52,
+       98,
+       36
+      ]
+     },
+     {
+      "nom": "Sponsoring",
+      "valeurs": [
+       36,
+       36,
+       98
+      ]
+     }
+    ],
+    "legende": "Chiffres en euros"
+   },
+   "points": [
+    "Les principales recettes sont les licences",
+    "suivies par les subventions",
+    "et le sponsoring"
+   ]
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Activités du club",
+   "points": [
+    "4 stages organisés",
+    "140 jeunes suivis"
+   ]
+  }
+ ]
+}

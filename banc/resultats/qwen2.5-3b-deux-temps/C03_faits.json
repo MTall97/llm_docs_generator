@@ -1,0 +1,58 @@
+{
+ "faits": [
+  {
+   "objet": "Amina",
+   "information": "a obtenu 14, 16 et 12 en mathématiques",
+   "chiffres": [
+    "14",
+    "16",
+    "12"
+   ]
+  },
+  {
+   "objet": "Bastien",
+   "information": "a obtenu 9, 11 et 10 en mathématiques",
+   "chiffres": [
+    "9",
+    "11",
+    "10"
+   ]
+  },
+  {
+   "objet": "Chloé",
+   "information": "a obtenu 17, 18 et 19 en mathématiques",
+   "chiffres": [
+    "17",
+    "18",
+    "19"
+   ]
+  },
+  {
+   "objet": "Diego",
+   "information": "a obtenu 12, 8 et 13 en mathématiques",
+   "chiffres": [
+    "12",
+    "8",
+    "13"
+   ]
+  },
+  {
+   "objet": "Emma",
+   "information": "a obtenu 15, 14 et 16 en mathématiques",
+   "chiffres": [
+    "15",
+    "14",
+    "16"
+   ]
+  },
+  {
+   "objet": "Farid",
+   "information": "a obtenu 11, 13 et 12 en mathématiques",
+   "chiffres": [
+    "11",
+    "13",
+    "12"
+   ]
+  }
+ ]
+}

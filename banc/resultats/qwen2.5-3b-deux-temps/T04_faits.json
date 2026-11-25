@@ -1,0 +1,47 @@
+{
+ "faits": [
+  {
+   "objet": "remboursement des notes de frais",
+   "information": "Le bénévole remplit le formulaire de note de frais et y joint les justificatifs originaux",
+   "chiffres": []
+  },
+  {
+   "objet": "remboursement des notes de frais",
+   "information": "Le trésorier vérifie que la dépense a été autorisée par le bureau et que les justificatifs sont complets",
+   "chiffres": []
+  },
+  {
+   "objet": "remboursement des notes de frais",
+   "information": "Si le dossier est incomplet, il le renvoie au bénévole avec la liste des pièces manquantes",
+   "chiffres": []
+  },
+  {
+   "objet": "remboursement des notes de frais",
+   "information": "Si le dossier est complet, le président signe l'ordre de paiement",
+   "chiffres": []
+  },
+  {
+   "objet": "remboursement des notes de frais",
+   "information": "Le trésorier effectue alors le virement sous 15 jours",
+   "chiffres": []
+  },
+  {
+   "objet": "remboursement des notes de frais",
+   "information": "Les frais kilométriques sont remboursés 0,32 euro par kilomètre",
+   "chiffres": [
+    "0,32",
+    "euro",
+    "par",
+    "kilomètre"
+   ]
+  },
+  {
+   "objet": "remboursement des notes de frais",
+   "information": "Les repas sont remboursés dans la limite de 20 euros",
+   "chiffres": [
+    "20",
+    "euros"
+   ]
+  }
+ ]
+}

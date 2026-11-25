@@ -1,0 +1,6 @@
+graphique « Composition des Ventes » : série 'Pain' ramenée à 4 valeurs
+graphique « Composition des Ventes » : série 'Viennoiserie' ramenée à 4 valeurs
+graphique « Composition des Ventes » : série 'Pâtisserie' ramenée à 4 valeurs
+graphique « Composition des Ventes » : série 'Boissons' ramenée à 4 valeurs
+graphique « Coût de la Farine » : série '2025' ramenée à 2 valeurs
+graphique « Coût de la Farine » : série '2026' ramenée à 2 valeurs

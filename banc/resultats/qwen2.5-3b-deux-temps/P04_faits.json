@@ -1,0 +1,52 @@
+{
+ "faits": [
+  {
+   "objet": "les répondants de l'enquête",
+   "information": "82 % des répondants se disent satisfaits ou très satisfaits",
+   "chiffres": [
+    "82"
+   ]
+  },
+  {
+   "objet": "les horaires de la médiathèque",
+   "information": "61 % des répondants souhaitent une ouverture le dimanche",
+   "chiffres": [
+    "61"
+   ]
+  },
+  {
+   "objet": "le prêt de jeux vidéo",
+   "information": "34 % des 15-25 ans l'utilisent",
+   "chiffres": [
+    "34"
+   ]
+  },
+  {
+   "objet": "la note moyenne de l'accueil",
+   "information": "la note moyenne est de 8,4 sur 10",
+   "chiffres": [
+    "8",
+    "4"
+   ]
+  },
+  {
+   "objet": "les demandes des usagers",
+   "information": "47 % des usagers demandent davantage de places assises",
+   "chiffres": [
+    "47"
+   ]
+  },
+  {
+   "objet": "les demandes des usagers",
+   "information": "39 % des usagers demandent un meilleur réseau wifi",
+   "chiffres": [
+    "39"
+   ]
+  },
+  {
+   "objet": "la médiathèque",
+   "information": "elle prévoit d'ouvrir le dimanche après-midi à titre expérimental à partir de janvier",
+   "chiffres": []
+  }
+ ]
+}

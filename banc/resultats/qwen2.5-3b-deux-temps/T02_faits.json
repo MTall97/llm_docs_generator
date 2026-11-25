@@ -1,0 +1,54 @@
+{
+ "faits": [
+  {
+   "objet": "plante",
+   "information": "Pour rempoter une plante, choisissez un pot dont le diamètre dépasse l'ancien de 2 à 4 centimètres.",
+   "chiffres": [
+    "2",
+    "4"
+   ]
+  },
+  {
+   "objet": "plante",
+   "information": "Le meilleur moment pour rempoter est le printemps, de mars à mai.",
+   "chiffres": [
+    "3",
+    "5"
+   ]
+  },
+  {
+   "objet": "plante",
+   "information": "Arrosez la plante la veille pour que la motte sorte facilement.",
+   "chiffres": []
+  },
+  {
+   "objet": "pot",
+   "information": "Placez au fond du pot une couche de billes d'argile d'environ 3 centimètres pour le drainage.",
+   "chiffres": [
+    "3"
+   ]
+  },
+  {
+   "objet": "plante",
+   "information": "Sortez la plante, démêlez les racines qui tournent en rond et coupez celles qui sont noires ou molles.",
+   "chiffres": []
+  },
+  {
+   "objet": "pot",
+   "information": "Posez la plante, complétez avec du terreau neuf en tassant légèrement, en laissant 2 centimètres sous le bord du pot.",
+   "chiffres": [
+    "2"
+   ]
+  },
+  {
+   "objet": "plante",
+   "information": "Arrosez abondamment puis laissez la plante à l'ombre pendant une semaine.",
+   "chiffres": []
+  },
+  {
+   "objet": "plante",
+   "information": "N'apportez pas d'engrais pendant un mois : le terreau neuf en contient déjà.",
+   "chiffres": []
+  }
+ ]
+}

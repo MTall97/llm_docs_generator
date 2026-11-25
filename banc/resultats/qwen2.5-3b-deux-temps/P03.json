@@ -1,0 +1,70 @@
+{
+ "type": "presentation",
+ "titre": "Comparaison des offres de logiciels de comptabilité",
+ "diapositives": [
+  {
+   "mise_en_page": "points",
+   "titre": "ComptaPlus",
+   "points": [
+    "49 euros par mois",
+    "hébergé dans le cloud",
+    "mises à jour automatiques",
+    "assistance par courriel"
+   ]
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "LedgerPro",
+   "points": [
+    "3 600 euros première année",
+    "installation sur serveurs",
+    "maintenance annuelle",
+    "assistance téléphonique"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Coût total",
+   "chiffre": "11784",
+   "legende": "pour 3 ans"
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Comparaison des offres",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Coût total par logiciel et par an",
+    "etiquettes": [
+     "ComptaPlus",
+     "LedgerPro"
+    ],
+    "series": [
+     {
+      "nom": "ComptaPlus",
+      "valeurs": [
+       49,
+       49
+      ]
+     },
+     {
+      "nom": "LedgerPro",
+      "valeurs": [
+       3600,
+       900
+      ]
+     }
+    ],
+    "legende": "Coût par an"
+   },
+   "points": [
+    "ComptaPlus : 11784 euros pour 3 ans",
+    "LedgerPro : 5400 euros pour 3 ans"
+   ]
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "L'équipe informatique préfère l'offre A pour éviter la maintenance des serveurs."
+  }
+ ]
+}

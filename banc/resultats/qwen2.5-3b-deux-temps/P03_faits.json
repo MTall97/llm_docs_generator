@@ -1,0 +1,48 @@
+{
+ "faits": [
+  {
+   "objet": "logiciel de comptabilité",
+   "information": "Le cabinet compare deux logiciels de comptabilité : ComptaPlus et LedgerPro.",
+   "chiffres": []
+  },
+  {
+   "objet": "ComptaPlus",
+   "information": "Offre à 49 euros par mois et par utilisateur, hébergée dans le cloud, mises à jour automatiques, assistance par courriel uniquement, migration des données facturée 1 200 euros.",
+   "chiffres": [
+    "49",
+    "1200"
+   ]
+  },
+  {
+   "objet": "LedgerPro",
+   "information": "Offre à une licence de 3 600 euros la première année puis 900 euros par an de maintenance, installation sur nos serveurs, assistance téléphonique, migration incluse.",
+   "chiffres": [
+    "3600",
+    "900"
+   ]
+  },
+  {
+   "objet": "Le cabinet",
+   "information": "Le cabinet compte 6 utilisateurs.",
+   "chiffres": []
+  },
+  {
+   "objet": "ComptaPlus",
+   "information": "Sur trois ans, l'offre A coûte 11 784 euros et l'offre B 5 400 euros, hors coût de nos serveurs.",
+   "chiffres": [
+    "11784",
+    "5400"
+   ]
+  },
+  {
+   "objet": "LedgerPro",
+   "information": "L'équipe informatique préfère l'offre A pour éviter la maintenance des serveurs.",
+   "chiffres": []
+  },
+  {
+   "objet": "Le cabinet",
+   "information": "La direction veut une décision avant le 15 janvier.",
+   "chiffres": []
+  }
+ ]
+}

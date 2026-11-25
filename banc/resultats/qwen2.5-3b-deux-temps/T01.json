@@ -1,0 +1,111 @@
+{
+ "type": "document",
+ "titre": "Compte rendu de réunion du conseil d'école de l'école élémentaire Jean-Moulin",
+ "sections": [
+  {
+   "titre": "Informations générales",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le compte rendu du conseil d'école de l'école élémentaire Jean-Moulin a été présenté le 14 octobre 2026."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Personne",
+      "Rôle"
+     ],
+     "lignes": [
+      [
+       "Mme Diallo",
+       "Directrice"
+      ],
+      [
+       "9 enseignants",
+       "Enseignants"
+      ],
+      [
+       "6 représentants des parents",
+       "Parents"
+      ],
+      [
+       "Adjoint au maire chargé de l'éducation",
+       "Invité"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Effectifs et travaux",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "L'école élémentaire Jean-Moulin accueille 212 élèves répartis en 9 classes, soit une moyenne de 23,5 élèves par classe."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Travail",
+      "Budget"
+     ],
+     "lignes": [
+      [
+       "Refaire la cour",
+       "45 000 euros"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Sorties des élèves",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les élèves du CM2 partiront en classe de mer à Saint-Malo du 11 au 15 mai, le coût par élève est de 280 euros, dont 120 euros pris en charge par la coopérative."
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Sorties des élèves",
+       "vers": "Cantine de l'école"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Sécurité à l'école",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Un exercice d'évacuation a eu lieu le 2 octobre et s'est terminé en 3 minutes 40."
+    },
+    {
+     "type": "icone",
+     "mot_cle": "sécurité"
+    }
+   ]
+  },
+  {
+   "titre": "Prochain conseil d'école",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le prochain conseil d'école se tiendra le 10 février 2027."
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Prochain conseil d'école",
+       "vers": "Sorties des élèves"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

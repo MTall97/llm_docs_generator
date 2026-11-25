@@ -1,0 +1,2 @@
+graphique « Coût total par logiciel et par an » : série 'ComptaPlus' ramenée à 2 valeurs
+graphique « Coût total par logiciel et par an » : série 'LedgerPro' ramenée à 2 valeurs

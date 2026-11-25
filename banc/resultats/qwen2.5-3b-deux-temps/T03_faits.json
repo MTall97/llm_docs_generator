@@ -1,0 +1,52 @@
+{
+ "faits": [
+  {
+   "objet": "les chiffres du bilan commercial",
+   "information": "Le bilan commercial de la boulangerie Le Fournil pour le premier semestre 2026 est présenté avec des chiffres précis.",
+   "chiffres": [
+    "38 200 euros",
+    "35 900 euros",
+    "41 300 euros",
+    "43 800 euros",
+    "46 100 euros",
+    "44 700 euros"
+   ]
+  },
+  {
+   "objet": "les chiffres du bilan commercial",
+   "information": "Le total des ventes pour le premier semestre 2026 est de 250 000 euros.",
+   "chiffres": [
+    "250 000 euros"
+   ]
+  },
+  {
+   "objet": "les chiffres du bilan commercial",
+   "information": "La hausse des ventes pour le premier semestre 2026 est de 7 % par rapport au premier semestre 2025.",
+   "chiffres": [
+    "7 %"
+   ]
+  },
+  {
+   "objet": "la composition des ventes",
+   "information": "Le pain représente 52 % des ventes, la viennoiserie 28 %, la pâtisserie 15 % et les boissons 5 %.",
+   "chiffres": []
+  },
+  {
+   "objet": "les chiffres du bilan commercial",
+   "information": "La hausse des ventes en mai est due au lancement d'une gamme de sandwichs le midi.",
+   "chiffres": []
+  },
+  {
+   "objet": "les chiffres du bilan commercial",
+   "information": "Le coût de la farine a augmenté de 11 % sur un an.",
+   "chiffres": [
+    "11 %"
+   ]
+  },
+  {
+   "objet": "la composition des employés",
+   "information": "L'équipe compte 7 salariés depuis l'embauche d'un apprenti en avril.",
+   "chiffres": []
+  }
+ ]
+}

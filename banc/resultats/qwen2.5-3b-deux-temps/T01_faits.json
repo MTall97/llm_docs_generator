@@ -1,0 +1,53 @@
+{
+ "faits": [
+  {
+   "objet": "conseil d'école",
+   "information": "Le compte rendu du conseil d'école de l'école élémentaire Jean-Moulin a été présenté le 14 octobre 2026.",
+   "chiffres": []
+  },
+  {
+   "objet": "présents au conseil d'école",
+   "information": "La directrice Mme Diallo, 9 enseignants, 6 représentants des parents et l'adjoint au maire chargé de l'éducation étaient présents au conseil d'école.",
+   "chiffres": []
+  },
+  {
+   "objet": "effectifs de l'école",
+   "information": "L'école élémentaire Jean-Moulin accueille 212 élèves répartis en 9 classes, soit une moyenne de 23,5 élèves par classe.",
+   "chiffres": [
+    "212",
+    "9",
+    "23,5"
+   ]
+  },
+  {
+   "objet": "travaux à réaliser",
+   "information": "La mairie a voté pour un budget de 45 000 euros pour refaire la cour, les travaux auront lieu pendant les vacances de février.",
+   "chiffres": [
+    "45 000"
+   ]
+  },
+  {
+   "objet": "sorties des élèves",
+   "information": "Les élèves du CM2 partiront en classe de mer à Saint-Malo du 11 au 15 mai, le coût par élève est de 280 euros, dont 120 euros pris en charge par la coopérative.",
+   "chiffres": [
+    "280",
+    "120"
+   ]
+  },
+  {
+   "objet": "cantine de l'école",
+   "information": "Les parents signalent des repas froids ; la mairie va installer deux armoires chauffantes avant décembre.",
+   "chiffres": []
+  },
+  {
+   "objet": "sécurité à l'école",
+   "information": "Un exercice d'évacuation a eu lieu le 2 octobre et s'est terminé en 3 minutes 40.",
+   "chiffres": []
+  },
+  {
+   "objet": "prochain conseil d'école",
+   "information": "Le prochain conseil d'école se tiendra le 10 février 2027.",
+   "chiffres": []
+  }
+ ]
+}

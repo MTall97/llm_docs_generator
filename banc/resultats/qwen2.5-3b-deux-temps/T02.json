@@ -1,0 +1,16 @@
+{
+ "type": "document",
+ "titre": "Pratique de rempotage d'une plante",
+ "sections": [
+  {
+   "titre": "Préparation du Pot",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Pour préparer le pot, commencez par placer une couche de billes d'argile pour drainage. Les billes doivent mesurer environ 3 centimètres."
+    }
+   ]
+  }
+ ],
+ "sous_titre": "Rempotage du Pot et de la Plante"
+}

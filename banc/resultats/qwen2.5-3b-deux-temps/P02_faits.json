@@ -1,0 +1,55 @@
+{
+ "faits": [
+  {
+   "objet": "l'eau",
+   "information": "l'eau des océans, des lacs et des rivières s'évapore et devient de la vapeur d'eau",
+   "chiffres": []
+  },
+  {
+   "objet": "la vapeur",
+   "information": "la vapeur se condense en fines gouttelettes qui forment les nuages",
+   "chiffres": []
+  },
+  {
+   "objet": "les nuages",
+   "information": "les gouttelettes deviennent trop lourdes et tombent",
+   "chiffres": []
+  },
+  {
+   "objet": "les précipitations",
+   "information": "les précipitations sont pluie, neige ou grêle",
+   "chiffres": []
+  },
+  {
+   "objet": "les rivières",
+   "information": "une partie de l'eau ruisselle vers les rivières et la mer",
+   "chiffres": []
+  },
+  {
+   "objet": "les nappes phréatiques",
+   "information": "l'autre s'infiltre dans le sol et alimente les nappes phréatiques",
+   "chiffres": []
+  },
+  {
+   "objet": "les océans",
+   "information": "les océans contiennent 97 % de l'eau de la planète",
+   "chiffres": [
+    "97"
+   ]
+  },
+  {
+   "objet": "l'eau douce",
+   "information": "l'eau douce ne représente que 3 % de l'eau de la planète",
+   "chiffres": [
+    "3"
+   ]
+  },
+  {
+   "objet": "les glaciers",
+   "information": "plus des deux tiers des deux tiers sont gelés dans les glaciers",
+   "chiffres": [
+    "2"
+   ]
+  }
+ ]
+}
