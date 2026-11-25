@@ -1,0 +1,2 @@
+graphique « Évaporation → Nuages → Pluie → Sol et océans » : série 'Vapeur' ramenée à 5 valeurs
+graphique « Évaporation → Nuages → Pluie → Sol et océans » : série 'Gouttelettes' ramenée à 5 valeurs

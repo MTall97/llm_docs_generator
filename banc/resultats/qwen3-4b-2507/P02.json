@@ -1,0 +1,90 @@
+{
+ "type": "presentation",
+ "titre": "Le cycle de l'eau",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Le cycle de l'eau"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Évaporation",
+   "points": [
+    "L'eau monte en vapeur sous le Soleil",
+    "Les plantes transpirent aussi",
+    "La vapeur monte dans l'air"
+   ]
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Nuages vs Précipitations",
+   "gauche": {
+    "titre": "Nuages",
+    "points": [
+     "Formés par la condensation",
+     "Gouttelettes qui se regroupent"
+    ]
+   },
+   "droite": {
+    "titre": "Précipitations",
+    "points": [
+     "Pluie, neige ou grêle",
+     "L'eau tombe quand elle est lourde"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Eau douce",
+   "chiffre": "3 %",
+   "legende": "sur 100 parts de l'eau terrestre"
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "L'eau ne disparaît pas, elle change de forme.",
+   "auteur": "Cycle de l'eau"
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Parcours de l'eau",
+   "image": {
+    "type": "graphique",
+    "forme": "courbes",
+    "titre": "Évaporation → Nuages → Pluie → Sol et océans",
+    "etiquettes": [
+     "Évaporation",
+     "Nuages",
+     "Précipitations",
+     "Infiltration",
+     "Ruisseau"
+    ],
+    "series": [
+     {
+      "nom": "Vapeur",
+      "valeurs": [
+       1,
+       2,
+       3,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "Gouttelettes",
+      "valeurs": [
+       2,
+       4,
+       6,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "points": [
+    "L'eau circule sans disparaître",
+    "Tous les états sont liés"
+   ]
+  }
+ ]
+}
