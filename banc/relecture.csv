@@ -43,3 +43,14 @@ qwen2.5-0.5b-sans-exemple,P04,❌,« 47 % dans 15-25 ans » (47 % demandent des 
 qwen2.5-0.5b-sans-exemple,C01,❌,« 9800 euros » répété dans toutes les colonnes.
 qwen2.5-0.5b-sans-exemple,C02,❌,Une feuille par produit ; quantités remplacées par un numéro d'ordre ; pas de prix.
 qwen2.5-0.5b-sans-exemple,C03,❌,Notes placées dans les noms de colonnes ; aucune valeur.
+qwen3-4b-2507,T01,🟡,Exact mais incomplet : cantine, sécurité et prochain conseil absents ; graphique à une seule barre.
+qwen3-4b-2507,T02,❌,Conseils inventés présentés comme faits (« moins de 2 cm : risque de surcharge », pot trop grand et maladies) ; graphique 100/100/100.
+qwen3-4b-2507,T03,❌,Tableaux et graphiques exacts, mais « pic en avril avant une légère baisse » (le pic est en mai).
+qwen3-4b-2507,T04,❌,Procédure très complète, mais graphique des délais aux valeurs inventées (vérification : 1 jour, signature : 0).
+qwen3-4b-2507,P01,🟡,Chiffres exacts, solde de 5 000 € bien calculé ; projet 2027 absent.
+qwen3-4b-2507,P02,❌,Graphique « parcours de l'eau » aux valeurs inventées (1, 2, 3…).
+qwen3-4b-2507,P03,🟡,Comparaison juste avec calculs corrects (294 €/mois, économie de 6 384 €) ; date de décision absente.
+qwen3-4b-2507,P04,🟡,Chiffres exacts ; citation inventée (« Le dimanche, c'est le premier souci. »).
+qwen3-4b-2507,C01,❌,64 personnes et prix du car par personne justes, mais 4 nuits et 5 jours oubliés : total faux ; part des familles vide.
+qwen3-4b-2507,C02,✅,Quantités, prix, formule et total exacts.
+qwen3-4b-2507,C03,❌,Formule « {Contrôle 1} + {Contrôle 2} + {Devoir maison} / 3 » sans parenthèses : moyennes fausses.
