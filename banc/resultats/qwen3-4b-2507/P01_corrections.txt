@@ -1,0 +1,3 @@
+graphique « Recettes 2026 » : série 'Licences' ramenée à 3 valeurs
+graphique « Recettes 2026 » : série 'Subventions' ramenée à 3 valeurs
+graphique « Recettes 2026 » : série 'Sponsoring' ramenée à 3 valeurs

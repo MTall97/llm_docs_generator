@@ -1,0 +1,96 @@
+{
+ "type": "presentation",
+ "titre": "Rapport moral 2026",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Évolution du club"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Hausse des licenciés",
+   "chiffre": "16 %",
+   "legende": "passage de 268 à 312 licenciés"
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Section féminine",
+   "gauche": {
+    "titre": "Avant",
+    "points": [
+     "45 joueuses"
+    ]
+   },
+   "droite": {
+    "titre": "Maintenant",
+    "points": [
+     "90 joueuses"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Évolutions récentes",
+   "points": [
+    "Équipe masculine en Nationale 3",
+    "4 stages organisés",
+    "140 jeunes formés"
+   ]
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Équilibre financier",
+   "chiffre": "5 000 €",
+   "legende": "recettes (186k€) - dépenses (181k€)"
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Sources de financement",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Recettes 2026",
+    "etiquettes": [
+     "Licences",
+     "Subventions",
+     "Sponsoring"
+    ],
+    "series": [
+     {
+      "nom": "Licences",
+      "valeurs": [
+       98000,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "Subventions",
+      "valeurs": [
+       52000,
+       0,
+       0
+      ]
+     },
+     {
+      "nom": "Sponsoring",
+      "valeurs": [
+       36000,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "points": [
+    "Licences : 98k€",
+    "Subventions : 52k€",
+    "Sponsoring : 36k€"
+   ]
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "Le club progresse, mais doit répondre aux défis de ressources et de personnel."
+  }
+ ]
+}
