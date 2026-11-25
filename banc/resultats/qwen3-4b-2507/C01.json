@@ -1,0 +1,111 @@
+{
+ "type": "classeur",
+ "titre": "Budget du voyage scolaire à Berlin",
+ "feuilles": [
+  {
+   "nom": "Dépenses par catégorie",
+   "colonnes": [
+    {
+     "nom": "Catégorie",
+     "format": "texte"
+    },
+    {
+     "nom": "Nombre de personnes",
+     "format": "nombre"
+    },
+    {
+     "nom": "Prix unitaire",
+     "format": "monnaie"
+    },
+    {
+     "nom": "Total",
+     "format": "monnaie",
+     "formule": "{Nombre de personnes} * {Prix unitaire}"
+    }
+   ],
+   "lignes": [
+    [
+     "Transport en car",
+     64,
+     153.125,
+     null
+    ],
+    [
+     "Hébergement",
+     64,
+     31,
+     null
+    ],
+    [
+     "Repas",
+     64,
+     22,
+     null
+    ],
+    [
+     "Visites et musées",
+     58,
+     18,
+     null
+    ],
+    [
+     "Assurance",
+     64,
+     6,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Total",
+     "fonction": "SOMME"
+    },
+    {
+     "colonne": "Nombre de personnes",
+     "fonction": "MOYENNE"
+    }
+   ],
+   "graphique": {
+    "forme": "barres",
+    "titre": "Dépenses par catégorie",
+    "etiquettes": "Catégorie",
+    "valeurs": [
+     "Total"
+    ]
+   }
+  },
+  {
+   "nom": "Répartition des financements",
+   "colonnes": [
+    {
+     "nom": "Source",
+     "format": "texte"
+    },
+    {
+     "nom": "Montant",
+     "format": "monnaie"
+    }
+   ],
+   "lignes": [
+    [
+     "Lycée",
+     4000
+    ],
+    [
+     "Conseil régional",
+     3500
+    ],
+    [
+     "Familles",
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Montant",
+     "fonction": "SOMME"
+    }
+   ]
+  }
+ ]
+}
