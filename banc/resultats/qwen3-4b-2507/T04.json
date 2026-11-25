@@ -1,0 +1,247 @@
+{
+ "type": "document",
+ "titre": "Procédure de remboursement des notes de frais de l'association Solidarité Numérique",
+ "sections": [
+  {
+   "titre": "Étapes du processus de remboursement",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "La procédure de remboursement des notes de frais suit un parcours structuré, allant de la saisie du formulaire jusqu'à l'effectuation du virement. Chaque étape est clairement définie et doit être respectée pour garantir la validité et la rapidité du traitement."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Le bénévole remplit le formulaire de note de frais dans les 30 jours suivant la dépense.",
+      "Il y joint les justificatifs originaux.",
+      "Le dossier est remis au trésorier.",
+      "Le trésorier vérifie l'autorisation du bureau et la complétude des justificatifs.",
+      "Si le dossier est incomplet, il est renvoyé au bénévole avec une liste des pièces manquantes.",
+      "Si le dossier est complet, le président signe l'ordre de paiement.",
+      "Le trésorier effectue le virement sous 15 jours."
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Étape",
+      "Responsable",
+      "Délai ou condition"
+     ],
+     "lignes": [
+      [
+       "Remplissage du formulaire",
+       "Bénévole",
+       "Dans les 30 jours suivant la dépense"
+      ],
+      [
+       "Vérification du dossier",
+       "Trésorier",
+       "Sur validation de l'autorisation et des justificatifs"
+      ],
+      [
+       "Renvoi du dossier",
+       "Trésorier",
+       "Si pièces manquantes"
+      ],
+      [
+       "Signature de l'ordre de paiement",
+       "Président",
+       "Seulement si le dossier est complet"
+      ],
+      [
+       "Virement",
+       "Trésorier",
+       "Sous 15 jours après validation"
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "Les frais kilométriques sont remboursés à 0,32 euro par kilomètre."
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Délais associés aux étapes du remboursement",
+     "etiquettes": [
+      "Remplissage formulaire",
+      "Vérification",
+      "Renvoi",
+      "Signature",
+      "Virement"
+     ],
+     "series": [
+      {
+       "nom": "Délai en jours",
+       "valeurs": [
+        30,
+        1,
+        1,
+        0,
+        15
+       ]
+      }
+     ]
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Remplissage du formulaire",
+       "vers": "Remise au trésorier"
+      },
+      {
+       "de": "Remise au trésorier",
+       "vers": "Vérification des documents"
+      },
+      {
+       "de": "Vérification des documents",
+       "vers": "Renvoi avec pièces manquantes"
+      },
+      {
+       "de": "Vérification des documents",
+       "vers": "Signature de l'ordre de paiement"
+      },
+      {
+       "de": "Signature de l'ordre de paiement",
+       "vers": "Virement"
+      },
+      {
+       "de": "Renvoi avec pièces manquantes",
+       "vers": "Remplissage du formulaire"
+      },
+      {
+       "de": "Virement",
+       "vers": "Remboursement effectif"
+      },
+      {
+       "de": "Frais kilométriques",
+       "vers": "Calcul à 0,32 €/km"
+      },
+      {
+       "de": "Repas",
+       "vers": "Limite de 20 €"
+      },
+      {
+       "de": "Signature de l'ordre de paiement",
+       "vers": "Virement"
+      },
+      {
+       "de": "Virement",
+       "vers": "Frais kilométriques"
+      },
+      {
+       "de": "Virement",
+       "vers": "Repas"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "validation"
+    }
+   ]
+  },
+  {
+   "titre": "Conditions de remboursement",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les remboursés sont soumis à des seuils précis selon la nature des dépenses."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Type de dépense",
+      "Montant maximal ou taux"
+     ],
+     "lignes": [
+      [
+       "Frais kilométriques",
+       "0,32 € par kilomètre"
+      ],
+      [
+       "Repas",
+       "20 € maximum"
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "Les repas sont remboursés dans la limite de 20 euros."
+    }
+   ]
+  },
+  {
+   "titre": "Rôle des responsables",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Chaque acteur du processus a un rôle précis et fonctionnellement défini."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Fonction",
+      "Responsabilités"
+     ],
+     "lignes": [
+      [
+       "Bénévole",
+       "Remplir le formulaire et joindre les justificatifs"
+      ],
+      [
+       "Trésorier",
+       "Vérifier l'autorisation, contrôler la complétude, renvoyer ou procéder au virement"
+      ],
+      [
+       "Président",
+       "Signer l'ordre de paiement lorsqu'il est complet"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Bénévole",
+       "vers": "Trésorier"
+      },
+      {
+       "de": "Trésorier",
+       "vers": "Président"
+      },
+      {
+       "de": "Président",
+       "vers": "Trésorier"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Contrôles et validations",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Des vérifications strictes sont mises en place pour assurer la conformité des dossiers."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Vérification de l'autorisation du bureau",
+      "Contrôle de la complétude des justificatifs",
+      "Renvoi avec liste des pièces manquantes"
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "citation",
+     "texte": "Si le dossier est incomplet, il est renvoyé au bénévole avec la liste des pièces manquantes."
+    }
+   ]
+  }
+ ]
+}
