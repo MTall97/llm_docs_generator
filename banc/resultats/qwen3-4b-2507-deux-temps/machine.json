@@ -1,0 +1,7 @@
+{
+ "modele": "qwen3-4b-2507-deux-temps",
+ "fichier_mo": 2497,
+ "chargement_s": 1.8,
+ "memoire_max_mo": 6303,
+ "threads": 4
+}

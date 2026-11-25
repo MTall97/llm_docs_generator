@@ -1,0 +1,75 @@
+{
+ "faits": [
+  {
+   "objet": "pâtes",
+   "information": "Il y a 140 paquets de pâtes à 0,95 euro chacun.",
+   "chiffres": [
+    "140",
+    "0,95"
+   ]
+  },
+  {
+   "objet": "riz",
+   "information": "Il y a 85 sachets de riz à 1,40 euro chacun.",
+   "chiffres": [
+    "85",
+    "1,40"
+   ]
+  },
+  {
+   "objet": "huile",
+   "information": "Il y a 42 bouteilles d'huile à 3,20 euros chacune.",
+   "chiffres": [
+    "42",
+    "3,20"
+   ]
+  },
+  {
+   "objet": "conserves de légumes",
+   "information": "Il y a 210 boîtes de conserves de légumes à 1,10 euro chacune.",
+   "chiffres": [
+    "210",
+    "1,10"
+   ]
+  },
+  {
+   "objet": "lait",
+   "information": "Il y a 96 briques de lait à 0,89 euro chacune.",
+   "chiffres": [
+    "96",
+    "0,89"
+   ]
+  },
+  {
+   "objet": "café",
+   "information": "Il y a 30 paquets de café à 4,50 euros chacun.",
+   "chiffres": [
+    "30",
+    "4,50"
+   ]
+  },
+  {
+   "objet": "savon",
+   "information": "Il y a 64 pains de savon à 1,25 euro chacun.",
+   "chiffres": [
+    "64",
+    "1,25"
+   ]
+  },
+  {
+   "objet": "couches",
+   "information": "Il y a 18 paquets de couches à 9,90 euros chacun.",
+   "chiffres": [
+    "18",
+    "9,90"
+   ]
+  },
+  {
+   "objet": "seuil de réapprovisionnement",
+   "information": "Le seuil de réapprovisionnement est de 50 unités pour chaque produit.",
+   "chiffres": [
+    "50"
+   ]
+  }
+ ]
+}

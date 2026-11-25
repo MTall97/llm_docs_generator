@@ -1,0 +1,63 @@
+{
+ "faits": [
+  {
+   "objet": "Amina",
+   "information": "Amina a obtenu les notes 14, 16 et 12 en mathématiques.",
+   "chiffres": [
+    "14",
+    "16",
+    "12"
+   ]
+  },
+  {
+   "objet": "Bastien",
+   "information": "Bastien a obtenu les notes 9, 11 et 10 en mathématiques.",
+   "chiffres": [
+    "9",
+    "11",
+    "10"
+   ]
+  },
+  {
+   "objet": "Chloé",
+   "information": "Chloé a obtenu les notes 17, 18 et 19 en mathématiques.",
+   "chiffres": [
+    "17",
+    "18",
+    "19"
+   ]
+  },
+  {
+   "objet": "Diego",
+   "information": "Diego a obtenu les notes 12, 8 et 13 en mathématiques.",
+   "chiffres": [
+    "12",
+    "8",
+    "13"
+   ]
+  },
+  {
+   "objet": "Emma",
+   "information": "Emma a obtenu les notes 15, 14 et 16 en mathématiques.",
+   "chiffres": [
+    "15",
+    "14",
+    "16"
+   ]
+  },
+  {
+   "objet": "Farid",
+   "information": "Farid a obtenu les notes 11, 13 et 12 en mathématiques.",
+   "chiffres": [
+    "11",
+    "13",
+    "12"
+   ]
+  },
+  {
+   "objet": "les trois notes",
+   "information": "Les trois notes correspondent au contrôle 1, au contrôle 2 et au devoir maison.",
+   "chiffres": []
+  }
+ ]
+}

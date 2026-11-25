@@ -1,0 +1,97 @@
+{
+ "type": "classeur",
+ "titre": "Notes des élèves en mathématiques",
+ "feuilles": [
+  {
+   "nom": "Notes élèves",
+   "colonnes": [
+    {
+     "nom": "Élève",
+     "format": "texte"
+    },
+    {
+     "nom": "Contrôle 1",
+     "format": "nombre"
+    },
+    {
+     "nom": "Contrôle 2",
+     "format": "nombre"
+    },
+    {
+     "nom": "Devoir maison",
+     "format": "nombre"
+    },
+    {
+     "nom": "Moyenne de l'élève",
+     "format": "nombre",
+     "formule": "{Contrôle 1} + {Contrôle 2} + {Devoir maison} / 3"
+    },
+    {
+     "nom": "Moyenne de la classe",
+     "format": "nombre",
+     "formule": "{Contrôle 1} + {Contrôle 2} + {Devoir maison} / 3"
+    }
+   ],
+   "lignes": [
+    [
+     "Amina",
+     14,
+     16,
+     12,
+     null,
+     null
+    ],
+    [
+     "Bastien",
+     9,
+     11,
+     10,
+     null,
+     null
+    ],
+    [
+     "Chloé",
+     17,
+     18,
+     19,
+     null,
+     null
+    ],
+    [
+     "Diego",
+     12,
+     8,
+     13,
+     null,
+     null
+    ],
+    [
+     "Emma",
+     15,
+     14,
+     16,
+     null,
+     null
+    ],
+    [
+     "Farid",
+     11,
+     13,
+     12,
+     null,
+     null
+    ]
+   ],
+   "totaux": [
+    {
+     "colonne": "Moyenne de l'élève",
+     "fonction": "MOYENNE"
+    },
+    {
+     "colonne": "Moyenne de la classe",
+     "fonction": "MOYENNE"
+    }
+   ]
+  }
+ ]
+}
