@@ -1,0 +1,110 @@
+{
+ "type": "document",
+ "titre": "Compte rendu de la réunion du conseil d'école du 14 octobre 2026",
+ "sections": [
+  {
+   "titre": "Présence et effectifs",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "La réunion a été présidée par la directrice Mme Diallo, avec la participation de 9 enseignants, 6 représentants des parents et de l'adjoint au maire chargé de l'éducation."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Élément",
+      "Valeur"
+     ],
+     "lignes": [
+      [
+       "Nombre total d'élèves",
+       "212"
+      ],
+      [
+       "Nombre de classes",
+       "9"
+      ],
+      [
+       "Moyenne par classe",
+       "23,5"
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "L'école accueille 212 élèves répartis en 9 classes, soit 23,5 élèves par classe en moyenne."
+    }
+   ]
+  },
+  {
+   "titre": "Travaux de rénovation",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "La mairie a approuvé un budget de 45 000 euros pour la rénovation de la cour de l'école, qui sera réalisée pendant les vacances de février."
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Budget alloué aux travaux",
+     "etiquettes": [
+      "Cour"
+     ],
+     "series": [
+      {
+       "nom": "Montant (en euros)",
+       "valeurs": [
+        45000
+       ]
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "renovation"
+    }
+   ]
+  },
+  {
+   "titre": "Sorties scolaires",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les élèves de CM2 partiront en classe de mer à Saint-Malo du 11 au 15 mai, avec un coût de 280 euros par élève."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Élément",
+      "Valeur"
+     ],
+     "lignes": [
+      [
+       "Durée de la sortie",
+       "du 11 au 15 mai"
+      ],
+      [
+       "Coût par élève",
+       "280 euros"
+      ],
+      [
+       "Partie financée par la coopérative",
+       "120 euros"
+      ]
+     ]
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Sortie en classe de mer",
+      "Destination : Saint-Malo",
+      "Période : 11 au 15 mai",
+      "Coût total par élève : 280 €",
+      "Soutien financier : 120 € de la coopérative"
+     ]
+    }
+   ]
+  }
+ ],
+ "sous_titre": "Réunion du 14 octobre 2026 – École élémentaire Jean-Moulin"
+}
