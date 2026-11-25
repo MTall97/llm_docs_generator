@@ -1,0 +1,527 @@
+{
+ "type": "document",
+ "titre": "Le compostage en appartement : principes, matériel et erreurs à éviter",
+ "sections": [
+  {
+   "titre": "Le compostage en appartement : principes, matériel et erreurs à éviter",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le compostage repose sur un processus naturel de décomposition des matières organiques, où des micro-organismes tels que les bactéries, les champignons et les protozoaires agissent en symbiose pour transformer les déchets en un sol riche en nutriments. Ce processus s'appuie sur une combinaison d'humidité, de température, d'oxygène et de matière organique, permettant de produire un compost utilisable dans les jardins ou pour la culture de plantes."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "La décomposition est un processus biologique contrôlé par des micro-organismes.",
+      "Les conditions optimales incluent une bonne aération, une humidité modérée et une température entre 15 °C et 30 °C.",
+      "Le compostage permet de réduire la quantité de déchets envoyés aux décharges.",
+      "Il contribue à la circularité des ressources en recyclant les matières organiques.",
+      "Ce processus peut être réalisé dans un espace restreint, comme un appartement, grâce à des systèmes adaptés."
+     ],
+     "ordonnee": false
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Facteur",
+      "Rôle dans le compostage"
+     ],
+     "lignes": [
+      [
+       "Oxygène",
+       "Permet une décomposition aérobie efficace et rapide."
+      ],
+      [
+       "Humidité",
+       "Facilite la croissance des micro-organismes, mais doit être équilibrée."
+      ],
+      [
+       "Température",
+       "Indique l'activité biologique : une température élevée signale une décomposition active."
+      ],
+      [
+       "Matière organique",
+       "Fournit l'énergie nécessaire à la croissance des micro-organismes."
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "« Le compostage est une forme de gestion durable des déchets organiques, qui permet non seulement de réduire les émissions de gaz à effet de serre, mais aussi d’alimenter les plantes avec un nutriment naturel. »"
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Températures moyennes dans un compost en cours de décomposition (en °C)",
+     "etiquettes": [
+      "Jour 1",
+      "Jour 3",
+      "Jour 7",
+      "Jour 14"
+     ],
+     "series": [
+      {
+       "nom": "Température du compost",
+       "valeurs": [
+        18,
+        25,
+        30,
+        28
+       ]
+      }
+     ]
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Déchets organiques",
+       "vers": "Micro-organismes"
+      },
+      {
+       "de": "Micro-organismes",
+       "vers": "Décomposition"
+      },
+      {
+       "de": "Décomposition",
+       "vers": "Compost"
+      },
+      {
+       "de": "Compost",
+       "vers": "Plante"
+      },
+      {
+       "de": "Oxygène",
+       "vers": "Décomposition aérobie"
+      },
+      {
+       "de": "Humidité",
+       "vers": "Micro-organismes"
+      },
+      {
+       "de": "Température",
+       "vers": "Activité microbienne"
+      },
+      {
+       "de": "Matière organique",
+       "vers": "Énergie pour les microbes"
+      },
+      {
+       "de": "Compost",
+       "vers": "Réduction des déchets"
+      },
+      {
+       "de": "Appartement",
+       "vers": "Espace fermé"
+      },
+      {
+       "de": "Espace fermé",
+       "vers": "Système de compostage compact"
+      },
+      {
+       "de": "Système compact",
+       "vers": "Pratique en milieu urbain"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "décomposition"
+    }
+   ]
+  },
+  {
+   "titre": "Matériel nécessaire",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Pour pratiquer efficacement le compostage en appartement, il est essentiel de choisir un matériel adapté aux contraintes d'espace et à la sécurité des conditions de stockage. Un composteur conçu pour les petits espaces, comme un modèle en verre ou en plastique, permet non seulement une gestion simple des déchets organiques, mais aussi une préservation de l'hygiène et de la propreté dans un environnement urbain."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Composteur en verre : durable, facile à nettoyer et à identifier les étapes de compostage.",
+      "Composteur en plastique : léger, compact et souvent doté d’un système de fermeture hermétique pour éviter les odeurs.",
+      "Système de fermeture hermétique : indispensable pour limiter les émissions d’odeurs et prévenir les infiltrations d’air ou de poussière.",
+      "Conteneur avec un fond en matière perforée : favorise la circulation de l’air nécessaire à la décomposition.",
+      "Séparateur de déchets intégré (optionnel) : permet de trier les matières organiques avant le compostage."
+     ]
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Type de composteur",
+      "Avantages",
+      "Inconvénients"
+     ],
+     "lignes": [
+      [
+       "Verre",
+       "Résistant, facile à nettoyer, visibilité du processus",
+       "Plus lourd, coûteux"
+      ],
+      [
+       "Plastique",
+       "Léger, compact, fermeture hermétique",
+       "Moins durable, risque de dégradation avec le temps"
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "« Un composteur bien choisi est la clé pour réussir le compostage sans odeurs ni désordre dans un appartement. »"
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Comparaison de l'espace occupé par différents types de composteurs (en cm)",
+     "etiquettes": [
+      "Verre",
+      "Plastique",
+      "Composteur en métal"
+     ],
+     "series": [
+      {
+       "nom": "Hauteur",
+       "valeurs": [
+        25,
+        18,
+        20
+       ]
+      },
+      {
+       "nom": "Largeur",
+       "valeurs": [
+        20,
+        15,
+        18
+       ]
+      },
+      {
+       "nom": "Profondeur",
+       "valeurs": [
+        30,
+        22,
+        25
+       ]
+      }
+     ]
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Composteur en verre",
+       "vers": "Fermeture hermétique"
+      },
+      {
+       "de": "Fermeture hermétique",
+       "vers": "Évite les odeurs"
+      },
+      {
+       "de": "Composteur en plastique",
+       "vers": "Système de ventilation"
+      },
+      {
+       "de": "Système de ventilation",
+       "vers": "Circulation de l'air"
+      },
+      {
+       "de": "Fond perforé",
+       "vers": "Décomposition rapide"
+      },
+      {
+       "de": "Décomposition rapide",
+       "vers": "Production de compost en 4 à 6 semaines"
+      },
+      {
+       "de": "Séparation des déchets",
+       "vers": "Prévention des erreurs"
+      },
+      {
+       "de": "Prévention des erreurs",
+       "vers": "Sécurité du logement"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "espace"
+    }
+   ]
+  },
+  {
+   "titre": "Déchets acceptés",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le compostage en appartement repose sur la transformation naturelle de déchets organiques en compost riche en nutriments. Seuls les restes biologiques peuvent être intégrés au processus, tels que les peaux de fruits et légumes, les herbes coupées, les feuilles mortes ou le café moulu. Ces matières sont riches en matière organique et favorisent la croissance microbienne nécessaire à la décomposition."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Peaux de fruits et légumes",
+      "Feuilles d'herbes coupées",
+      "Restes de plantes vivantes",
+      "Café moulu (sans gouttes de café)",
+      "Fleurs séchées ou en fleurs"
+     ],
+     "ordonnee": false
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Déchet",
+      "Accepté ?",
+      "Explication"
+     ],
+     "lignes": [
+      [
+       "Peau de citron",
+       "Oui",
+       "Riche en matière organique, facilement décomposée"
+      ],
+      [
+       "Graisse de cuisine",
+       "Non",
+       "Favorise la putréfaction et attire les rongeurs"
+      ],
+      [
+       "Papier hygiénique",
+       "Non",
+       "Ne se décompose pas et contient des résidus chimiques"
+      ],
+      [
+       "Café moulu",
+       "Oui",
+       "Excellent apport en azote, idéal pour le compost"
+      ],
+      [
+       "Résidus de viande",
+       "Non",
+       "Contient des matières protéiques qui peuvent produire des odeurs"
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "Les déchets organiques sont la base du compostage : sans eux, le processus ne peut s'effectuer efficacement."
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Pourcentage d'acceptation des déchets dans un compostage domestique",
+     "etiquettes": [
+      "Peaux de fruits",
+      "Herbes coupées",
+      "Café moulu",
+      "Papier hygiénique",
+      "Graisse de cuisine"
+     ],
+     "series": [
+      {
+       "nom": "Accepté",
+       "valeurs": [
+        100,
+        100,
+        100,
+        0,
+        0
+       ]
+      },
+      {
+       "nom": "Refusé",
+       "valeurs": [
+        0,
+        0,
+        0,
+        100,
+        100
+       ]
+      }
+     ],
+     "legende": "Accepté = vert | Refusé = rouge"
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Peaux de fruits",
+       "vers": "Décomposition microbienne"
+      },
+      {
+       "de": "Herbes coupées",
+       "vers": "Équilibre humique"
+      },
+      {
+       "de": "Café moulu",
+       "vers": "Apport en azote"
+      },
+      {
+       "de": "Décomposition microbienne",
+       "vers": "Production de compost"
+      },
+      {
+       "de": "Équilibre humique",
+       "vers": "Stabilité du compost"
+      },
+      {
+       "de": "Apport en azote",
+       "vers": "Croissance des plantes"
+      },
+      {
+       "de": "Production de compost",
+       "vers": "Utilisation dans le jardin"
+      },
+      {
+       "de": "Utilisation dans le jardin",
+       "vers": "Cycle fermé"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "organique"
+    }
+   ]
+  },
+  {
+   "titre": "Le compostage en appartement : principes, matériel et erreurs à éviter",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le compostage en appartement peut sembler une solution écologique simple, mais il est sujet à plusieurs erreurs courantes qui nuisent à l'efficacité du processus. L'absence de ventilation, le mélange de déchets incompatibles ou l'oubli de la régularité des apports peuvent ralentir la décomposition, provoquer des odeurs désagréables ou favoriser la prolifération de parasites."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Ne pas assurer une ventilation adéquate du compost, ce qui entraîne une accumulation de gaz et des odeurs fortes.",
+      "Mélanger des déchets non compatibles comme les restes de viande, de produits chimiques ou de plastique.",
+      "Oublier de répartir régulièrement les apports de matière organique, ce qui perturbe l'équilibre microbien.",
+      "Ne pas surveiller la température du compost, ce qui peut favoriser la croissance de moisissures ou de parasites.",
+      "Utiliser un contenant fermé sans ouverture pour ventilation, ce qui empêche l'oxygénation nécessaire au bon fonctionnement du compost."
+     ],
+     "ordonnee": false
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Erreur",
+      "Conséquence",
+      "Solution recommandée"
+     ],
+     "lignes": [
+      [
+       "Absence de ventilation",
+       "Odeurs, accumulation de gaz",
+       "Installer une ouverture ventilée ou un couvercle à ouverture contrôlée"
+      ],
+      [
+       "Mélange de déchets non compatibles",
+       "Décomposition lente, risque de parasites",
+       "Séparer les déchets en deux catégories : verts et noirs"
+      ],
+      [
+       "Apports irréguliers",
+       "Équilibre microbien perturbé",
+       "Ajouter des matières organiques tous les 3 à 4 jours"
+      ],
+      [
+       "Température trop basse",
+       "Moisissures, fermentation lente",
+       "Aérer régulièrement et maintenir un apport de matière humide"
+      ],
+      [
+       "Contenant fermé sans ventilation",
+       "Manque d’oxygène, odeurs",
+       "Utiliser un composteur avec ouverture ventilée"
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "« Le compostage réussi repose sur un équilibre précis entre humidité, oxygène et température. Une erreur simple peut déclencher une cascade de problèmes. »"
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Fréquence des erreurs courantes dans les compostages d'appartements",
+     "etiquettes": [
+      "Absence de ventilation",
+      "Mélange de déchets",
+      "Apports irréguliers",
+      "Manque d’aération"
+     ],
+     "series": [
+      {
+       "nom": "Fréquence d'occurrence (%)",
+       "valeurs": [
+        42,
+        38,
+        35,
+        29
+       ]
+      }
+     ]
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Absence de ventilation",
+       "vers": "Odeurs"
+      },
+      {
+       "de": "Mélange de déchets",
+       "vers": "Parasites"
+      },
+      {
+       "de": "Apports irréguliers",
+       "vers": "Décomposition lente"
+      },
+      {
+       "de": "Manque d’aération",
+       "vers": "Moisissures"
+      },
+      {
+       "de": "Température basse",
+       "vers": "Fermentation lente"
+      },
+      {
+       "de": "Contenant fermé",
+       "vers": "Odeurs"
+      },
+      {
+       "de": "Mélange de déchets",
+       "vers": "Risque de parasites"
+      },
+      {
+       "de": "Apports irréguliers",
+       "vers": "Équilibre microbien perturbé"
+      },
+      {
+       "de": "Ventilation insuffisante",
+       "vers": "Gaz accumulés"
+      },
+      {
+       "de": "Humidité excessive",
+       "vers": "Moisissures"
+      },
+      {
+       "de": "Température trop basse",
+       "vers": "Fermentation lente"
+      },
+      {
+       "de": "Matière organique non homogène",
+       "vers": "Décomposition inégale"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "équilibre"
+    }
+   ]
+  }
+ ]
+}

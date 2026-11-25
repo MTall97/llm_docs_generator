@@ -1,0 +1,21 @@
+{
+ "titre": "Les bonnes pratiques pour choisir un mot de passe",
+ "parties": [
+  {
+   "titre": "Utiliser une combinaison forte",
+   "idee": "Un mot de passe fort inclut des lettres majuscules, minuscules, des chiffres et des caractères spéciaux pour être plus difficile à deviner ou à casser."
+  },
+  {
+   "titre": "Éviter les mots courants",
+   "idee": "Ne pas utiliser des mots simples comme \"motdepasse\" ou \"123456\" car ils sont facilement devinés par les hackers."
+  },
+  {
+   "titre": "Ne pas partager son mot de passe",
+   "idee": "Chaque compte doit avoir un mot de passe unique, et il ne faut jamais le partager avec quelqu’un, même avec des proches."
+  },
+  {
+   "titre": "Utiliser un gestionnaire de mots de passe",
+   "idee": "Un outil comme LastPass ou 1Password peut stocker tous vos mots de passe en sécurité, vous permettant de les gérer sans risque."
+  }
+ ]
+}

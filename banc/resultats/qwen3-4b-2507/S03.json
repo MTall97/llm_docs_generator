@@ -1,0 +1,46 @@
+{
+ "type": "presentation",
+ "titre": "Pourquoi et comment réduire le gaspillage alimentaire à la cantine",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Pourquoi et comment réduire le gaspillage alimentaire à la cantine"
+  },
+  {
+   "mise_en_page": "titre",
+   "titre": "Problématique du gaspillage",
+   "sous_titre": "Perte massive dans les cantines"
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Émissions de CO₂",
+   "chiffre": "1 kg de nourriture jetée",
+   "legende": "équivaut à 100 km d'émission d'un véhicule"
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Mesures concrètes",
+   "gauche": {
+    "titre": "Prévoir des quantités adaptées",
+    "points": [
+     "Évaluer la demande réelle par groupe",
+     "Adapter les préparations aux effectifs",
+     "Utiliser des paniers de repas partagés"
+    ]
+   },
+   "droite": {
+    "titre": "Engager les élèves dans le choix",
+    "points": [
+     "Proposer des plats modulables",
+     "Inclure un vote pour les goûts",
+     "Former des groupes de sélection alimentaire"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "« Une alimentation attentive commence par une attention au quotidien. »",
+   "notes": "Citation inspirée de la philosophie du vivre ensemble et de l’écoute des besoins."
+  }
+ ]
+}

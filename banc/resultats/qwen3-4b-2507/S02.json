@@ -1,0 +1,502 @@
+{
+ "type": "document",
+ "titre": "Les bonnes pratiques pour choisir un mot de passe",
+ "sections": [
+  {
+   "titre": "Utiliser une combinaison forte",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Un mot de passe fort est un mot ou une suite de caractères difficile à deviner ou à casser par des logiciels. Il doit inclure au moins une combinaison de lettres majuscules (A-Z), minuscules (a-z), des chiffres (0-9) et des caractères spéciaux (comme !, @, #, $, %). Cela rend le mot de passe plus résistant aux attaques automatiques, comme les tentatives de mots courants ou les algorithmes de force brute."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Inclure au moins 8 caractères",
+      "Mélanger des lettres majuscules et minuscules",
+      "Ajouter des chiffres (0 à 9)",
+      "Utiliser un caractère spécial (ex : @, #, $)"
+     ]
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Type de caractère",
+      "Exemple",
+      "Pourquoi c’est utile"
+     ],
+     "lignes": [
+      [
+       "Lettres majuscules",
+       "Myp@ssw0rd",
+       "Ajoute de la variété et rend le mot de passe plus complexe"
+      ],
+      [
+       "Chiffres",
+       "P@ssw0rd2024",
+       "Empêche les attaques basées sur des mots simples"
+      ],
+      [
+       "Caractères spéciaux",
+       "Tr0ub1e!2025",
+       "Augmente la difficulté pour les logiciels de déduction"
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "Un mot de passe fort n’est pas un mot facile à retenir, mais il est difficile à deviner ou à briser par un ordinateur."
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Répartition des caractères dans un mot de passe fort (ex : 12 caractères)",
+     "etiquettes": [
+      "Lettres majuscules",
+      "Lettres minuscules",
+      "Chiffres",
+      "Caractères spéciaux"
+     ],
+     "series": [
+      {
+       "nom": "Nombre de caractères",
+       "valeurs": [
+        3,
+        4,
+        2,
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Lettres majuscules",
+       "vers": "Lettres minuscules"
+      },
+      {
+       "de": "Lettres minuscules",
+       "vers": "Chiffres"
+      },
+      {
+       "de": "Chiffres",
+       "vers": "Caractères spéciaux"
+      },
+      {
+       "de": "Caractères spéciaux",
+       "vers": "Difficulté accrue"
+      },
+      {
+       "de": "Difficulté accrue",
+       "vers": "Protection contre les attaques"
+      },
+      {
+       "de": "Lettres majuscules",
+       "vers": "Mélange aléatoire"
+      },
+      {
+       "de": "Chiffres",
+       "vers": "Variabilité"
+      },
+      {
+       "de": "Caractères spéciaux",
+       "vers": "Complexité"
+      },
+      {
+       "de": "Mélange aléatoire",
+       "vers": "Mot de passe fort"
+      },
+      {
+       "de": "Variabilité",
+       "vers": "Résistance aux logiciels"
+      },
+      {
+       "de": "Complexité",
+       "vers": "Sécurité accrue"
+      },
+      {
+       "de": "Sécurité accrue",
+       "vers": "Confiance numérique"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "complexité"
+    }
+   ]
+  },
+  {
+   "titre": "Éviter les mots courants",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Utiliser des mots courants comme \"motdepasse\", \"123456\" ou \"password\" est une erreur grave. Ces combinaisons sont très fréquentes et figées dans les bases de données des cybercriminels. En effet, des études montrent que plus de 80 % des tentatives de piratage commencent par des mots simples ou des séries numériques. Cela rend le mot de passe facilement devinable, même sans attaque sophistiquée."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "motdepasse",
+      "password",
+      "123456",
+      "lettre",
+      "jean",
+      "monpasse"
+     ]
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Mots courants",
+      "Pourquoi ils sont dangereux",
+      "Exemple d'usage"
+     ],
+     "lignes": [
+      [
+       "motdepasse",
+       "Très fréquent dans les attaques",
+       "Utilisé par des personnes qui pensent que c’est simple"
+      ],
+      [
+       "123456",
+       "Le mot le plus souvent deviné",
+       "Séquence numérique facile à deviner"
+      ],
+      [
+       "password",
+       "Trop prévisible",
+       "Utilisé comme exemple dans les cours de sécurité"
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "« Un mot de passe basique comme \"123456\" est aussi facile à deviner qu’un code de sécurité sur un vélo. » — Expert en cybersécurité, 2023"
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Fréquence des mots courants dans les tentatives d'attaque",
+     "etiquettes": [
+      "123456",
+      "password",
+      "motdepasse",
+      "qweasd"
+     ],
+     "series": [
+      {
+       "nom": "Taux de réussite",
+       "valeurs": [
+        45,
+        38,
+        32,
+        20
+       ]
+      }
+     ]
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "mots courants",
+       "vers": "mot de passe facile à deviner"
+      },
+      {
+       "de": "mot de passe facile à deviner",
+       "vers": "accès non sécurisé"
+      },
+      {
+       "de": "accès non sécurisé",
+       "vers": "voleur d'information"
+      },
+      {
+       "de": "mots courants",
+       "vers": "attaque par force brute"
+      },
+      {
+       "de": "force brute",
+       "vers": "essai de combinaisons"
+      },
+      {
+       "de": "essai de combinaisons",
+       "vers": "détection rapide"
+      },
+      {
+       "de": "détection rapide",
+       "vers": "alerte système"
+      },
+      {
+       "de": "alerte système",
+       "vers": "prévention"
+      },
+      {
+       "de": "prévention",
+       "vers": "utilisation d’un mot de passe fort"
+      },
+      {
+       "de": "mot de passe fort",
+       "vers": "sécurité accrue"
+      },
+      {
+       "de": "sécurité accrue",
+       "vers": "protection des données"
+      },
+      {
+       "de": "protection des données",
+       "vers": "confiance utilisateur"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "prévisibilité"
+    }
+   ]
+  },
+  {
+   "titre": "Ne pas partager son mot de passe",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Un mot de passe ne doit jamais être partagé, même avec des proches comme un conjoint, un parent ou un ami. Cela peut sembler étrange, mais chaque compte en ligne — qu’il s’agisse d’un compte bancaire, de messagerie ou de réseaux sociaux — doit avoir un mot de passe unique et sécurisé. Si vous partagez votre mot de passe, vous exposez directement vos données à des risques comme le vol d’identité, les accès non autorisés ou des usurpations d’identité."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Ne jamais donner votre mot de passe à un ami, un parent ou un collègue",
+      "Éviter de le dire par téléphone ou en face à face",
+      "Ne pas le mettre dans un message ou un courriel",
+      "Ne pas le partager même pour aider quelqu’un à se connecter à un compte"
+     ]
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Situation",
+      "Action à éviter",
+      "Conseil alternatif"
+     ],
+     "lignes": [
+      [
+       "Un ami veut accéder à ton compte de messagerie",
+       "Dire le mot de passe",
+       "Utiliser un service de partage sécurisé ou un lien de connexion temporaire"
+      ],
+      [
+       "Ton conjoint veut voir tes achats en ligne",
+       "Partager ton mot de passe",
+       "Créer un compte séparé avec une authentification par code"
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "« Un mot de passe partagé est comme une clé mise dans la main d’un inconnu : il peut ouvrir n’importe quelle porte. »"
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Fréquence des cas de partage de mot de passe parmi les utilisateurs",
+     "etiquettes": [
+      "Amis",
+      "Famille",
+      "Collègues",
+      "Autres"
+     ],
+     "series": [
+      {
+       "nom": "Cas détectés",
+       "valeurs": [
+        32,
+        28,
+        15,
+        7
+       ]
+      }
+     ]
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Partage avec un ami"
+      },
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Utilisation sur un appareil partagé"
+      },
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Accès à un compte bancaire"
+      },
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Accès à un compte de messagerie"
+      },
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Utilisation par un employé"
+      },
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Accès à une application de santé"
+      },
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Accès à un compte d’école"
+      },
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Partage avec un parent"
+      },
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Utilisation dans un projet collaboratif"
+      },
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Accès à un compte de réseaux sociaux"
+      },
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Accès à une application de gestion de tâches"
+      },
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Accès à un compte d’abonnement"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "sécurité"
+    }
+   ]
+  },
+  {
+   "titre": "Utiliser un gestionnaire de mots de passe",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Un gestionnaire de mots de passe est un outil numérique qui stocke tous vos mots de passe de manière sécurisée. Il vous permet de générer des combinaisons fortes, de les sauvegarder sans avoir à les écrire à la main, et d’accéder facilement à chaque mot de passe depuis un seul endroit. Cela réduit le risque de perdre ou de révéler un mot de passe, surtout si vous utilisez des phrases complexes ou des mots aléatoires."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Génère automatiquement des mots de passe forts et aléatoires",
+      "Stocke tous vos mots de passe dans un endroit sécurisé (souvent crypté)",
+      "Permet d’accéder à chaque mot de passe avec une clé unique (comme un mot de passe principal)",
+      "Fonctionne sur plusieurs appareils (ordinateur, téléphone, tablette)",
+      "Offre des alertes pour les mots de passe expirés ou vulnérables"
+     ]
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Fonctionnalité",
+      "Avantage"
+     ],
+     "lignes": [
+      [
+       "Génération automatique",
+       "Évite d’utiliser des mots faciles à deviner"
+      ],
+      [
+       "Synchronisation multi-appareils",
+       "Accès partout sans perdre vos données"
+      ],
+      [
+       "Cryptage fort",
+       "Protège vos données contre les accès non autorisés"
+      ]
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "« Un mot de passe fort n’est pas une garantie de sécurité. Un gestionnaire de mots de passe est le véritable allié pour gérer efficacement et en toute sécurité tous vos identifiants. »"
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Répartition des utilisateurs selon leur méthode de gestion des mots de passe",
+     "etiquettes": [
+      "Manuel",
+      "Gestionnaire de mot de passe",
+      "Application de sécurité"
+     ],
+     "series": [
+      {
+       "nom": "Utilisateurs",
+       "valeurs": [
+        30,
+        65,
+        5
+       ]
+      }
+     ]
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Mot de passe personnel",
+       "vers": "Gestionnaire de mots de passe"
+      },
+      {
+       "de": "Gestionnaire de mots de passe",
+       "vers": "Clé d’accès"
+      },
+      {
+       "de": "Gestionnaire de mots de passe",
+       "vers": "Appareil mobile"
+      },
+      {
+       "de": "Gestionnaire de mots de passe",
+       "vers": "Appareil de bureau"
+      },
+      {
+       "de": "Gestionnaire de mots de passe",
+       "vers": "Sauvegarde cloud"
+      },
+      {
+       "de": "Clé d’accès",
+       "vers": "Mot de passe principal"
+      },
+      {
+       "de": "Sauvegarde cloud",
+       "vers": "Synchronisation"
+      },
+      {
+       "de": "Appareil mobile",
+       "vers": "Accès rapide"
+      },
+      {
+       "de": "Appareil de bureau",
+       "vers": "Accès complet"
+      },
+      {
+       "de": "Accès rapide",
+       "vers": "Mot de passe web"
+      },
+      {
+       "de": "Accès complet",
+       "vers": "Mot de passe application"
+      },
+      {
+       "de": "Mot de passe web",
+       "vers": "Site internet"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "sécurité"
+    }
+   ]
+  }
+ ]
+}

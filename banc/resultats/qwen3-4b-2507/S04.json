@@ -1,0 +1,346 @@
+{
+ "type": "classeur",
+ "titre": "Planning d'entraînement de course à pied sur 4 semaines pour débutant",
+ "feuilles": [
+  {
+   "nom": "Planning d'entraînement - Semaine 1",
+   "colonnes": [
+    {
+     "nom": "Jour",
+     "format": "texte"
+    },
+    {
+     "nom": "Type d'activité",
+     "format": "texte"
+    },
+    {
+     "nom": "Durée (min)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Objectif principal",
+     "format": "texte"
+    },
+    {
+     "nom": "Note de bien-être",
+     "format": "nombre"
+    }
+   ],
+   "lignes": [
+    [
+     "Lundi",
+     "Marche rapide avec respiration profonde",
+     12,
+     "Activité cardiovasculaire initiale",
+     7
+    ],
+    [
+     "Mardi",
+     "Marche douce et respiration consciente",
+     10,
+     "Adaptation du rythme cardiaque",
+     8
+    ],
+    [
+     "Mercredi",
+     "Repos actif (marche libre)",
+     15,
+     "Rétablissement et récupération",
+     9
+    ],
+    [
+     "Jeudi",
+     "Marche rapide avec respiration profonde",
+     13,
+     "Renforcement de la capacité respiratoire",
+     7
+    ],
+    [
+     "Vendredi",
+     "Marche douce et respiration consciente",
+     10,
+     "Stabilisation du rythme",
+     8
+    ],
+    [
+     "Samedi",
+     "Repos complet",
+     null,
+     "Repos pour récupération",
+     10
+    ],
+    [
+     "Dimanche",
+     "Marche légère de 15 min",
+     15,
+     "Équilibre entre activité et repos",
+     8
+    ]
+   ],
+   "totaux": [],
+   "graphique": {
+    "forme": "barres",
+    "titre": "Répartition de la durée d'entraînement par jour",
+    "etiquettes": "Jour",
+    "valeurs": [
+     "Durée (min)"
+    ]
+   }
+  },
+  {
+   "nom": "Semaine 2 - Renforcement progressif",
+   "colonnes": [
+    {
+     "nom": "Jour",
+     "format": "texte"
+    },
+    {
+     "nom": "Type de séance",
+     "format": "texte"
+    },
+    {
+     "nom": "Durée (min)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Intensité",
+     "format": "pourcentage"
+    },
+    {
+     "nom": "Objectif",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Lundi",
+     "Course courte + marche",
+     5,
+     40,
+     "Développer la résistance cardiovasculaire"
+    ],
+    [
+     "Mardi",
+     "Marche rapide",
+     30,
+     60,
+     "Améliorer la capacité d'endurance à faible intensité"
+    ],
+    [
+     "Mercredi",
+     "Course de 5 min + marche de 10 min",
+     15,
+     50,
+     "Renforcer l'endurance en alternance"
+    ],
+    [
+     "Jeudi",
+     "Marche modérée",
+     40,
+     30,
+     "Rétablir le rythme cardiaque après séance intense"
+    ],
+    [
+     "Vendredi",
+     "Course de 3 min + marche de 5 min",
+     8,
+     60,
+     "Accroître la capacité de réaction et de récupération"
+    ],
+    [
+     "Samedi",
+     "Marche à vitesse constante",
+     45,
+     20,
+     "Stabiliser le rythme de base"
+    ],
+    [
+     "Dimanche",
+     "Jour de repos",
+     0,
+     0,
+     "Récupération complète"
+    ]
+   ],
+   "totaux": [],
+   "graphique": {
+    "forme": "barres",
+    "titre": "Répartition des séances par jour",
+    "etiquettes": "Jour",
+    "valeurs": [
+     "Durée (min)"
+    ]
+   }
+  },
+  {
+   "nom": "Semaine 3 - Durée et intensité",
+   "colonnes": [
+    {
+     "nom": "Jour",
+     "format": "texte"
+    },
+    {
+     "nom": "Durée (min)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Intensité",
+     "format": "texte"
+    },
+    {
+     "nom": "Pause entre séances (min)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Objectif de la séance",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Lundi",
+     10,
+     "Modérée",
+     5,
+     "Commencer avec une séance douce pour s'habituer à la marche rapide"
+    ],
+    [
+     "Mardi",
+     12,
+     "Modérée",
+     4,
+     "Progression progressive avec pauses régulières"
+    ],
+    [
+     "Mercredi",
+     15,
+     "Modérée",
+     6,
+     "Séance plus longue avec alternance de course et marche"
+    ],
+    [
+     "Jeudi",
+     10,
+     "Modérée",
+     5,
+     "Pause pour récupération, révision des techniques"
+    ],
+    [
+     "Vendredi",
+     18,
+     "Modérée",
+     7,
+     "Augmenter la durée tout en gardant une intensité contrôlée"
+    ],
+    [
+     "Samedi",
+     20,
+     "Modérée",
+     8,
+     "Séance complète à 20 minutes avec pauses régulières"
+    ],
+    [
+     "Dimanche",
+     0,
+     "Repos",
+     0,
+     "Jour de repos pour récupération"
+    ]
+   ],
+   "totaux": [],
+   "graphique": {
+    "forme": "barres",
+    "titre": "Durée des séances par jour",
+    "etiquettes": "Jour",
+    "valeurs": [
+     "Durée (min)"
+    ]
+   }
+  },
+  {
+   "nom": "Semaine 4 - Consolidação et objectif",
+   "colonnes": [
+    {
+     "nom": "Jour",
+     "format": "texte"
+    },
+    {
+     "nom": "Type d'entraînement",
+     "format": "texte"
+    },
+    {
+     "nom": "Durée (min)",
+     "format": "nombre"
+    },
+    {
+     "nom": "Intensité",
+     "format": "texte"
+    },
+    {
+     "nom": "Objectif de la séance",
+     "format": "texte"
+    }
+   ],
+   "lignes": [
+    [
+     "Lundi",
+     "Course à pied modérée",
+     25,
+     "Modérée",
+     "Consolider la régularité et la respiration"
+    ],
+    [
+     "Mardi",
+     "Pause et réflexion",
+     0,
+     "Pas d'effort",
+     "Évaluation des progrès réalisés"
+    ],
+    [
+     "Mercredi",
+     "Course à pied modérée",
+     25,
+     "Modérée",
+     "Renforcer la endurance et la confiance en soi"
+    ],
+    [
+     "Jeudi",
+     "Pause et réflexion",
+     0,
+     "Pas d'effort",
+     "Analyse des sensations corporelles et des performances"
+    ],
+    [
+     "Vendredi",
+     "Course à pied modérée",
+     25,
+     "Modérée",
+     "Soutenir la cohérence du rythme hebdomadaire"
+    ],
+    [
+     "Samedi",
+     "Pause et réflexion",
+     0,
+     "Pas d'effort",
+     "Fixation des objectifs futurs"
+    ],
+    [
+     "Dimanche",
+     "Course à pied modérée",
+     25,
+     "Modérée",
+     "Finaliser la progression et préparer la semaine suivante"
+    ]
+   ],
+   "totaux": [],
+   "graphique": {
+    "forme": "barres",
+    "titre": "Répartition des séances par jour",
+    "etiquettes": "Jour",
+    "valeurs": [
+     "Durée (min)"
+    ]
+   }
+  }
+ ]
+}
