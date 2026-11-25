@@ -1,0 +1,215 @@
+{
+ "type": "document",
+ "titre": "Bilan commercial de la boulangerie Le Fournil - Première moitié 2026",
+ "sections": [
+  {
+   "titre": "Chiffres d'affaires mensuels",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Les ventes mensuelles ont montré une progression régulière au cours du premier semestre 2026, avec une augmentation progressive du chiffre d'affaires, atteignant un pic en avril avant une légère baisse en juin."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Mois",
+      "Chiffre d'affaires (en euros)"
+     ],
+     "lignes": [
+      [
+       "Janvier",
+       "38 200"
+      ],
+      [
+       "Février",
+       "35 900"
+      ],
+      [
+       "Mars",
+       "41 300"
+      ],
+      [
+       "Avril",
+       "43 800"
+      ],
+      [
+       "Mai",
+       "46 100"
+      ],
+      [
+       "Juin",
+       "44 700"
+      ]
+     ]
+    },
+    {
+     "type": "graphique",
+     "forme": "barres",
+     "titre": "Chiffre d'affaires mensuel (2026)",
+     "etiquettes": [
+      "Janvier",
+      "Février",
+      "Mars",
+      "Avril",
+      "Mai",
+      "Juin"
+     ],
+     "series": [
+      {
+       "nom": "Chiffre d'affaires (€)",
+       "valeurs": [
+        38200,
+        35900,
+        41300,
+        43800,
+        46100,
+        44700
+       ]
+      }
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "Le total du semestre atteint 250 000 euros, en hausse de 7 % par rapport au premier semestre 2025."
+    }
+   ]
+  },
+  {
+   "titre": "Répartition des produits vendus",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "La structure des ventes est dominée par le pain, qui représente la moitié des ventes, suivie de la viennoiserie et de la pâtisserie."
+    },
+    {
+     "type": "tableau",
+     "entetes": [
+      "Catégorie",
+      "Part des ventes (%)"
+     ],
+     "lignes": [
+      [
+       "Pain",
+       "52"
+      ],
+      [
+       "Viennoiserie",
+       "28"
+      ],
+      [
+       "Pâtisserie",
+       "15"
+      ],
+      [
+       "Boissons",
+       "5"
+      ]
+     ]
+    },
+    {
+     "type": "graphique",
+     "forme": "camembert",
+     "titre": "Répartition des ventes par catégorie",
+     "etiquettes": [
+      "Pain",
+      "Viennoiserie",
+      "Pâtisserie",
+      "Boissons"
+     ],
+     "series": [
+      {
+       "nom": "Part des ventes (%)",
+       "valeurs": [
+        52,
+        28,
+        15,
+        5
+       ]
+      }
+     ]
+    },
+    {
+     "type": "citation",
+     "texte": "La hausse de mai s'explique par le lancement d'une gamme de sandwichs le midi."
+    }
+   ]
+  },
+  {
+   "titre": "Facteurs clés de performance",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "L'évolution du chiffre d'affaires est influencée par des facteurs internes comme la mise en place de nouveaux produits et des variations des coûts de production."
+    },
+    {
+     "type": "liste",
+     "elements": [
+      "Lancement de gamme de sandwichs en mai",
+      "Augmentation du coût de la farine de 11 % sur un an",
+      "Embauche d'un apprenti en avril"
+     ],
+     "ordonnee": true
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Lancement de gamme de sandwichs",
+       "vers": "hausse de mai"
+      },
+      {
+       "de": "Augmentation du coût de la farine",
+       "vers": "impact sur les marges"
+      },
+      {
+       "de": "Embauche d'un apprenti",
+       "vers": "augmentation du personnel à 7 salariés"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "croissance"
+    }
+   ]
+  },
+  {
+   "titre": "Analyse des tendances",
+   "blocs": [
+    {
+     "type": "paragraphe",
+     "texte": "Le semestre s'est caractérisé par une progression continue du chiffre d'affaires, avec un pic en mai, qui a été soutenu par la diversification des offres alimentaires."
+    },
+    {
+     "type": "schema",
+     "liens": [
+      {
+       "de": "Mai",
+       "vers": "sandwichs"
+      },
+      {
+       "de": "Avril",
+       "vers": "chiffre d'affaires élevé"
+      },
+      {
+       "de": "Juin",
+       "vers": "retour à la moyenne"
+      },
+      {
+       "de": "Pain",
+       "vers": "base des ventes"
+      },
+      {
+       "de": "Farine",
+       "vers": "coût de production"
+      }
+     ]
+    },
+    {
+     "type": "icone",
+     "mot_cle": "tendance"
+    }
+   ]
+  }
+ ]
+}
