@@ -1,0 +1,66 @@
+{
+ "type": "presentation",
+ "titre": "Résultats de l'enquête",
+ "diapositives": [
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Satisfaction",
+   "chiffre": "82 %",
+   "legende": "satisfaits ou très satisfaits"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Mécontentement",
+   "points": [
+    "61 % veulent ouverture dimanche",
+    "47 % demandent plus de places assises"
+   ]
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Utilisation des services",
+   "gauche": {
+    "titre": "Jeux vidéo",
+    "points": [
+     "34 % des 15-25 ans"
+    ]
+   },
+   "droite": {
+    "titre": "Accueil",
+    "points": [
+     "Note moyenne : 8,4/10"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "Le dimanche, c’est le premier souci."
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Prochaines actions",
+   "image": {
+    "type": "schema",
+    "liens": [
+     {
+      "de": "Horaires",
+      "vers": "Dimanche"
+     },
+     {
+      "de": "Wifi",
+      "vers": "Amélioration"
+     },
+     {
+      "de": "Places",
+      "vers": "Ajout"
+     }
+    ]
+   },
+   "points": [
+    "Ouverture dimanche expérimentale",
+    "Meilleur wifi",
+    "Plus de places assises"
+   ]
+  }
+ ]
+}
