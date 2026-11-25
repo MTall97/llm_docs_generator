@@ -1,0 +1,82 @@
+{
+ "type": "presentation",
+ "titre": "Comparaison des offres de logiciel",
+ "diapositives": [
+  {
+   "mise_en_page": "titre",
+   "titre": "Choix du logiciel de comptabilité"
+  },
+  {
+   "mise_en_page": "deux_colonnes",
+   "titre": "Coût sur 3 ans",
+   "gauche": {
+    "titre": "Offre A (ComptaPlus)",
+    "points": [
+     "49 €/mois par utilisateur",
+     "6 utilisateurs → 294 €/mois",
+     "Total : 11 784 € sur 3 ans"
+    ]
+   },
+   "droite": {
+    "titre": "Offre B (LedgerPro)",
+    "points": [
+     "Licence annuelle : 3 600 € (1ère année)",
+     "Maintenance : 900 €/an",
+     "Total : 5 400 € sur 3 ans"
+    ]
+   }
+  },
+  {
+   "mise_en_page": "chiffre_cle",
+   "titre": "Économie",
+   "chiffre": "6 384 €",
+   "legende": "sur 3 ans avec l'offre B"
+  },
+  {
+   "mise_en_page": "points",
+   "titre": "Avantages techniques",
+   "points": [
+    "A : hébergement cloud, mises à jour automatiques",
+    "B : installation sur serveurs, assistance téléphonique"
+   ]
+  },
+  {
+   "mise_en_page": "citation",
+   "texte": "L'équipe informatique préfère l'offre A pour éviter la maintenance des serveurs."
+  },
+  {
+   "mise_en_page": "image_texte",
+   "titre": "Répartition des coûts sur 3 ans",
+   "image": {
+    "type": "graphique",
+    "forme": "barres",
+    "titre": "Coût total (en €)",
+    "etiquettes": [
+     "Offre A",
+     "Offre B"
+    ],
+    "series": [
+     {
+      "nom": "Offre A",
+      "valeurs": [
+       11784,
+       0
+      ]
+     },
+     {
+      "nom": "Offre B",
+      "valeurs": [
+       5400,
+       0
+      ]
+     }
+    ],
+    "legende": "Coût total sur 3 ans"
+   },
+   "points": [
+    "Migration incluse dans B",
+    "Aucun coût de serveurs pour A"
+   ]
+  }
+ ]
+}
