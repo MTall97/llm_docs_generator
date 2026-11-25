@@ -54,3 +54,14 @@ qwen3-4b-2507,P04,🟡,Chiffres exacts ; citation inventée (« Le dimanche, c'e
 qwen3-4b-2507,C01,❌,64 personnes et prix du car par personne justes, mais 4 nuits et 5 jours oubliés : total faux ; part des familles vide.
 qwen3-4b-2507,C02,✅,Quantités, prix, formule et total exacts.
 qwen3-4b-2507,C03,❌,Formule « {Contrôle 1} + {Contrôle 2} + {Devoir maison} / 3 » sans parenthèses : moyennes fausses.
+qwen3-4b-2507-deux-temps,T01,🟡,Complet et exact (toutes les rubriques) ; graphiques à une seule valeur ; « bonne réactivité du personnel » ajouté.
+qwen3-4b-2507-deux-temps,T02,🟡,Étapes exactes ; graphiques inutiles (2 et 4 cm, camembert d'une valeur) ; « pour éviter les maladies » ajouté.
+qwen3-4b-2507-deux-temps,T03,❌,Tout est exact et le pic est bien en mai, mais graphique « 2025 : 233 ; 2026 : 250 (en euros) » : valeur 2025 calculée et unité fausse.
+qwen3-4b-2507-deux-temps,T04,❌,Procédure exacte, mais graphiques inventés (délais de vérification 1 et 2 jours ; répartition des frais 60/40).
+qwen3-4b-2507-deux-temps,P01,🟡,Exact, solde de 5 000 € juste ; détail des recettes, points faibles et projet 2027 absents.
+qwen3-4b-2507-deux-temps,P02,❌,Diapositives exactes (97 %, 3 %, deux tiers gelés) mais graphique « étapes du cycle » aux valeurs inventées.
+qwen3-4b-2507-deux-temps,P03,✅,Comparaison complète et exacte, avec la préférence de l'équipe et la date de décision.
+qwen3-4b-2507-deux-temps,P04,🟡,Chiffres exacts ; graphique à une barre ; un chiffre présenté comme une citation.
+qwen3-4b-2507-deux-temps,C01,❌,Formule à trois facteurs (personnes × prix × durée) mais durées écrites en texte (« 4 nuits ») : erreur dans Excel ; car multiplié par 64.
+qwen3-4b-2507-deux-temps,C02,✅,Quantités, prix, formule et total exacts.
+qwen3-4b-2507-deux-temps,C03,❌,Même formule sans parenthèses qu'en un temps : moyennes fausses.
