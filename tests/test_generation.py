@@ -41,3 +41,9 @@ def test_plan_puis_redaction(gen):
     p.donnees["parties"] = p.donnees["parties"][:2]
     r = gen.rediger(p.donnees, "document", max_jetons=600)
     assert r.donnees and r.donnees["sections"]
+
+
+def test_deux_temps(gen):
+    r = gen.depuis_texte(TEXTE, "document", deux_temps=True, max_jetons=1200)
+    assert r.etapes and r.etapes[0]["faits"]["faits"]   # étape 1 : liste de faits
+    assert r.donnees is not None, r.erreur

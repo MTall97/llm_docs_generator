@@ -4,8 +4,9 @@ Expérience : un **petit modèle de langage qui tourne sur CPU** (et, plus tard,
 produire des documents **Markdown, PDF, PowerPoint et Excel** à partir d'un texte ou d'un sujet ?
 
 Réponse courte, mesurée plus bas : **oui pour la mise en forme d'un texte fourni, avec un modèle de
-3 milliards de paramètres et de la patience ; non pour rédiger un contenu fiable à partir d'un simple
-sujet.** Le résultat n'est pas comparable à celui d'un grand modèle : voir « Ce qui ne marche pas ».
+3 à 4 milliards de paramètres, de la patience et une relecture systématique (5 sorties sur 11 contiennent
+encore une erreur) ; non pour rédiger un contenu fiable à partir d'un simple sujet.** Ni le Qwen3-4B ni une
+consigne en deux temps (extraire les faits, puis les mettre en forme) n'ont réduit ce taux d'erreur. Le résultat n'est pas comparable à celui d'un grand modèle : voir « Ce qui ne marche pas ».
 
 ## Principe
 
@@ -109,6 +110,10 @@ Mode « transformer un texte fourni » (le plus fiable) :
 python -m docgen texte compte_rendu.txt -s presentation -m modeles/qwen2.5-3b-instruct-q4_k_m.gguf -o sortie/cr
 ```
 
+Variante « consigne en deux temps » (`--deux-temps`) : le modèle extrait d'abord la liste des faits du
+texte, chiffres recopiés avec leur unité, puis met en forme cette liste. Elle double le temps de calcul,
+pour un gain qui n'est pas démontré (voir « Qwen3-4B et consigne en deux temps »).
+
 Mode « sujet seul », en deux étapes : le modèle propose un plan, vous le modifiez, puis il rédige partie
 par partie :
 
@@ -135,11 +140,11 @@ Le JSON produit est toujours enregistré (`sortie/cr.json`) : on peut le corrige
 python -m pytest -q
 ```
 
-- `tests/test_rendu.py` (27 tests, sans modèle) : chaque JSON d'exemple → chaque format, fichiers
+- `tests/test_rendu.py` (28 tests, sans modèle) : chaque JSON d'exemple → chaque format, fichiers
   relus (PDF, PPTX, XLSX), formules et totaux, graphiques natifs, modèle PowerPoint de l'utilisateur,
   conversion Mermaid, icônes, images en échec, validation, nettoyage. Le recalcul LibreOffice est
   ignoré si `soffice` est absent.
-- `tests/test_generation.py` (4 tests) : ignorés si llama-cpp-python ou le modèle sont absents
+- `tests/test_generation.py` (5 tests, dont la consigne en deux temps) : ignorés si llama-cpp-python ou le modèle sont absents
   (`modeles/qwen2.5-0.5b-instruct-q4_k_m.gguf` ou variable `DOCGEN_MODELE_TEST`).
 
 ## Résultats mesurés
@@ -204,6 +209,47 @@ Conditions : Qwen2.5-Instruct 0.5B / 1.5B / 3B en GGUF Q4_K_M, CPU 4 cœurs, 15 
 (Claude, GPT-4…), qui fait ce travail sans erreur de ce type dans la grande majorité des cas. Ce dépôt ne
 mesure pas les grands modèles : le seul point de comparaison donné ici est la relecture ci-dessus.
 
+### Qwen3-4B et consigne en deux temps (ajouté le 25/11/2026)
+
+Deux idées testées sur les 11 demandes « texte fourni », avec la même grille de relecture :
+- **un modèle plus récent et plus grand** : [Qwen3-4B-Instruct-2507](https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF), en GGUF Q4_K_M (quantification Unsloth ; Qwen ne publie pas de GGUF de cette version) ;
+- **la consigne en deux temps** (`--deux-temps`) : 1) extraire les faits, 2) mettre en forme la liste des faits au lieu du texte brut.
+
+| | Qwen2.5-3B, un temps | Qwen2.5-3B, deux temps | Qwen3-4B, un temps | Qwen3-4B, deux temps |
+|---|---|---|---|---|
+| Mémoire max | 4,3 Go | 4,3 Go | 6,3 Go | 6,3 Go |
+| Vitesse | 7,4 jetons/s | 6,0 jetons/s | 5,1 jetons/s | 4,9 jetons/s |
+| Temps médian, texte → document / présentation / classeur | 65 / 49 / 36 s | 164 / 127 / 105 s | 190 / 92 / 75 s | 299 / 184 / 172 s |
+| JSON conforme / fichiers produits | 11/11 / 11/11 | 10/11 / 11/11 | 11/11 / 11/11 | 11/11 / 11/11 |
+| Chiffres de la source repris (auto.) | 85 % | 71 % | 76 % | 89 % |
+| Relecture : ✅ / 🟡 / ❌ | 2 / 4 / **5** | 1 / 2 / **8** | 1 / 4 / **6** | 2 / 4 / **5** |
+
+**Réponse : ni le Qwen3-4B ni la consigne en deux temps ne règlent le problème.** Avec 11 demandes et un
+seul passage chacune, un écart d'une ou deux sorties reste dans le bruit. Les meilleures configurations
+restent à 5 sorties fausses sur 11. Constats :
+
+- **L'extraction des faits fonctionne.** Même le Qwen2.5-3B rattache chaque chiffre au bon objet, avec son
+  unité (« 31 euros par personne et par nuit pour 64 personnes »). Les erreurs viennent de l'étape
+  suivante : construire un tableau ou un graphique demande de raisonner, et c'est là que le modèle se trompe.
+- **Le Qwen3-4B écrit plus** : sorties 1,5 à 3 fois plus longues, plus complètes (en deux temps, T01
+  couvre enfin toutes les rubriques), et tous ses calculs de tête sont justes (solde de 5 000 €,
+  6 × 49 € = 294 €, économie de 6 384 €). Mais il ajoute aussi davantage : conseils non sourcés, citations
+  inventées, et surtout **des graphiques aux valeurs inventées** (délais de « 1 jour », cycle de l'eau
+  chiffré 1-2-3), la première cause de ❌ pour ce modèle.
+- **Le budget C01 reste faux partout.** Le Qwen3-4B en deux temps est le plus proche : sa formule multiplie
+  personnes × prix × durée, mais il écrit les durées en texte (« 4 nuits », d'où une erreur dans Excel) et
+  multiplie le car, déjà payé pour tout le groupe, par 64.
+- **La formule de moyenne** du Qwen3-4B (`{Contrôle 1} + {Contrôle 2} + {Devoir maison} / 3`) oublie les
+  parenthèses dans les deux modes.
+- **Le Qwen2.5-3B fait moins bien en deux temps** (8 sur 11 fausses) : la liste de faits lui fait perdre le
+  fil du texte (fiche T02 réduite à une phrase, boucle dans le sous-titre de P02), et il recalcule de tête
+  au lieu d'écrire des formules (C01).
+- **Le coût en temps** : la consigne en deux temps double ou triple le temps, et le Qwen3-4B en deux temps
+  met 3 à 5 minutes par document sur 4 cœurs.
+
+Détail et justification de chaque note : [`banc/RESULTATS.md`](banc/RESULTATS.md) ; faits extraits :
+`banc/resultats/*-deux-temps/*_faits.json`.
+
 ### Corrections mécaniques (`docgen/nettoyage.py`)
 
 Elles réparent la forme, jamais le contenu, et sont toutes signalées à l'utilisateur :
@@ -240,14 +286,15 @@ L'intégration serait simple (un bloc `illustration` avec une invite), si l'on a
 ### Recommandation
 
 - **Pour un usage réel sur PC** :
-  - le **3B en mode « texte fourni »**, avec relecture systématique, surtout des chiffres calculés et des graphiques ;
-  - images limitées aux graphiques tirés de la source (`--sans-images` sinon) ;
-  - de préférence, le modèle n'écrit que le texte, et les tableaux chiffrés sont saisis ou vérifiés par l'utilisateur dans le JSON.
-- **Pistes non testées ici** :
-  - Qwen3 ou d'autres modèles de 3 à 4B ;
-  - une quantification Q5/Q8 du 3B ;
-  - une consigne qui demande d'abord d'extraire les faits du texte, puis de les mettre en forme ;
-  - un affinage (*fine-tuning*) du 1.5B sur des paires texte → JSON.
+  - le **Qwen2.5-3B en un temps, en mode « texte fourni »** : aussi juste que le Qwen3-4B, 2 à 3 fois plus rapide, avec 2 Go de mémoire en moins ;
+  - **`--sans-images`**, sauf quand la source contient une vraie série de chiffres : les graphiques inventés sont la première source d'erreurs ;
+  - relecture systématique, surtout des calculs et des tableaux chiffrés ; de préférence, l'utilisateur saisit ou vérifie ces tableaux dans le JSON.
+- **Pistes suggérées par ces essais, non testées** :
+  - n'autoriser un graphique que si l'étape « faits » a trouvé une série d'au moins trois chiffres de même unité (règle déterministe, sans IA) ;
+  - garder l'extraction des faits, qui fonctionne, et confier la construction des tableaux à du code plutôt qu'au modèle ;
+  - donner au modèle des fonctions plutôt que des opérateurs (`MOYENNE({A}; {B}; {C})`) pour éviter les erreurs de priorité ;
+  - un affinage (*fine-tuning*) sur des paires texte → JSON ;
+  - une quantification Q5/Q8, et un nombre de passages suffisant pour mesurer la variabilité.
 
 ## Piste téléphone (non réalisée)
 

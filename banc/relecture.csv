@@ -65,3 +65,14 @@ qwen3-4b-2507-deux-temps,P04,🟡,Chiffres exacts ; graphique à une barre ; un 
 qwen3-4b-2507-deux-temps,C01,❌,Formule à trois facteurs (personnes × prix × durée) mais durées écrites en texte (« 4 nuits ») : erreur dans Excel ; car multiplié par 64.
 qwen3-4b-2507-deux-temps,C02,✅,Quantités, prix, formule et total exacts.
 qwen3-4b-2507-deux-temps,C03,❌,Même formule sans parenthèses qu'en un temps : moyennes fausses.
+qwen2.5-3b-deux-temps,T01,🟡,Exact mais cantine absente ; schémas sans signification (« Prochain conseil → Sorties »).
+qwen2.5-3b-deux-temps,T02,❌,Un seul paragraphe, et faux : « les billes doivent mesurer 3 centimètres » (c'est la couche).
+qwen2.5-3b-deux-temps,T03,❌,Tableau exact mais graphique « coût de la farine » inventé (2025 : 100 ; 2026 : 111).
+qwen2.5-3b-deux-temps,T04,🟡,Étapes exactes (délai de 30 jours omis) ; schéma absurde (boucles d'un nœud sur lui-même).
+qwen2.5-3b-deux-temps,P01,❌,Graphique « évolution des sections » qui montre en fait les recettes en milliers.
+qwen2.5-3b-deux-temps,P02,❌,Une seule diapositive ; sous-titre qui boucle (« Atelier du samedi 15 juillet 2023 - Atelier de collège… »).
+qwen2.5-3b-deux-temps,P03,❌,Graphique « coût par an » avec 49 et 49 (prix mensuel) ; total de l'offre B absent.
+qwen2.5-3b-deux-temps,P04,❌,Chiffres exacts mais graphique « avant / après » inventé.
+qwen2.5-3b-deux-temps,C01,❌,Montants calculés de tête et faux (hébergement 43 164 € au lieu de 7 936 €) ; aucune formule.
+qwen2.5-3b-deux-temps,C02,✅,Quantités, prix, formule et total exacts.
+qwen2.5-3b-deux-temps,C03,❌,Formule de moyenne juste (avec parenthèses) mais colonne au format pourcentage (1 400 %).

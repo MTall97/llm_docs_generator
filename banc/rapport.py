@@ -7,7 +7,8 @@ import statistics as st
 from pathlib import Path
 
 RACINE = Path(__file__).resolve().parent
-ORDRE = ["qwen2.5-0.5b", "qwen2.5-0.5b-sans-exemple", "qwen2.5-1.5b", "qwen2.5-3b"]
+ORDRE = ["qwen2.5-0.5b", "qwen2.5-0.5b-sans-exemple", "qwen2.5-1.5b", "qwen2.5-3b", "qwen2.5-3b-deux-temps",
+         "qwen3-4b-2507", "qwen3-4b-2507-deux-temps"]
 
 
 def _f(v):
@@ -16,6 +17,11 @@ def _f(v):
 
 def _pct(x):
     return "–" if x is None else f"{100 * x:.0f} %"
+
+
+def _med(vals, fmt="{:.0f} s"):
+    vals = [v for v in vals if v is not None]
+    return fmt.format(st.median(vals)) if vals else "–"
 
 
 def _moy(vals):
@@ -51,6 +57,8 @@ def main():
     ligne("Taille du fichier", lambda m: f"{machines[m]['fichier_mo']} Mo")
     ligne("Mémoire max du processus", lambda m: f"{machines[m]['memoire_max_mo']} Mo")
     ligne("Chargement du modèle", lambda m: f"{machines[m]['chargement_s']} s")
+    ligne("Consigne", lambda m: "deux temps" if m.endswith("deux-temps") else
+          ("un temps, sans exemple" if m.endswith("sans-exemple") else "un temps"))
     ligne("JSON valide (structure du schéma)",
           lambda m: f"{sum(l['json_valide'] == 'True' for l in lignes[m])}/{len(lignes[m])}")
     ligne("Fichiers produits", lambda m: f"{sum(l['rendu_ok'] == 'True' for l in lignes[m])}/{len(lignes[m])}")
@@ -59,12 +67,12 @@ def main():
     ligne("Corrections mécaniques (moyenne)", lambda m: f"{_moy([_f(l['corrections']) for l in lignes[m]]):.1f}")
     ligne("Recopie de l'exemple de la consigne (demandes touchées)",
           lambda m: str(sum((_f(l.get("recopie_exemple")) or 0) > 0 for l in lignes[m])))
-    ligne("Vitesse (jetons produits / s, médiane)", lambda m: f"{st.median(_f(l['jetons_par_s']) for l in lignes[m]):.1f}")
+    ligne("Vitesse (jetons produits / s, médiane)", lambda m: _med([_f(l['jetons_par_s']) for l in lignes[m]], "{:.1f}"))
     for sorte in ("document", "presentation", "classeur"):
         ligne(f"Temps médian, {sorte} depuis un texte",
-              lambda m, s=sorte: f"{st.median([_f(l['secondes']) for l in lignes[m] if l['sorte'] == s and l['mode'] == 'texte']):.0f} s")
+              lambda m, s=sorte: _med([_f(l['secondes']) for l in lignes[m] if l['sorte'] == s and l['mode'] == 'texte']))
     ligne("Temps médian, sujet seul (plan + parties)",
-          lambda m: f"{st.median([_f(l['secondes']) for l in lignes[m] if l['mode'] == 'sujet']):.0f} s")
+          lambda m: _med([_f(l['secondes']) for l in lignes[m] if l['mode'] == 'sujet']))
     texte = lambda m: [l for l in lignes[m] if l["mode"] == "texte" and l["json_valide"] == "True"]
     ligne("Fidélité auto. : chiffres absents de la source (moyenne)", lambda m: _pct(_moy([_f(l["chiffres_inventes"]) for l in texte(m)])))
     ligne("Couverture : chiffres de la source repris (moyenne)", lambda m: _pct(_moy([_f(l["chiffres_repris"]) for l in texte(m)])))
